@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073258426562678784",
+        "3_2073258426562727936"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073258436947824647",
+    "created_at": "2026-07-04T04:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073258436947824647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2063574393201311745",
+          "start": 2,
+          "username": "zhoushashaff9n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QfK89TfRIO",
+          "end": 41,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2073258436947824647/photo/1",
+          "media_key": "3_2073258426562678784",
+          "start": 18,
+          "url": "https://t.co/QfK89TfRIO"
+        },
+        {
+          "display_url": "pic.x.com/QfK89TfRIO",
+          "end": 41,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2073258436947824647/photo/1",
+          "media_key": "3_2073258426562727936",
+          "start": 18,
+          "url": "https://t.co/QfK89TfRIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073258436947824647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哼哼@zhoushashaff9n https://t.co/QfK89TfRIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2073258426562678784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWxjerakAAQW6m.jpg",
+        "width": 1925
+      },
+      {
+        "height": 1549,
+        "media_key": "3_2073258426562727936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWxjerbUAAdJYZ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073258426562678784",
+            "3_2073258426562727936"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073258436947824647",
+        "created_at": "2026-07-04T04:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073258436947824647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2063574393201311745",
+              "start": 2,
+              "username": "zhoushashaff9n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QfK89TfRIO",
+              "end": 41,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2073258436947824647/photo/1",
+              "media_key": "3_2073258426562678784",
+              "start": 18,
+              "url": "https://t.co/QfK89TfRIO"
+            },
+            {
+              "display_url": "pic.x.com/QfK89TfRIO",
+              "end": 41,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2073258436947824647/photo/1",
+              "media_key": "3_2073258426562727936",
+              "start": 18,
+              "url": "https://t.co/QfK89TfRIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073258436947824647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哼哼@zhoushashaff9n https://t.co/QfK89TfRIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 421,
+          "like_count": 3229,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:52:00.000Z",
+        "description": "sasioverlxrd",
+        "id": "2063574393201311745",
+        "name": "當不了你的天使該怎麼說謊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063830903596748800/5CJyAve0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "zhoushashaff9n",
+        "verified": false
+      }
+    ]
+  }
+}

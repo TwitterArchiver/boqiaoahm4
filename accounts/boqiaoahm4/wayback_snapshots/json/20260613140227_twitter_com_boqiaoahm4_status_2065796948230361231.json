@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065755977157398897",
+    "created_at": "2026-06-13T14:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065796948230361231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601798366714908672",
+          "start": 0,
+          "username": "ranhuauu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065796948230361231",
+    "in_reply_to_user_id": "1601798366714908672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065755977157398897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranhuauu 不会被雾气打湿吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065755977157398897",
+        "created_at": "2026-06-13T14:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065796948230361231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601798366714908672",
+              "start": 0,
+              "username": "ranhuauu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065796948230361231",
+        "in_reply_to_user_id": "1601798366714908672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065755977157398897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranhuauu 不会被雾气打湿吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601798366714908672",
+        "conversation_id": "2065755977157398897",
+        "created_at": "2026-06-13T11:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065755977157398897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065755977157398897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "边洗澡边抽烟好舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 361,
+          "like_count": 1655,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1190
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T04:39:16.000Z",
+        "description": "人活著就是為了割手 犯病 崩潰 孤獨 自卑 自殘 自戀 自慰 自殺 嗑藥 ｜歡迎光臨｜中焦重抑 雙向 PTSD 割手 嗑藥 成分複雜｜ 歡迎和我互fo 就讓我們化學極樂 逃離痛苦的世界",
+        "id": "1601798366714908672",
+        "location": "極樂世界",
+        "name": "蚺華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052071943541817344/7iKMlWNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 107,
+          "like_count": 4760,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1196
+        },
+        "username": "ranhuauu",
+        "verified": false
+      }
+    ]
+  }
+}

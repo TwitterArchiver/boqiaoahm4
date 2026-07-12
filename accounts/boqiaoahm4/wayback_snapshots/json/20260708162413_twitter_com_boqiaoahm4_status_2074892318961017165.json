@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074433282201038848"
+      ],
+      "media_source_tweet_id": [
+        "2074433284872827048"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2074892318961017165",
+    "created_at": "2026-07-08T16:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074892318961017165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3316704795",
+          "start": 3,
+          "username": "deadsyntax777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tM91w5pBcy",
+          "end": 42,
+          "expanded_url": "https://x.com/deadsyntax777/status/2074433284872827048/photo/1",
+          "media_key": "3_2074433282201038848",
+          "start": 19,
+          "url": "https://t.co/tM91w5pBcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074892318961017165",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 450
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074433284872827048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deadsyntax777: https://t.co/tM91w5pBcy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2074433282201038848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMneFE_XMAA-rBh.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074433282201038848"
+          ],
+          "media_source_tweet_id": [
+            "2074433284872827048"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2074892318961017165",
+        "created_at": "2026-07-08T16:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074892318961017165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3316704795",
+              "start": 3,
+              "username": "deadsyntax777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tM91w5pBcy",
+              "end": 42,
+              "expanded_url": "https://x.com/deadsyntax777/status/2074433284872827048/photo/1",
+              "media_key": "3_2074433282201038848",
+              "start": 19,
+              "url": "https://t.co/tM91w5pBcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074892318961017165",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 450
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074433284872827048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deadsyntax777: https://t.co/tM91w5pBcy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074433282201038848"
+          ]
+        },
+        "author_id": "3316704795",
+        "conversation_id": "2074433284872827048",
+        "created_at": "2026-07-07T10:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074433284872827048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tM91w5pBcy",
+              "end": 23,
+              "expanded_url": "https://x.com/deadsyntax777/status/2074433284872827048/photo/1",
+              "media_key": "3_2074433282201038848",
+              "start": 0,
+              "url": "https://t.co/tM91w5pBcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074433284872827048",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 29440,
+          "like_count": 1379,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tM91w5pBcy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 432,
+          "like_count": 3544,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-10T04:53:15.000Z",
+        "description": "DEAD SYNTAX 𒐤 \ncurated by @ra_suaine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "ra_suaine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deadsyntax.net",
+                "end": 23,
+                "expanded_url": "http://deadsyntax.net",
+                "start": 0,
+                "url": "https://t.co/jDK4cikXTg"
+              }
+            ]
+          }
+        },
+        "id": "3316704795",
+        "name": "𒐪",
+        "pinned_tweet_id": "2071171797932745075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066592359232454656/3k6zzArc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42951,
+          "following_count": 3,
+          "like_count": 749,
+          "listed_count": 474,
+          "media_count": 6509,
+          "tweet_count": 7177
+        },
+        "url": "https://t.co/jDK4cikXTg",
+        "username": "deadsyntax777",
+        "verified": true
+      }
+    ]
+  }
+}

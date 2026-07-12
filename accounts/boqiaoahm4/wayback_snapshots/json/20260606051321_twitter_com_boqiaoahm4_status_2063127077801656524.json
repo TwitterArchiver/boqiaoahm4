@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063127065755602944"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063127077801656524",
+    "created_at": "2026-06-06T05:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063127077801656524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFCI7Fop3k",
+          "end": 54,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2063127077801656524/photo/1",
+          "media_key": "3_2063127065755602944",
+          "start": 31,
+          "url": "https://t.co/rFCI7Fop3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063127077801656524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个是甜口的薄荷 还有点辛辣 然后巧克力是代可可脂 一般一般 https://t.co/rFCI7Fop3k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063127065755602944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGzIqjbUAAAf5z.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063127065755602944"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063127077801656524",
+        "created_at": "2026-06-06T05:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063127077801656524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFCI7Fop3k",
+              "end": 54,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2063127077801656524/photo/1",
+              "media_key": "3_2063127065755602944",
+              "start": 31,
+              "url": "https://t.co/rFCI7Fop3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063127077801656524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是甜口的薄荷 还有点辛辣 然后巧克力是代可可脂 一般一般 https://t.co/rFCI7Fop3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 203,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 654
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060381036534776029",
+    "created_at": "2026-05-29T23:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T00:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060510530801131679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804467796325376000",
+          "start": 0,
+          "username": "yuanchaoXu14712"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ShindanMaker是一个任何人都可以发布原创占卜和诊断的网站。在这里，你可以通过玩大家创建的各种类型的占卜和诊断，如名字诊断、分支诊断和AI诊断（ChatGPT诊断）来玩，试试自己发布看看!",
+          "display_url": "cn.shindanmaker.com",
+          "end": 40,
+          "expanded_url": "https://cn.shindanmaker.com/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2060510532298575872/hGR8koa9?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060510532298575872/hGR8koa9?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "ShindanMaker",
+          "unwound_url": "https://cn.shindanmaker.com/",
+          "url": "https://t.co/rEbnJHv2kt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060510530801131679",
+    "in_reply_to_user_id": "1804467796325376000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060434752273023174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanchaoXu14712 https://t.co/rEbnJHv2kt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060381036534776029",
+        "created_at": "2026-05-29T23:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060510530801131679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804467796325376000",
+              "start": 0,
+              "username": "yuanchaoXu14712"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ShindanMaker是一个任何人都可以发布原创占卜和诊断的网站。在这里，你可以通过玩大家创建的各种类型的占卜和诊断，如名字诊断、分支诊断和AI诊断（ChatGPT诊断）来玩，试试自己发布看看!",
+              "display_url": "cn.shindanmaker.com",
+              "end": 40,
+              "expanded_url": "https://cn.shindanmaker.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2060510532298575872/hGR8koa9?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060510532298575872/hGR8koa9?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "ShindanMaker",
+              "unwound_url": "https://cn.shindanmaker.com/",
+              "url": "https://t.co/rEbnJHv2kt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060510530801131679",
+        "in_reply_to_user_id": "1804467796325376000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060434752273023174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanchaoXu14712 https://t.co/rEbnJHv2kt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804467796325376000",
+        "conversation_id": "2060381036534776029",
+        "created_at": "2026-05-29T18:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060434752273023174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060434752273023174",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060381036534776029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 给个链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 130,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 269
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T10:54:03.000Z",
+        "description": "普普通通的高中畜生",
+        "id": "1804467796325376000",
+        "name": "95号量子汽油",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842825212779548672/2v-nxWSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 38,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 231
+        },
+        "username": "yuanchaoXu14712",
+        "verified": false
+      }
+    ]
+  }
+}

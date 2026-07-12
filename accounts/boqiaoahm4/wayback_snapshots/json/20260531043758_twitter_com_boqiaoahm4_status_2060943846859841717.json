@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2060943846859841717",
+    "created_at": "2026-05-31T04:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060943846859841717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1723307524743397376",
+          "start": 3,
+          "username": "shijiannisile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060943846859841717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060752352752136632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shijiannisile: 有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊。下辈子我也要当有钱人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2060943846859841717",
+        "created_at": "2026-05-31T04:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060943846859841717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1723307524743397376",
+              "start": 3,
+              "username": "shijiannisile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060943846859841717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060752352752136632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shijiannisile: 有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊。下辈子我也要当有钱人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723307524743397376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2060752352752136632",
+        "created_at": "2026-05-30T15:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060752352752136632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060752352752136632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5014,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊。下辈子我也要当有钱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 130,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 350
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T11:52:14.000Z",
+        "description": "里人格@yaniaodawang/💙💙：@xiaoren00 @boboxie993876\n没有非绿和线下。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "yaniaodawang"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "xiaoren00"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "boboxie993876"
+              }
+            ]
+          }
+        },
+        "id": "1723307524743397376",
+        "location": "🚪66/128",
+        "name": "鸦鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058917535945248768/hH2nwLpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 488,
+          "like_count": 14053,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 4346
+        },
+        "username": "shijiannisile",
+        "verified": false
+      }
+    ]
+  }
+}

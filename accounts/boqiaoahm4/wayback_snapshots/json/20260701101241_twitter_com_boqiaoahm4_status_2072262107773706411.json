@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2072262107773706411",
+    "created_at": "2026-07-01T10:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072262107773706411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1432351612182229001",
+          "start": 3,
+          "username": "Merlyn_Void"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072262107773706411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071940539117973615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Merlyn_Void: 我就是那种和别人完全不认识但是视奸完他主页有点好感，但是看见他和别人互动很亲密就疯狂吃醋的人啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2072262107773706411",
+        "created_at": "2026-07-01T10:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072262107773706411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1432351612182229001",
+              "start": 3,
+              "username": "Merlyn_Void"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072262107773706411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071940539117973615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Merlyn_Void: 我就是那种和别人完全不认识但是视奸完他主页有点好感，但是看见他和别人互动很亲密就疯狂吃醋的人啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432351612182229001",
+        "conversation_id": "2071940539117973615",
+        "created_at": "2026-06-30T12:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071940539117973615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071940539117973615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7007,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我就是那种和别人完全不认识但是视奸完他主页有点好感，但是看见他和别人互动很亲密就疯狂吃醋的人啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 425,
+          "like_count": 3057,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。\n喜欢的动物是信天翁\n@Merlyn27781069",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "Merlyn27781069"
+              }
+            ]
+          }
+        },
+        "id": "1432351612182229001",
+        "location": "🚪288",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "2049105797842665732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24917,
+          "following_count": 264,
+          "like_count": 13409,
+          "listed_count": 53,
+          "media_count": 71,
+          "tweet_count": 4184
+        },
+        "url": "",
+        "username": "Merlyn_Void",
+        "verified": true
+      }
+    ]
+  }
+}

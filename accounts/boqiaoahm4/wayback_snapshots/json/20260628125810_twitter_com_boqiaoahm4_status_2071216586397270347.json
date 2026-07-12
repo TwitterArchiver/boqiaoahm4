@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071216515127590912",
+        "13_2071216515123388416"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071216586397270347",
+    "created_at": "2026-06-28T12:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071216586397270347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9jd7l8FkU",
+          "end": 47,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2071216586397270347/video/1",
+          "media_key": "3_2071216515127590912",
+          "start": 24,
+          "url": "https://t.co/Z9jd7l8FkU"
+        },
+        {
+          "display_url": "pic.x.com/Z9jd7l8FkU",
+          "end": 47,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2071216586397270347/video/1",
+          "media_key": "13_2071216515123388416",
+          "start": 24,
+          "url": "https://t.co/Z9jd7l8FkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071216586397270347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我昨天磕美了给朋友发这个她说恐怖谷效应犯了卧槽 https://t.co/Z9jd7l8FkU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2071216515127590912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5wcl0aQAAW4Vo.jpg",
+        "width": 828
+      },
+      {
+        "duration_ms": 9398,
+        "height": 1280,
+        "media_key": "13_2071216515123388416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071216515123388416/img/-MzahuzcYaEcAfWg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071216515123388416/vid/avc1/320x568/BHXoVBGQcIV2oPjy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071216515123388416/vid/avc1/480x852/dB6dPlQ8wvWClYgB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071216515123388416/vid/avc1/720x1280/FpbSo78ougETmfUz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071216515123388416/pl/BQFsX3IrRM9Xno85.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071216515127590912",
+            "13_2071216515123388416"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071216586397270347",
+        "created_at": "2026-06-28T12:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071216586397270347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9jd7l8FkU",
+              "end": 47,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2071216586397270347/video/1",
+              "media_key": "3_2071216515127590912",
+              "start": 24,
+              "url": "https://t.co/Z9jd7l8FkU"
+            },
+            {
+              "display_url": "pic.x.com/Z9jd7l8FkU",
+              "end": 47,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2071216586397270347/video/1",
+              "media_key": "13_2071216515123388416",
+              "start": 24,
+              "url": "https://t.co/Z9jd7l8FkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071216586397270347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天磕美了给朋友发这个她说恐怖谷效应犯了卧槽 https://t.co/Z9jd7l8FkU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 408,
+          "like_count": 2819,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

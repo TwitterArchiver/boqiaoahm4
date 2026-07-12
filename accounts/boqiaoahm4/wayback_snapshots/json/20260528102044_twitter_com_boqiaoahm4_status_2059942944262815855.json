@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2059643417198801033",
+    "created_at": "2026-05-28T10:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059942944262815855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535875269759602689",
+          "start": 0,
+          "username": "linyongqin9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059942944262815855",
+    "in_reply_to_user_id": "1535875269759602689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059902157491671468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyongqin9 好人！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2059902154794831872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY-GJCbkAAq1c0.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2059643417198801033",
+        "created_at": "2026-05-28T10:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059942944262815855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535875269759602689",
+              "start": 0,
+              "username": "linyongqin9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059942944262815855",
+        "in_reply_to_user_id": "1535875269759602689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059902157491671468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyongqin9 好人！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059902154794831872"
+          ]
+        },
+        "author_id": "1535875269759602689",
+        "conversation_id": "2059643417198801033",
+        "created_at": "2026-05-28T07:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059902157491671468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/23PDibQGNs",
+              "end": 42,
+              "expanded_url": "https://x.com/linyongqin9/status/2059902157491671468/photo/1",
+              "media_key": "3_2059902154794831872",
+              "start": 19,
+              "url": "https://t.co/23PDibQGNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059902157491671468",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059643417198801033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 我也是好人嗎 https://t.co/23PDibQGNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 95,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 185
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T06:43:20.000Z",
+        "description": "",
+        "id": "1535875269759602689",
+        "location": "肯德基（不是肯德基州）",
+        "name": "三小",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059640209843884032/euJTjKpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 221,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 149
+        },
+        "username": "linyongqin9",
+        "verified": false
+      }
+    ]
+  }
+}

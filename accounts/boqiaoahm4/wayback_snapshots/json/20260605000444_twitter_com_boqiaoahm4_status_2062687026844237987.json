@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2062687026844237987",
+    "created_at": "2026-06-05T00:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062687026844237987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045701404627439616",
+          "start": 3,
+          "username": "Nian0916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062687026844237987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062472231478083704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nian0916: 其实我有时候会觉得推刷多了很容易走上歪路，看着同龄的小女孩拍拍照片视频收个门槛就很轻松的赚到钱，去买喜欢的裙子一条就几千，而自己只能从生活费里省吃俭用去打十几块钱一个小时的零工要站一整天真的会觉得很有落差感，也会突然有过“拍几张照片没什么的又不露脸，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2062687026844237987",
+        "created_at": "2026-06-05T00:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062687026844237987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045701404627439616",
+              "start": 3,
+              "username": "Nian0916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062687026844237987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062472231478083704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nian0916: 其实我有时候会觉得推刷多了很容易走上歪路，看着同龄的小女孩拍拍照片视频收个门槛就很轻松的赚到钱，去买喜欢的裙子一条就几千，而自己只能从生活费里省吃俭用去打十几块钱一个小时的零工要站一整天真的会觉得很有落差感，也会突然有过“拍几张照片没什么的又不露脸，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045701404627439616",
+        "conversation_id": "2062472231478083704",
+        "created_at": "2026-06-04T09:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062472231478083704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062472231478083704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 106991,
+          "like_count": 1051,
+          "quote_count": 12,
+          "reply_count": 209,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "其实我有时候会觉得推刷多了很容易走上歪路，看着同龄的小女孩拍拍照片视频收个门槛就很轻松的赚到钱，去买喜欢的裙子一条就几千，而自己只能从生活费里省吃俭用去打十几块钱一个小时的零工要站一整天真的会觉得很有落差感，也会突然有过“拍几张照片没什么的又不露脸，要不我也去收门槛吧”这种念头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 183,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 598
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T03:10:06.000Z",
+        "description": "碎碎念仅记录生活｜门外的鬼正在轻声细语的诱惑你开门",
+        "id": "2045701404627439616",
+        "name": "念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045701493110763520/Zb67IkLL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 23,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "username": "Nian0916",
+        "verified": false
+      }
+    ]
+  }
+}

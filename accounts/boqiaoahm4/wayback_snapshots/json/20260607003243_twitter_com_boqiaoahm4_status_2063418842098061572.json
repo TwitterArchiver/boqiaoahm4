@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063301567738986715",
+    "created_at": "2026-06-07T00:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063418842098061572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938232468076957698",
+          "start": 0,
+          "username": "1yuki475740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063418842098061572",
+    "in_reply_to_user_id": "1938232468076957698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063338144926474345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1yuki475740 好多个抱抱哼哼 我也抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2063338134755246081",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKJzGf2agAEjHtZ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKJzGf2agAEjHtZ.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063301567738986715",
+        "created_at": "2026-06-07T00:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063418842098061572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938232468076957698",
+              "start": 0,
+              "username": "1yuki475740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063418842098061572",
+        "in_reply_to_user_id": "1938232468076957698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063338144926474345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1yuki475740 好多个抱抱哼哼 我也抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063338134755246081"
+          ]
+        },
+        "author_id": "1938232468076957698",
+        "conversation_id": "2063301567738986715",
+        "created_at": "2026-06-06T19:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063338144926474345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsyawPyUPm",
+              "end": 35,
+              "expanded_url": "https://x.com/1yuki475740/status/2063338144926474345/photo/1",
+              "media_key": "16_2063338134755246081",
+              "start": 12,
+              "url": "https://t.co/KsyawPyUPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063338144926474345",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063301567738986715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 https://t.co/KsyawPyUPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 218,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 724
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T13:47:00.000Z",
+        "description": "𝖆 𝖈𝖔𝖗𝖕𝖘𝖊\n        𝕴 ❤️ 𝕿𝖗𝖆𝖓𝖘𝖞𝖑𝖛𝖆𝖓𝖎𝖆",
+        "id": "1938232468076957698",
+        "location": "𝖍𝖊𝖆𝖛𝖊𝖓",
+        "name": "Yuki",
+        "pinned_tweet_id": "2061617482830590458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053797917572665344/CsS3QgTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 75,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 66
+        },
+        "username": "1yuki475740",
+        "verified": false
+      }
+    ]
+  }
+}

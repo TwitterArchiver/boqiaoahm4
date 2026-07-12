@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2066530107292799235",
+    "created_at": "2026-06-15T15:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066537119552549102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601798366714908672",
+          "start": 0,
+          "username": "ranhuauu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066537119552549102",
+    "in_reply_to_user_id": "1601798366714908672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066530107292799235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranhuauu 妈妈。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2066530103715086336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3KLi2WwAA0JQ3.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2066530107292799235",
+        "created_at": "2026-06-15T15:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066537119552549102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601798366714908672",
+              "start": 0,
+              "username": "ranhuauu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066537119552549102",
+        "in_reply_to_user_id": "1601798366714908672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066530107292799235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranhuauu 妈妈。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066530103715086336"
+          ]
+        },
+        "author_id": "1601798366714908672",
+        "conversation_id": "2066530107292799235",
+        "created_at": "2026-06-15T14:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066530107292799235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1881307287769509888",
+              "start": 22,
+              "username": "Fwyuwusjehsioow"
+            },
+            {
+              "end": 54,
+              "id": "1755664020944941056",
+              "start": 39,
+              "username": "Korewoizontoyo"
+            },
+            {
+              "end": 74,
+              "id": "2046957580791189504",
+              "start": 61,
+              "username": "yumeialinlin"
+            },
+            {
+              "end": 97,
+              "id": "2025233152755859463",
+              "start": 81,
+              "username": "Yadouon_neoii24"
+            },
+            {
+              "end": 109,
+              "id": "2057425772198215680",
+              "start": 98,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 137,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "start": 114,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/KO4LGGTz14"
+            },
+            {
+              "display_url": "pic.x.com/CMDwEOMGG4",
+              "end": 161,
+              "expanded_url": "https://x.com/ranhuauu/status/2066530107292799235/photo/1",
+              "media_key": "3_2066530103715086336",
+              "start": 138,
+              "url": "https://t.co/CMDwEOMGG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066530107292799235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Fwyuwusjehsioow @Korewoizontoyo\n👰 配偶: @yumeialinlin\n👶 孩子: @Yadouon_neoii24 @boqiaoahm4\n\n➡️ https://t.co/KO4LGGTz14 https://t.co/CMDwEOMGG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 369,
+          "like_count": 1795,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1002
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T04:39:16.000Z",
+        "description": "人活著就是為了割手 犯病 崩潰 孤獨 自卑 自殘 自戀 自慰 自殺 嗑藥 ｜歡迎光臨｜中焦重抑 雙向 PTSD 割手 嗑藥 成分複雜｜ 歡迎和我互fo 就讓我們化學極樂 逃離痛苦的世界",
+        "id": "1601798366714908672",
+        "location": "極樂世界",
+        "name": "蚺華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052071943541817344/7iKMlWNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 113,
+          "like_count": 5171,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1272
+        },
+        "username": "ranhuauu",
+        "verified": false
+      }
+    ]
+  }
+}

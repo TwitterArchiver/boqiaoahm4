@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2069386417730621815",
+    "created_at": "2026-06-23T11:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069386417730621815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042655089228128256",
+          "start": 3,
+          "username": "privwendley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069386417730621815",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069079706012372993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @privwendley: “Você deve ser muito disputado”\n\nSim, depresão e a ansiedade tão sempre disputando pra ver quem me mata primeiro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2069386417730621815",
+        "created_at": "2026-06-23T11:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069386417730621815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042655089228128256",
+              "start": 3,
+              "username": "privwendley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069386417730621815",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069079706012372993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @privwendley: “Você deve ser muito disputado”\n\nSim, depresão e a ansiedade tão sempre disputando pra ver quem me mata primeiro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042655089228128256",
+        "conversation_id": "2069079706012372993",
+        "created_at": "2026-06-22T15:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069079706012372993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069079706012372993",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 70280,
+          "like_count": 6264,
+          "quote_count": 33,
+          "reply_count": 6,
+          "retweet_count": 2424
+        },
+        "reply_settings": "everyone",
+        "text": "“Você deve ser muito disputado”\n\nSim, depresão e a ansiedade tão sempre disputando pra ver quem me mata primeiro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 397,
+          "like_count": 2509,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T17:26:54.000Z",
+        "description": "🚬•☕️•🎱\n\nFalando o que todo mundo pensa e ninguém posta",
+        "id": "2042655089228128256",
+        "name": "ؘ 𝖂",
+        "pinned_tweet_id": "2060834750017700114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065767916398624768/a--XLUtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3178,
+          "following_count": 600,
+          "like_count": 9574,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "privwendley",
+        "verified": false
+      }
+    ]
+  }
+}

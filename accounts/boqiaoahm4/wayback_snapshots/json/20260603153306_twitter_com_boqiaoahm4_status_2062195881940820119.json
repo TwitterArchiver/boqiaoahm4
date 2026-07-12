@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2062195881940820119",
+    "created_at": "2026-06-03T15:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062195881940820119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062195881940820119",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061978792558465431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: Dá sempre para notar quando a vida de alguém começa a desmoronar, porque do nada a pessoa passa a tuitar 50 vezes por dia."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2062195881940820119",
+        "created_at": "2026-06-03T15:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062195881940820119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062195881940820119",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061978792558465431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: Dá sempre para notar quando a vida de alguém começa a desmoronar, porque do nada a pessoa passa a tuitar 50 vezes por dia."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046395388974845952",
+        "conversation_id": "2061978792558465431",
+        "created_at": "2026-06-03T01:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061978792558465431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061978792558465431",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7736,
+          "like_count": 342,
+          "quote_count": 28,
+          "reply_count": 19,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "Dá sempre para notar quando a vida de alguém começa a desmoronar, porque do nada a pessoa passa a tuitar 50 vezes por dia."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 171,
+          "like_count": 685,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 523
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 462,
+          "like_count": 80,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 306
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

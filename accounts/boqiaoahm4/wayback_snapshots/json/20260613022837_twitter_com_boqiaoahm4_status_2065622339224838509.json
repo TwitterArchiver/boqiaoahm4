@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065622339224838509",
+    "created_at": "2026-06-13T02:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065622339224838509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881351051988934656",
+          "start": 3,
+          "username": "wowyouzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065622339224838509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065465730074882138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wowyouzhi: 我的生活只能用闹麻来形容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065622339224838509",
+        "created_at": "2026-06-13T02:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065622339224838509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881351051988934656",
+              "start": 3,
+              "username": "wowyouzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065622339224838509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065465730074882138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wowyouzhi: 我的生活只能用闹麻来形容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881351051988934656",
+        "conversation_id": "2065465730074882138",
+        "created_at": "2026-06-12T16:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065465730074882138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065465730074882138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的生活只能用闹麻来形容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 354,
+          "like_count": 1493,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1119
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T14:40:38.000Z",
+        "description": "哎哟我就是个乐子餐券逼除了犯病就是导管子你让让我。喜欢直fo\n只回关同类会查成分。",
+        "id": "1881351051988934656",
+        "name": "与诗。 月",
+        "pinned_tweet_id": "2059998950590202264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015855876062814208/oFfueUcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 91,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 278
+        },
+        "username": "wowyouzhi",
+        "verified": false
+      }
+    ]
+  }
+}

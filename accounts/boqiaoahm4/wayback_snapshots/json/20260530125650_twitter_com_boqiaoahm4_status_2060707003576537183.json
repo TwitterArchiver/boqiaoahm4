@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060687024873693184"
+      ],
+      "media_source_tweet_id": [
+        "2060687034067673271"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060707003576537183",
+    "created_at": "2026-05-30T12:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060707003576537183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "4499918954",
+          "start": 3,
+          "username": "tkt_illust2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RleUOkEM1",
+          "end": 49,
+          "expanded_url": "https://x.com/tkt_illust2nd/status/2060687034067673271/photo/1",
+          "media_key": "3_2060687024873693184",
+          "start": 26,
+          "url": "https://t.co/0RleUOkEM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060707003576537183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060687034067673271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tkt_illust2nd: りりむちゃん https://t.co/0RleUOkEM1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_2060687024873693184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkH7l7aYAAzJjN.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060687024873693184"
+          ],
+          "media_source_tweet_id": [
+            "2060687034067673271"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060707003576537183",
+        "created_at": "2026-05-30T12:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060707003576537183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4499918954",
+              "start": 3,
+              "username": "tkt_illust2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RleUOkEM1",
+              "end": 49,
+              "expanded_url": "https://x.com/tkt_illust2nd/status/2060687034067673271/photo/1",
+              "media_key": "3_2060687024873693184",
+              "start": 26,
+              "url": "https://t.co/0RleUOkEM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060707003576537183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060687034067673271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tkt_illust2nd: りりむちゃん https://t.co/0RleUOkEM1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060687024873693184"
+          ]
+        },
+        "author_id": "4499918954",
+        "conversation_id": "2060687034067673271",
+        "created_at": "2026-05-30T11:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060687034067673271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RleUOkEM1",
+              "end": 30,
+              "expanded_url": "https://x.com/tkt_illust2nd/status/2060687034067673271/photo/1",
+              "media_key": "3_2060687024873693184",
+              "start": 7,
+              "url": "https://t.co/0RleUOkEM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060687034067673271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1364,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "りりむちゃん https://t.co/0RleUOkEM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 131,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 285
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-08T19:49:56.000Z",
+        "description": "にじさんじのAI絵を主に投稿しています。\n━━━\n【Pixiv】https://t.co/ZHdSTJUtym",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/126501584",
+                "end": 55,
+                "expanded_url": "https://www.pixiv.net/users/126501584",
+                "start": 32,
+                "url": "https://t.co/ZHdSTJUtym"
+              }
+            ]
+          }
+        },
+        "id": "4499918954",
+        "name": "てぃーけい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059424784312926208/wfILbAI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3041,
+          "following_count": 4,
+          "like_count": 250,
+          "listed_count": 14,
+          "media_count": 32,
+          "tweet_count": 195
+        },
+        "username": "tkt_illust2nd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060634992279957513"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060635001876574704",
+    "created_at": "2026-05-30T08:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060635001876574704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/86Hmpr4Kv9",
+          "end": 27,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2060635001876574704/photo/1",
+          "media_key": "3_2060634992279957513",
+          "start": 4,
+          "url": "https://t.co/86Hmpr4Kv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060635001876574704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好累。 https://t.co/86Hmpr4Kv9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060634992279957513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjYm5aWMAk5e6Q.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060634992279957513"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060635001876574704",
+        "created_at": "2026-05-30T08:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060635001876574704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86Hmpr4Kv9",
+              "end": 27,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2060635001876574704/photo/1",
+              "media_key": "3_2060634992279957513",
+              "start": 4,
+              "url": "https://t.co/86Hmpr4Kv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060635001876574704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累。 https://t.co/86Hmpr4Kv9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 131,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 272
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

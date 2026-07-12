@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062365771339071488"
+      ],
+      "media_source_tweet_id": [
+        "2062365773260030084"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062445981615190025",
+    "created_at": "2026-06-04T08:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062445981615190025"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 99,
+          "tag": "obslovetwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058546524443783168",
+          "start": 3,
+          "username": "Sakudoll01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YHbnlNFXkZ",
+          "end": 134,
+          "expanded_url": "https://x.com/Sakudoll01/status/2062365773260030084/photo/1",
+          "media_key": "3_2062365771339071488",
+          "start": 111,
+          "url": "https://t.co/YHbnlNFXkZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062445981615190025",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062365773260030084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakudoll01: yo cuando tiene una mínima interacción y habla con otras personas que no sean yo: \n#obslovetwt https://t.co/YHbnlNFXkZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2062365771339071488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7-vf2XAAATorI.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062365771339071488"
+          ],
+          "media_source_tweet_id": [
+            "2062365773260030084"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062445981615190025",
+        "created_at": "2026-06-04T08:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062445981615190025"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 99,
+              "tag": "obslovetwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058546524443783168",
+              "start": 3,
+              "username": "Sakudoll01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHbnlNFXkZ",
+              "end": 134,
+              "expanded_url": "https://x.com/Sakudoll01/status/2062365773260030084/photo/1",
+              "media_key": "3_2062365771339071488",
+              "start": 111,
+              "url": "https://t.co/YHbnlNFXkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062445981615190025",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062365773260030084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakudoll01: yo cuando tiene una mínima interacción y habla con otras personas que no sean yo: \n#obslovetwt https://t.co/YHbnlNFXkZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062365771339071488"
+          ]
+        },
+        "author_id": "2058546524443783168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062365773260030084",
+        "created_at": "2026-06-04T02:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062365773260030084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 83,
+              "tag": "obslovetwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHbnlNFXkZ",
+              "end": 118,
+              "expanded_url": "https://x.com/Sakudoll01/status/2062365773260030084/photo/1",
+              "media_key": "3_2062365771339071488",
+              "start": 95,
+              "url": "https://t.co/YHbnlNFXkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062365773260030084",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1497,
+          "like_count": 245,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "yo cuando tiene una mínima interacción y habla con otras personas que no sean yo: \n#obslovetwt https://t.co/YHbnlNFXkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 180,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 554
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T13:54:47.000Z",
+        "description": "୧𐙚 ‧₊˚ ⋅🍨‧₊˚ 🎀 ⋅ ♡Cutecore♡Kawaiicore♡ jirai kei♡୧ ೀ 🍰 ‧ ˚♡ #subtwt 𐙚 ‧₊˚ ⋅ 🍮 \nmis otras kuentas @sakurafresas @sakurafresita2 \n໒꒰ྀིっ˕ -｡꒱ྀི১",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 60,
+                "tag": "subtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 97,
+                "username": "sakurafresas"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "sakurafresita2"
+              }
+            ]
+          }
+        },
+        "id": "2058546524443783168",
+        "location": "♡Hospital psiquiátrico♡",
+        "name": "🎀💉Sakura🍮🍨",
+        "pinned_tweet_id": "2058580345851695408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058579944557436928/7tPT5APl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 242,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 270
+        },
+        "username": "Sakudoll01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063210224321007660",
+    "created_at": "2026-06-06T10:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063210224321007660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1409516495571501066",
+          "start": 3,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063210224321007660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063162560157720985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrankghostU: 死目莉极力推荐的adhd好物list\n【如果你是一个adhd患者那么你的家里一定要有这些】\n\n1.胸贴（比起穿脱内衣这个更方便，我相信很多人一定能懂为什么。）\n\n2.湿巾（清理和打扫一切都很麻烦，这个很好用）\n\n3.很多个提醒你“现在该做什么”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063210224321007660",
+        "created_at": "2026-06-06T10:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063210224321007660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1409516495571501066",
+              "start": 3,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063210224321007660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063162560157720985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrankghostU: 死目莉极力推荐的adhd好物list\n【如果你是一个adhd患者那么你的家里一定要有这些】\n\n1.胸贴（比起穿脱内衣这个更方便，我相信很多人一定能懂为什么。）\n\n2.湿巾（清理和打扫一切都很麻烦，这个很好用）\n\n3.很多个提醒你“现在该做什么”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063162560157720985",
+        "created_at": "2026-06-06T07:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063162560157720985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063162560157720985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "死目莉极力推荐的adhd好物list\n【如果你是一个adhd患者那么你的家里一定要有这些】\n\n1.胸贴（比起穿脱内衣这个更方便，我相信很多人一定能懂为什么。）\n\n2.湿巾（清理和打扫一切都很麻烦，这个很好用）\n\n3.很多个提醒你“现在该做什么”的闹钟\n（我无法专注工作，所以和人连麦，让信任的人一直提醒你，或者让电子闹钟提醒你，都很好用。）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 179,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死目莉极力推荐的adhd好物list\n【如果你是一个adhd患者那么你的家里一定要有这些】\n\n1.胸贴（比起穿脱内衣这个更方便，我相信很多人一定能懂为什么。）\n\n2.湿巾（清理和打扫一切都很麻烦，这个很好用）\n\n3.很多个提醒你“现在该做什么”的闹钟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 210,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 672
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n🩹 | 双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2063162560157720985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 184,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 458
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

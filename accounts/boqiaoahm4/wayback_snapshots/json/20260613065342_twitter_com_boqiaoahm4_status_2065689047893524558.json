@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2065687038930903040"
+      ],
+      "media_source_tweet_id": [
+        "2065687073085083999"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065689047893524558",
+    "created_at": "2026-06-13T06:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065689047893524558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782932905419046912",
+          "start": 3,
+          "username": "ratshelprats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxP3ImI8d9",
+          "end": 74,
+          "expanded_url": "https://x.com/ratshelprats/status/2065687073085083999/video/1",
+          "media_key": "7_2065687038930903040",
+          "start": 51,
+          "url": "https://t.co/cxP3ImI8d9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065689047893524558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065687073085083999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratshelprats: 我试过了真的有用，我刚刚发给高中暗恋同学，现在我已经是他的性奴了 https://t.co/cxP3ImI8d9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18250,
+        "height": 854,
+        "media_key": "7_2065687038930903040",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065687038930903040/pu/img/DRjU1K5iTWddLKA1.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065687038930903040/pu/vid/avc1/320x700/Kd88KuOGadyOIReP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065687038930903040/pu/vid/avc1/390x854/PhwHEQTBx_MKrzWv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065687038930903040/pu/pl/gLJJ44qhA3iSVKmV.m3u8"
+          }
+        ],
+        "width": 390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065687038930903040"
+          ],
+          "media_source_tweet_id": [
+            "2065687073085083999"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065689047893524558",
+        "created_at": "2026-06-13T06:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065689047893524558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782932905419046912",
+              "start": 3,
+              "username": "ratshelprats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxP3ImI8d9",
+              "end": 74,
+              "expanded_url": "https://x.com/ratshelprats/status/2065687073085083999/video/1",
+              "media_key": "7_2065687038930903040",
+              "start": 51,
+              "url": "https://t.co/cxP3ImI8d9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065689047893524558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065687073085083999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ratshelprats: 我试过了真的有用，我刚刚发给高中暗恋同学，现在我已经是他的性奴了 https://t.co/cxP3ImI8d9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065687038930903040"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "2065687073085083999",
+        "created_at": "2026-06-13T06:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065687073085083999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxP3ImI8d9",
+              "end": 56,
+              "expanded_url": "https://x.com/ratshelprats/status/2065687073085083999/video/1",
+              "media_key": "7_2065687038930903040",
+              "start": 33,
+              "url": "https://t.co/cxP3ImI8d9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065687073085083999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我试过了真的有用，我刚刚发给高中暗恋同学，现在我已经是他的性奴了 https://t.co/cxP3ImI8d9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 355,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1142
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "1890285410628375009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108877,
+          "following_count": 489,
+          "like_count": 96524,
+          "listed_count": 161,
+          "media_count": 618,
+          "tweet_count": 1561
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

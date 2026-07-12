@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2066902988313227383",
+    "created_at": "2026-06-16T15:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066902988313227383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1357176687318888448",
+          "start": 3,
+          "username": "FuckChina8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066902988313227383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066679645622431877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FuckChina8964_: 我也是回避型，我回头就把你枪毙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2066902988313227383",
+        "created_at": "2026-06-16T15:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066902988313227383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1357176687318888448",
+              "start": 3,
+              "username": "FuckChina8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066902988313227383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066679645622431877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FuckChina8964_: 我也是回避型，我回头就把你枪毙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357176687318888448",
+        "conversation_id": "2066679645622431877",
+        "created_at": "2026-06-16T00:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066679645622431877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066679645622431877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也是回避型，我回头就把你枪毙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 378,
+          "like_count": 1951,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T03:58:47.000Z",
+        "description": "/顺直/土逼/精分/残疾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaya383237",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaya383237",
+                "start": 0,
+                "url": "https://t.co/TfJ4SRiVn1"
+              }
+            ]
+          }
+        },
+        "id": "1357176687318888448",
+        "location": "骂我的下辈子还是中国人",
+        "name": "集美猪蹄改花刀十三刀没出血",
+        "pinned_tweet_id": "2044412599518019682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796513060435496961/0u01y7cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 395,
+          "like_count": 2319,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1230
+        },
+        "url": "https://t.co/TfJ4SRiVn1",
+        "username": "FuckChina8964_",
+        "verified": false
+      }
+    ]
+  }
+}

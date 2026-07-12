@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063611838508478683",
+    "created_at": "2026-06-07T14:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063628254787912177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2046970565546962944",
+          "start": 0,
+          "username": "thevirginalpha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063628254787912177",
+    "in_reply_to_user_id": "2046970565546962944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063626347856240791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thevirginalpha 你能卖肾养我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063611838508478683",
+        "created_at": "2026-06-07T14:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063628254787912177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2046970565546962944",
+              "start": 0,
+              "username": "thevirginalpha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063628254787912177",
+        "in_reply_to_user_id": "2046970565546962944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063626347856240791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thevirginalpha 你能卖肾养我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046970565546962944",
+        "conversation_id": "2063611838508478683",
+        "created_at": "2026-06-07T14:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063626347856240791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063626347856240791",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063611838508478683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 我们在一起，我赚钱养你好吗，我就想当力工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 238,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 776
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T15:14:22.000Z",
+        "description": "温柔暖男小哥哥，分享音乐 独立思考（阅专量3000左右，每日逐步增加）友善上网",
+        "id": "2046970565546962944",
+        "name": "thevirginalpha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051257308865572864/N0dPUna6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 37,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 112
+        },
+        "username": "thevirginalpha",
+        "verified": false
+      }
+    ]
+  }
+}

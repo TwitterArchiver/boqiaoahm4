@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065788134588088320"
+      ],
+      "media_source_tweet_id": [
+        "2065788253777678350"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065788709757194532",
+    "created_at": "2026-06-13T13:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065788709757194532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055987687723839488",
+          "start": 3,
+          "username": "okokok333444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vHpqEaZ8VE",
+          "end": 44,
+          "expanded_url": "https://x.com/okokok333444/status/2065788253777678350/video/1",
+          "media_key": "13_2065788134588088320",
+          "start": 21,
+          "url": "https://t.co/vHpqEaZ8VE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065788709757194532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065788253777678350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okokok333444: 百醇 https://t.co/vHpqEaZ8VE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15776,
+        "height": 1280,
+        "media_key": "13_2065788134588088320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065788134588088320/img/dWxUZOKPs9m9gFyJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065788134588088320/vid/avc1/320x568/ULqtGDPxATkygTGj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065788134588088320/vid/avc1/480x852/iK8B0XJ0EPzC8ZAz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065788134588088320/vid/avc1/720x1280/B0y8Dnec7KrnnI9P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065788134588088320/pl/ezJx7TeLjeRpCPm2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065788134588088320"
+          ],
+          "media_source_tweet_id": [
+            "2065788253777678350"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065788709757194532",
+        "created_at": "2026-06-13T13:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065788709757194532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055987687723839488",
+              "start": 3,
+              "username": "okokok333444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vHpqEaZ8VE",
+              "end": 44,
+              "expanded_url": "https://x.com/okokok333444/status/2065788253777678350/video/1",
+              "media_key": "13_2065788134588088320",
+              "start": 21,
+              "url": "https://t.co/vHpqEaZ8VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065788709757194532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065788253777678350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okokok333444: 百醇 https://t.co/vHpqEaZ8VE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065788134588088320"
+          ]
+        },
+        "author_id": "2055987687723839488",
+        "conversation_id": "2065788253777678350",
+        "created_at": "2026-06-13T13:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065788253777678350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vHpqEaZ8VE",
+              "end": 26,
+              "expanded_url": "https://x.com/okokok333444/status/2065788253777678350/video/1",
+              "media_key": "13_2065788134588088320",
+              "start": 3,
+              "url": "https://t.co/vHpqEaZ8VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065788253777678350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "百醇 https://t.co/vHpqEaZ8VE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 360,
+          "like_count": 1642,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1186
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:27:00.000Z",
+        "description": "糖逼一个\n@boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "boqiaoahm4"
+              }
+            ]
+          }
+        },
+        "id": "2055987687723839488",
+        "name": "火乍玉",
+        "pinned_tweet_id": "2055989929193435641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055989447267864576/Zi8zfiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 58,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 99
+        },
+        "username": "okokok333444",
+        "verified": false
+      }
+    ]
+  }
+}

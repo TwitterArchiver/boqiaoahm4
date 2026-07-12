@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065459705665790418",
+    "created_at": "2026-06-12T15:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065459705665790418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2034560927748763648",
+          "start": 3,
+          "username": "Tiwenjijida"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065459705665790418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065308522649473441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tiwenjijida: 我是真的把推特当成交友软件在用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065459705665790418",
+        "created_at": "2026-06-12T15:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065459705665790418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2034560927748763648",
+              "start": 3,
+              "username": "Tiwenjijida"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065459705665790418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065308522649473441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tiwenjijida: 我是真的把推特当成交友软件在用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034560927748763648",
+        "conversation_id": "2065308522649473441",
+        "created_at": "2026-06-12T05:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065308522649473441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065308522649473441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18615,
+          "like_count": 148,
+          "quote_count": 6,
+          "reply_count": 123,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的把推特当成交友软件在用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 352,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1105
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T09:22:38.000Z",
+        "description": "🤍🩶ineedu…^ 匿名：https://t.co/erFzIMO4sT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tiwenjijida",
+                "end": 37,
+                "expanded_url": "https://ngl.link/tiwenjijida",
+                "start": 14,
+                "url": "https://t.co/erFzIMO4sT"
+              }
+            ]
+          }
+        },
+        "id": "2034560927748763648",
+        "location": "Where do you want me to be?",
+        "name": "Tiwenji",
+        "pinned_tweet_id": "2038597379377840524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034561521481850880/ZiHIrjvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 67,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 646
+        },
+        "username": "Tiwenjijida",
+        "verified": false
+      }
+    ]
+  }
+}

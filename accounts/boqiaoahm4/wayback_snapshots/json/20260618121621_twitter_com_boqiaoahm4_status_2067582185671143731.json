@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2067482689586823525",
+    "created_at": "2026-06-18T12:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067582185671143731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1611238295673114625",
+          "start": 0,
+          "username": "marinashitteru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067582185671143731",
+    "in_reply_to_user_id": "1611238295673114625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067482689586823525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marinashitteru 头好小好可爱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15133,
+        "height": 1280,
+        "media_key": "7_2067482589716168704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067482589716168704/pu/img/xT5kdWpLm50-DNod.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067482589716168704/pu/vid/avc1/320x568/TkNwYyiQhmTbi1He.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067482589716168704/pu/vid/avc1/480x852/Oe0m2jQ4C0IGqX_b.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067482589716168704/pu/vid/avc1/720x1280/WcI1AFXX6tSVwoAD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067482589716168704/pu/pl/D8pK2BHdrQryYq70.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2067482689586823525",
+        "created_at": "2026-06-18T12:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067582185671143731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1611238295673114625",
+              "start": 0,
+              "username": "marinashitteru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067582185671143731",
+        "in_reply_to_user_id": "1611238295673114625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067482689586823525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marinashitteru 头好小好可爱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067482589716168704"
+          ]
+        },
+        "author_id": "1611238295673114625",
+        "conversation_id": "2067482689586823525",
+        "created_at": "2026-06-18T05:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067482689586823525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzpYUBv6Ir",
+              "end": 27,
+              "expanded_url": "https://x.com/marinashitteru/status/2067482689586823525/video/1",
+              "media_key": "7_2067482589716168704",
+              "start": 4,
+              "url": "https://t.co/xzpYUBv6Ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067482689586823525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跳抖舞 https://t.co/xzpYUBv6Ir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 386,
+          "like_count": 2209,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1202
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T05:48:55.000Z",
+        "description": "kk/哭哭 头像本体🦭🦭🦭🦭🦭🦭🦭🦭🦭🦭丨sh/od负能量  链接是匿名提问箱↓ 太久没发帖就是被制裁了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/8apxHZTQe3"
+              }
+            ]
+          }
+        },
+        "id": "1611238295673114625",
+        "location": "垃圾话大王海豹",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043321958352486400/e4Wm8MC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 282,
+          "like_count": 6874,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 4331
+        },
+        "url": "https://t.co/8apxHZTQe3",
+        "username": "marinashitteru",
+        "verified": false
+      }
+    ]
+  }
+}

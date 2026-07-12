@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060891322542952448"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060891328960241945",
+    "created_at": "2026-05-31T01:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060891328960241945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CrqgNnFEIe",
+          "end": 32,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2060891328960241945/photo/1",
+          "media_key": "3_2060891322542952448",
+          "start": 9,
+          "url": "https://t.co/CrqgNnFEIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060891328960241945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ll鼻子好像歪了 https://t.co/CrqgNnFEIe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_2060891322542952448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnBvSDbkAAB6qs.jpg",
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060891322542952448"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060891328960241945",
+        "created_at": "2026-05-31T01:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060891328960241945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrqgNnFEIe",
+              "end": 32,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2060891328960241945/photo/1",
+              "media_key": "3_2060891322542952448",
+              "start": 9,
+              "url": "https://t.co/CrqgNnFEIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060891328960241945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ll鼻子好像歪了 https://t.co/CrqgNnFEIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 130,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 340
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

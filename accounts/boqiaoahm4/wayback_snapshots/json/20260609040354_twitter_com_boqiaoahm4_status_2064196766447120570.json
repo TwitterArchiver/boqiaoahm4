@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064196766447120570",
+    "created_at": "2026-06-09T04:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064196766447120570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063957681984225280",
+          "start": 3,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064196766447120570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063970886311678388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuwenMewo: 我粗黑鸡巴猛捅进孔子干裂黄油屎屁眼，瞬间顶爆陈年粪块，屎浆血肉喷溅满地\n孔子全身痉挛，干瘪的鸡巴竟然也漏出几滴浑浊的老人尿，混着屎水一起流了一地\n我：“谁是最强山东人？？😡😡😡”\n子曰：“汝！！😭😭😭🥵🥵😭”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064196766447120570",
+        "created_at": "2026-06-09T04:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064196766447120570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063957681984225280",
+              "start": 3,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064196766447120570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063970886311678388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuwenMewo: 我粗黑鸡巴猛捅进孔子干裂黄油屎屁眼，瞬间顶爆陈年粪块，屎浆血肉喷溅满地\n孔子全身痉挛，干瘪的鸡巴竟然也漏出几滴浑浊的老人尿，混着屎水一起流了一地\n我：“谁是最强山东人？？😡😡😡”\n子曰：“汝！！😭😭😭🥵🥵😭”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2063970886311678388",
+        "created_at": "2026-06-08T13:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063970886311678388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063970886311678388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我粗黑鸡巴猛捅进孔子干裂黄油屎屁眼，瞬间顶爆陈年粪块，屎浆血肉喷溅满地\n孔子全身痉挛，干瘪的鸡巴竟然也漏出几滴浑浊的老人尿，混着屎水一起流了一地\n我：“谁是最强山东人？？😡😡😡”\n子曰：“汝！！😭😭😭🥵🥵😭”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 303,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 902
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2063963579611836422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 10,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 69
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

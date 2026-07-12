@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064358028321972529",
+    "created_at": "2026-06-09T14:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064358028321972529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1607207889982353408",
+          "start": 3,
+          "username": "chobnihibi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064358028321972529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064346719526248726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chobnihibi1: 什么时候我的幻想能力可以造一个随时能回我消息能陪我出去玩帮我成为互联网天使的阿p出来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064358028321972529",
+        "created_at": "2026-06-09T14:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064358028321972529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1607207889982353408",
+              "start": 3,
+              "username": "chobnihibi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064358028321972529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064346719526248726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chobnihibi1: 什么时候我的幻想能力可以造一个随时能回我消息能陪我出去玩帮我成为互联网天使的阿p出来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607207889982353408",
+        "conversation_id": "2064346719526248726",
+        "created_at": "2026-06-09T13:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064346719526248726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064346719526248726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候我的幻想能力可以造一个随时能回我消息能陪我出去玩帮我成为互联网天使的阿p出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 310,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 965
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T02:53:30.000Z",
+        "description": "owo\n叫我黑白！女企 百合重度爱好者，可能你所熟知的所有女企我都混哦？/不o不割更不卖不吸当个好女孩/随缘看发转推，可以随时找我玩和互fo，我喜欢你们！",
+        "id": "1607207889982353408",
+        "location": "欢迎大家找我聊天/墙内软件扩列",
+        "name": "黑朝白冬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041149237552168960/Qf2eF-Lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 99
+        },
+        "username": "chobnihibi1",
+        "verified": false
+      }
+    ]
+  }
+}

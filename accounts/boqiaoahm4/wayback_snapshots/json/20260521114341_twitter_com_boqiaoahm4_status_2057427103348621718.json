@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057427092921352192"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2057427103348621718",
+    "created_at": "2026-05-21T11:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057427103348621718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ugn2hO2bD",
+          "end": 25,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2057427103348621718/photo/1",
+          "media_key": "3_2057427092921352192",
+          "start": 2,
+          "url": "https://t.co/0ugn2hO2bD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057427103348621718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额 https://t.co/0ugn2hO2bD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2057427092921352192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1zClDXgAA12dk.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057427092921352192"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2057427103348621718",
+        "created_at": "2026-05-21T11:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057427103348621718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ugn2hO2bD",
+              "end": 25,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2057427103348621718/photo/1",
+              "media_key": "3_2057427092921352192",
+              "start": 2,
+              "url": "https://t.co/0ugn2hO2bD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057427103348621718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额 https://t.co/0ugn2hO2bD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "别对我发脾气 我 很脆弱",
+        "id": "2057425772198215680",
+        "name": "熵增",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057426047382286338/dpSDM2cY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

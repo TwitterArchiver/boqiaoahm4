@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2061209719482773567",
+    "created_at": "2026-05-31T22:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T23:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061209719482773567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829867271592026112",
+          "start": 3,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061209719482773567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061132056655188180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shivam3228: 六一儿童节到了。大家注意以下几点。 \n1.不要给萝莉胯下的伤口打针针注入营养液治疗\n2.不要用香蕉顶起萝莉来练举重\n3.不要喝萝莉小溪流出来的水来解渴\n4.不要从背后钳住萝莉双手清空弹夹玩警察抓小偷\n5.不要用舌头帮萝莉清洁两张嘴巴的口腔\n6.不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2061209719482773567",
+        "created_at": "2026-05-31T22:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061209719482773567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829867271592026112",
+              "start": 3,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061209719482773567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061132056655188180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shivam3228: 六一儿童节到了。大家注意以下几点。 \n1.不要给萝莉胯下的伤口打针针注入营养液治疗\n2.不要用香蕉顶起萝莉来练举重\n3.不要喝萝莉小溪流出来的水来解渴\n4.不要从背后钳住萝莉双手清空弹夹玩警察抓小偷\n5.不要用舌头帮萝莉清洁两张嘴巴的口腔\n6.不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061132056655188180",
+        "created_at": "2026-05-31T17:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061132056655188180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061132056655188180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 408,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六一儿童节到了。大家注意以下几点。 \n1.不要给萝莉胯下的伤口打针针注入营养液治疗\n2.不要用香蕉顶起萝莉来练举重\n3.不要喝萝莉小溪流出来的水来解渴\n4.不要从背后钳住萝莉双手清空弹夹玩警察抓小偷\n5.不要用舌头帮萝莉清洁两张嘴巴的口腔\n6.不要往萝莉第二张嘴巴喂满酸奶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 135,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 407
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "继续搞我吧\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 324,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 403
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

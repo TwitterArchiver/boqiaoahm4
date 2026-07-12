@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065457267701383628",
+    "created_at": "2026-06-12T15:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065457267701383628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970136454522167296",
+          "start": 3,
+          "username": "cici58807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065457267701383628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065232885393789021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cici58807: 谁能告诉我 不社交咋谈上恋爱。😭🫩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065457267701383628",
+        "created_at": "2026-06-12T15:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065457267701383628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970136454522167296",
+              "start": 3,
+              "username": "cici58807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065457267701383628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065232885393789021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cici58807: 谁能告诉我 不社交咋谈上恋爱。😭🫩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970136454522167296",
+        "conversation_id": "2065232885393789021",
+        "created_at": "2026-06-12T00:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065232885393789021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065232885393789021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21697,
+          "like_count": 155,
+          "quote_count": 1,
+          "reply_count": 164,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉我 不社交咋谈上恋爱。😭🫩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 352,
+          "like_count": 1474,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1099
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T14:42:02.000Z",
+        "description": "我要稳稳的幸福🥹\n08｜1i单身｜不出原味 不约 纯绿聊天❗️｜看见喜欢的会回关呀",
+        "id": "1970136454522167296",
+        "location": "成都",
+        "name": "cici^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039996336754622464/fv47QylS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 44,
+          "like_count": 1282,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 872
+        },
+        "username": "cici58807",
+        "verified": false
+      }
+    ]
+  }
+}

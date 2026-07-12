@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2068562635130548717",
+    "created_at": "2026-06-21T05:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068565328226107616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856662470146039808",
+          "start": 0,
+          "username": "misono_sho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068565328226107616",
+    "in_reply_to_user_id": "1856662470146039808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068562635130548717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misono_sho 好帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29048,
+        "height": 1280,
+        "media_key": "7_2068562603027439617",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068562603027439617/pu/img/c9iTFetmHbi6Ke70.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068562603027439617/pu/vid/avc1/320x568/xOORKuKi2ag6ChzA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068562603027439617/pu/vid/avc1/480x852/X1Vrr_KDs7PzDV2l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068562603027439617/pu/vid/avc1/720x1280/SjAuLF_U30NhxfKR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068562603027439617/pu/pl/KJu_AFCXWReM2Nbj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2068562635130548717",
+        "created_at": "2026-06-21T05:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068565328226107616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856662470146039808",
+              "start": 0,
+              "username": "misono_sho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068565328226107616",
+        "in_reply_to_user_id": "1856662470146039808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068562635130548717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misono_sho 好帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068562603027439617"
+          ]
+        },
+        "author_id": "1856662470146039808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2068562635130548717",
+        "created_at": "2026-06-21T05:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068562635130548717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCjZ9WGVCW",
+              "end": 122,
+              "expanded_url": "https://x.com/misono_sho/status/2068562635130548717/video/1",
+              "media_key": "7_2068562603027439617",
+              "start": 99,
+              "url": "https://t.co/fCjZ9WGVCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068562635130548717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀念一年前还没变得死胖的小笙笙\n当然没说很瘦的意思，一直胖的要死啊，修图软件使用2778小时\n好了昨天我说要玩第五人格摸金呢，结果睡着了，气死我了，现在药劲还没过啥意思，下周我忍一下，dxm耐受了 https://t.co/fCjZ9WGVCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 397,
+          "like_count": 2388,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1393
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T11:37:14.000Z",
+        "description": "随便称呼\nip大阪\n日语苦手\n所以可能会打中文或者用翻译器\n很怪的话请原谅\n互fo大欢迎\n有啥想问的在下面链接\n随便发什么都可以哦、\n看到了就回，喜欢你们\nDM可以\n没精力社交，回的慢见谅\n打钱立马回\n無言フォロー・無言いいね失礼いたします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/misonosho",
+                "end": 23,
+                "expanded_url": "https://ngl.link/misonosho",
+                "start": 0,
+                "url": "https://t.co/mrTm5xhM1p"
+              }
+            ]
+          }
+        },
+        "id": "1856662470146039808",
+        "location": "常住大阪",
+        "name": "美園笙",
+        "pinned_tweet_id": "2037728140387287240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065011489031979008/Q62nO__e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 116,
+          "like_count": 14886,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/mrTm5xhM1p",
+        "username": "misono_sho",
+        "verified": false
+      }
+    ]
+  }
+}

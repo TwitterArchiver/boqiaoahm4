@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065430436617277440",
+        "3_2065430436650893312"
+      ],
+      "media_source_tweet_id": [
+        "2065430522743214114",
+        "2065430522743214114"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065748772043284676",
+    "created_at": "2026-06-13T10:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065748772043284676"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 53,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "OD"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029425228145934336",
+          "start": 3,
+          "username": "enyann_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kU3Pm91zx1",
+          "end": 94,
+          "expanded_url": "https://x.com/enyann_/status/2065430522743214114/photo/1",
+          "media_key": "3_2065430436617277440",
+          "start": 71,
+          "url": "https://t.co/kU3Pm91zx1"
+        },
+        {
+          "display_url": "pic.x.com/kU3Pm91zx1",
+          "end": 94,
+          "expanded_url": "https://x.com/enyann_/status/2065430522743214114/photo/1",
+          "media_key": "3_2065430436650893312",
+          "start": 71,
+          "url": "https://t.co/kU3Pm91zx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065748772043284676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065430522743214114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enyann_: 沢山とどいたo̴̶̷̤ ̫ o̴̶̷̤✨️\nすこし飲んじゃったけど＞ ̫＜ \n #病み垢さんと繋がりたい  #OD https://t.co/kU3Pm91zx1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065430436617277440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKniCfraUAA9_wo.jpg",
+        "width": 1902
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065430436650893312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKniCfzbQAAd6BQ.jpg",
+        "width": 1738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065430436617277440",
+            "3_2065430436650893312"
+          ],
+          "media_source_tweet_id": [
+            "2065430522743214114",
+            "2065430522743214114"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065748772043284676",
+        "created_at": "2026-06-13T10:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065748772043284676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 53,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "OD"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029425228145934336",
+              "start": 3,
+              "username": "enyann_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kU3Pm91zx1",
+              "end": 94,
+              "expanded_url": "https://x.com/enyann_/status/2065430522743214114/photo/1",
+              "media_key": "3_2065430436617277440",
+              "start": 71,
+              "url": "https://t.co/kU3Pm91zx1"
+            },
+            {
+              "display_url": "pic.x.com/kU3Pm91zx1",
+              "end": 94,
+              "expanded_url": "https://x.com/enyann_/status/2065430522743214114/photo/1",
+              "media_key": "3_2065430436650893312",
+              "start": 71,
+              "url": "https://t.co/kU3Pm91zx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065748772043284676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065430522743214114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enyann_: 沢山とどいたo̴̶̷̤ ̫ o̴̶̷̤✨️\nすこし飲んじゃったけど＞ ̫＜ \n #病み垢さんと繋がりたい  #OD https://t.co/kU3Pm91zx1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065430436617277440",
+            "3_2065430436650893312"
+          ]
+        },
+        "author_id": "2029425228145934336",
+        "conversation_id": "2065430522743214114",
+        "created_at": "2026-06-12T13:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065430522743214114"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 40,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "OD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kU3Pm91zx1",
+              "end": 81,
+              "expanded_url": "https://x.com/enyann_/status/2065430522743214114/photo/1",
+              "media_key": "3_2065430436617277440",
+              "start": 58,
+              "url": "https://t.co/kU3Pm91zx1"
+            },
+            {
+              "display_url": "pic.x.com/kU3Pm91zx1",
+              "end": 81,
+              "expanded_url": "https://x.com/enyann_/status/2065430522743214114/photo/1",
+              "media_key": "3_2065430436650893312",
+              "start": 58,
+              "url": "https://t.co/kU3Pm91zx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065430522743214114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 24165,
+          "like_count": 841,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "沢山とどいたo̴̶̷̤ ̫ o̴̶̷̤✨️\nすこし飲んじゃったけど＞ ̫＜ \n #病み垢さんと繋がりたい  #OD https://t.co/kU3Pm91zx1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 357,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1170
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T05:14:38.000Z",
+        "description": "05 OD リスカ お絵描き 女の子の友達欲しい〜꒰ ᐡᴗ͈ ·̫ ᴗ͈ ꒱ ♡ @ai_ura3214 ↩︎大好きな姫🎀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "ai_ura3214"
+              }
+            ]
+          }
+        },
+        "id": "2029425228145934336",
+        "name": "あめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061691513399394306/ko8DBZRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 58,
+          "like_count": 798,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "username": "enyann_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072697688857219072",
+        "3_2072697688836251648"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2072697698613076295",
+    "created_at": "2026-07-02T15:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072697698613076295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 46,
+          "id": "2063574393201311745",
+          "start": 31,
+          "username": "zhoushashaff9n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1iGbuZZqGA",
+          "end": 70,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2072697698613076295/photo/1",
+          "media_key": "3_2072697688857219072",
+          "start": 47,
+          "url": "https://t.co/1iGbuZZqGA"
+        },
+        {
+          "display_url": "pic.x.com/1iGbuZZqGA",
+          "end": 70,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2072697698613076295/photo/1",
+          "media_key": "3_2072697688836251648",
+          "start": 47,
+          "url": "https://t.co/1iGbuZZqGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072697698613076295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和我的女孩一起玩游戏…这是我最近几个月第一次玩游戏好开心呀嘿嘿@zhoushashaff9n https://t.co/1iGbuZZqGA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_2072697688857219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOzkP8bkAA6rCY.jpg",
+        "width": 858
+      },
+      {
+        "height": 474,
+        "media_key": "3_2072697688836251648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOzkP3boAAfELn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072697688857219072",
+            "3_2072697688836251648"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2072697698613076295",
+        "created_at": "2026-07-02T15:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072697698613076295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "2063574393201311745",
+              "start": 31,
+              "username": "zhoushashaff9n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1iGbuZZqGA",
+              "end": 70,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2072697698613076295/photo/1",
+              "media_key": "3_2072697688857219072",
+              "start": 47,
+              "url": "https://t.co/1iGbuZZqGA"
+            },
+            {
+              "display_url": "pic.x.com/1iGbuZZqGA",
+              "end": 70,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2072697698613076295/photo/1",
+              "media_key": "3_2072697688836251648",
+              "start": 47,
+              "url": "https://t.co/1iGbuZZqGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072697698613076295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我的女孩一起玩游戏…这是我最近几个月第一次玩游戏好开心呀嘿嘿@zhoushashaff9n https://t.co/1iGbuZZqGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 420,
+          "like_count": 3153,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:52:00.000Z",
+        "description": "sasioverlxrd",
+        "id": "2063574393201311745",
+        "name": "當不了你的天使該怎麼說謊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063830903596748800/5CJyAve0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "zhoushashaff9n",
+        "verified": false
+      }
+    ]
+  }
+}

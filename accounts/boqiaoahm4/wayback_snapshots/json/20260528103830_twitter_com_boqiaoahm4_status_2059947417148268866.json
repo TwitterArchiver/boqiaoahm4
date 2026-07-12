@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059269292529696768"
+      ],
+      "media_source_tweet_id": [
+        "2059269352466284964"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2059947417148268866",
+    "created_at": "2026-05-28T10:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059947417148268866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1538580132176474112",
+          "start": 3,
+          "username": "partylike07hoes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJkHWxDK0T",
+          "end": 61,
+          "expanded_url": "https://x.com/partylike07hoes/status/2059269352466284964/video/1",
+          "media_key": "13_2059269292529696768",
+          "start": 38,
+          "url": "https://t.co/fJkHWxDK0T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059947417148268866",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16426
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059269352466284964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @partylike07hoes: 누군가를이렇게패보고싶은요즘이다 https://t.co/fJkHWxDK0T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10400,
+        "height": 720,
+        "media_key": "13_2059269292529696768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059269292529696768/img/1sQflIiVqPHIzI5M.jpg",
+        "public_metrics": {
+          "view_count": 321150
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059269292529696768/vid/avc1/360x270/c6IWgVMniqxzsCVo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059269292529696768/vid/avc1/480x360/Uo-6vdr8qHavfkYS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059269292529696768/vid/avc1/960x720/UQ7fcDBPhWOX_9QJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059269292529696768/pl/zityCS_AHpb6lkj2.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059269292529696768"
+          ],
+          "media_source_tweet_id": [
+            "2059269352466284964"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2059947417148268866",
+        "created_at": "2026-05-28T10:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059947417148268866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1538580132176474112",
+              "start": 3,
+              "username": "partylike07hoes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJkHWxDK0T",
+              "end": 61,
+              "expanded_url": "https://x.com/partylike07hoes/status/2059269352466284964/video/1",
+              "media_key": "13_2059269292529696768",
+              "start": 38,
+              "url": "https://t.co/fJkHWxDK0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059947417148268866",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16426
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059269352466284964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @partylike07hoes: 누군가를이렇게패보고싶은요즘이다 https://t.co/fJkHWxDK0T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059269292529696768"
+          ]
+        },
+        "author_id": "1538580132176474112",
+        "conversation_id": "2059269352466284964",
+        "created_at": "2026-05-26T13:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059269352466284964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJkHWxDK0T",
+              "end": 40,
+              "expanded_url": "https://x.com/partylike07hoes/status/2059269352466284964/video/1",
+              "media_key": "13_2059269292529696768",
+              "start": 17,
+              "url": "https://t.co/fJkHWxDK0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059269352466284964",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3825,
+          "impression_count": 1034454,
+          "like_count": 39567,
+          "quote_count": 1624,
+          "reply_count": 19,
+          "retweet_count": 16426
+        },
+        "reply_settings": "everyone",
+        "text": "누군가를이렇게패보고싶은요즘이다 https://t.co/fJkHWxDK0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人理我我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 105,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 191
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T17:51:09.000Z",
+        "description": "some people have exes they still fuck. i have an ex i still duo with. honestly not sure which is worse.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4131129636/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4131129636/",
+                "start": 0,
+                "url": "https://t.co/s2pN20cfSr"
+              }
+            ]
+          }
+        },
+        "id": "1538580132176474112",
+        "name": "回",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059587790741147648/YlDA-_kW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 90,
+          "like_count": 2034,
+          "listed_count": 1,
+          "media_count": 1480,
+          "tweet_count": 13914
+        },
+        "url": "https://t.co/s2pN20cfSr",
+        "username": "partylike07hoes",
+        "verified": false
+      }
+    ]
+  }
+}

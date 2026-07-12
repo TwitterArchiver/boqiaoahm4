@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2074850670742843817",
+    "created_at": "2026-07-08T13:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074854091671687228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029585628074262528",
+          "start": 0,
+          "username": "Serinda_Aqua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074854091671687228",
+    "in_reply_to_user_id": "2029585628074262528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074853045012516977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serinda_Aqua 我好喜欢酸酸的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2074850670742843817",
+        "created_at": "2026-07-08T13:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074854091671687228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "Serinda_Aqua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074854091671687228",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074853045012516977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serinda_Aqua 我好喜欢酸酸的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029585628074262528",
+        "conversation_id": "2074850670742843817",
+        "created_at": "2026-07-08T13:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074853045012516977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074853045012516977",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074850670742843817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 我也喜欢这个口味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 432,
+          "like_count": 3521,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "非典型黄推（？发裸照只是爱好\n碎碎念呕吐之地 | 欢迎互fo🩵双取随意\n如你所见这是一个有点暴露癖的精神病女人\n⁺✞ ʚ精品神药重度依赖⁺ɞ✟ 💊🔪🩸",
+        "id": "2029585628074262528",
+        "location": "🚪 88好友位",
+        "name": "水色歌",
+        "pinned_tweet_id": "2046054018888470756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073355526004785152/wb4mFXEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 179,
+          "like_count": 3530,
+          "listed_count": 15,
+          "media_count": 157,
+          "tweet_count": 1498
+        },
+        "url": "",
+        "username": "Serinda_Aqua",
+        "verified": false
+      }
+    ]
+  }
+}

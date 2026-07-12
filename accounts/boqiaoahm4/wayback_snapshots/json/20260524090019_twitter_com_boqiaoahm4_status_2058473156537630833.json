@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058473142138671104"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2058473156537630833",
+    "created_at": "2026-05-24T09:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058473156537630833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Iz2eTTewC9",
+          "end": 34,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2058473156537630833/photo/1",
+          "media_key": "3_2058473142138671104",
+          "start": 11,
+          "url": "https://t.co/Iz2eTTewC9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058473156537630833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这样就不会进水了吧😸 https://t.co/Iz2eTTewC9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058473142138671104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEqaqDbkAAkPV7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058473142138671104"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2058473156537630833",
+        "created_at": "2026-05-24T09:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058473156537630833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iz2eTTewC9",
+              "end": 34,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2058473156537630833/photo/1",
+              "media_key": "3_2058473142138671104",
+              "start": 11,
+              "url": "https://t.co/Iz2eTTewC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058473156537630833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样就不会进水了吧😸 https://t.co/Iz2eTTewC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "别对我发脾气 我 很脆弱",
+        "id": "2057425772198215680",
+        "name": "熵增",
+        "pinned_tweet_id": "2057427103348621718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 8,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060748339348648265",
+    "created_at": "2026-05-30T15:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060752783914000666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856030990105235456",
+          "start": 0,
+          "username": "ren_chuan5563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060752783914000666",
+    "in_reply_to_user_id": "1856030990105235456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060752054524780544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ren_chuan5563 坏！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3083,
+        "height": 960,
+        "media_key": "7_2060752038221541376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060752038221541376/pu/img/PGxuem1BUGSw6YI3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060752038221541376/pu/vid/avc1/320x426/kB7tn6nH5QFCx1o2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060752038221541376/pu/vid/avc1/480x640/7jhq3aNIlOq84Cps.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060752038221541376/pu/vid/avc1/720x960/21epDrSbhHwYGdRg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060752038221541376/pu/pl/5GzO5Fg5VvApR0wJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060748339348648265",
+        "created_at": "2026-05-30T15:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060752783914000666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856030990105235456",
+              "start": 0,
+              "username": "ren_chuan5563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060752783914000666",
+        "in_reply_to_user_id": "1856030990105235456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060752054524780544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ren_chuan5563 坏！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060752038221541376"
+          ]
+        },
+        "author_id": "1856030990105235456",
+        "conversation_id": "2060748339348648265",
+        "created_at": "2026-05-30T15:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060752054524780544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBd7RZXFPv",
+              "end": 35,
+              "expanded_url": "https://x.com/ren_chuan5563/status/2060752054524780544/video/1",
+              "media_key": "7_2060752038221541376",
+              "start": 12,
+              "url": "https://t.co/GBd7RZXFPv"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2060752054524780544",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060751052585177094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 https://t.co/GBd7RZXFPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 131,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 308
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T17:47:50.000Z",
+        "description": "为了要博世界赞美便苦恼，害怕永远也得不到，忘掉了偶尔懒理世界会更好",
+        "id": "1856030990105235456",
+        "location": "哈尔滨",
+        "name": "花洒viva",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059331082512891904/FS0pMKdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 22,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "username": "ren_chuan5563",
+        "verified": false
+      }
+    ]
+  }
+}

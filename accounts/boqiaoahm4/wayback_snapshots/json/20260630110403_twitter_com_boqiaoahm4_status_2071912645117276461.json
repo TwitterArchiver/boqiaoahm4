@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071893034069799021",
+    "created_at": "2026-06-30T11:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071912645117276461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039172080336334849",
+          "start": 0,
+          "username": "Oxycontin0226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071912645117276461",
+    "in_reply_to_user_id": "2039172080336334849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071905323217002908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oxycontin0226 www我喜欢你…🥺🫶🏻🫶🏻🫶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071893034069799021",
+        "created_at": "2026-06-30T11:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071912645117276461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039172080336334849",
+              "start": 0,
+              "username": "Oxycontin0226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071912645117276461",
+        "in_reply_to_user_id": "2039172080336334849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071905323217002908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oxycontin0226 www我喜欢你…🥺🫶🏻🫶🏻🫶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039172080336334849",
+        "conversation_id": "2071893034069799021",
+        "created_at": "2026-06-30T10:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071905323217002908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071905323217002908",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071904278210650180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 妈妈你终于理我了 我爱你 我觉得你真好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 414,
+          "like_count": 2970,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1848
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T02:45:42.000Z",
+        "description": "碎碎念小号@chanel10790",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "chanel10790"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soaunt.com",
+                "end": 23,
+                "expanded_url": "http://www.soaunt.com",
+                "start": 0,
+                "url": "https://t.co/XOiMhWSRDT"
+              }
+            ]
+          }
+        },
+        "id": "2039172080336334849",
+        "location": "🚪88纯绿 私信不闲聊",
+        "name": "天使咬",
+        "pinned_tweet_id": "2071902949509415297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069974842565132288/nvQIhnHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 533,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/XOiMhWSRDT",
+        "username": "Oxycontin0226",
+        "verified": false
+      }
+    ]
+  }
+}

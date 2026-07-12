@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2061448521304478156",
+    "created_at": "2026-06-01T14:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061448521304478156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1538216024142540800",
+          "start": 3,
+          "username": "Pomelos_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061448521304478156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061330363268616599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pomelos_7: 我是一个超高性欲的性冷淡，有人能懂吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2061448521304478156",
+        "created_at": "2026-06-01T14:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061448521304478156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538216024142540800",
+              "start": 3,
+              "username": "Pomelos_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061448521304478156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061330363268616599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pomelos_7: 我是一个超高性欲的性冷淡，有人能懂吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538216024142540800",
+        "conversation_id": "2061330363268616599",
+        "created_at": "2026-06-01T06:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061330363268616599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061330363268616599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1802,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个超高性欲的性冷淡，有人能懂吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 135,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 435
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T17:44:25.000Z",
+        "description": "k6k9/165/50kg",
+        "id": "1538216024142540800",
+        "location": "🚪388/除口令红包外不回",
+        "name": "Suki",
+        "pinned_tweet_id": "2060118877695311994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029191781133500421/F7IwV4iY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 29,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 649
+        },
+        "username": "Pomelos_7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065063566840058011",
+    "created_at": "2026-06-11T13:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065064371307331621"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "那啥戏"
+        },
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "忧郁药片"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1563508655256850433",
+          "start": 0,
+          "username": "Starrynightwglf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065064371307331621",
+    "in_reply_to_user_id": "1563508655256850433",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065063566840058011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starrynightwglf #那啥戏 #忧郁药片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2429,
+        "media_key": "3_2065063556874424322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiUXSIa0AIP9lM.jpg",
+        "width": 1195
+      },
+      {
+        "height": 2428,
+        "media_key": "3_2065063556882804736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiUXSKasAAs5KT.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065063566840058011",
+        "created_at": "2026-06-11T13:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065064371307331621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "那啥戏"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "忧郁药片"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065064371307331621",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065063566840058011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf #那啥戏 #忧郁药片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065063556874424322",
+            "3_2065063556882804736"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2065063566840058011",
+        "created_at": "2026-06-11T13:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065063566840058011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVhm3tZgwk",
+              "end": 32,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2065063566840058011/photo/1",
+              "media_key": "3_2065063556874424322",
+              "start": 9,
+              "url": "https://t.co/fVhm3tZgwk"
+            },
+            {
+              "display_url": "pic.x.com/fVhm3tZgwk",
+              "end": 32,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2065063566840058011/photo/1",
+              "media_key": "3_2065063556882804736",
+              "start": 9,
+              "url": "https://t.co/fVhm3tZgwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065063566840058011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？到底在o什么🫪 https://t.co/fVhm3tZgwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 344,
+          "like_count": 1346,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1053
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 4722,
+          "like_count": 166797,
+          "listed_count": 6,
+          "media_count": 1597,
+          "tweet_count": 6944
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

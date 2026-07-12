@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072703129116954625",
+        "3_2072703129121140736",
+        "3_2072703129133715456",
+        "3_2072703129129512960"
+      ],
+      "media_source_tweet_id": [
+        "2072703146451968282",
+        "2072703146451968282",
+        "2072703146451968282",
+        "2072703146451968282"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072703534840066436",
+    "created_at": "2026-07-02T15:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072703534840066436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2063574393201311745",
+          "start": 3,
+          "username": "zhoushashaff9n"
+        },
+        {
+          "end": 61,
+          "id": "2057425772198215680",
+          "start": 50,
+          "username": "boqiaoahm4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jwUCuIRHC3",
+          "end": 85,
+          "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+          "media_key": "3_2072703129116954625",
+          "start": 62,
+          "url": "https://t.co/jwUCuIRHC3"
+        },
+        {
+          "display_url": "pic.x.com/jwUCuIRHC3",
+          "end": 85,
+          "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+          "media_key": "3_2072703129121140736",
+          "start": 62,
+          "url": "https://t.co/jwUCuIRHC3"
+        },
+        {
+          "display_url": "pic.x.com/jwUCuIRHC3",
+          "end": 85,
+          "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+          "media_key": "3_2072703129133715456",
+          "start": 62,
+          "url": "https://t.co/jwUCuIRHC3"
+        },
+        {
+          "display_url": "pic.x.com/jwUCuIRHC3",
+          "end": 85,
+          "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+          "media_key": "3_2072703129129512960",
+          "start": 62,
+          "url": "https://t.co/jwUCuIRHC3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072703534840066436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072703146451968282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhoushashaff9n: 欧吼吼吼好酥胡 我好开心呀和你一起玩我希望我们可以一直一起玩@boqiaoahm4 https://t.co/jwUCuIRHC3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2072703129116954625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO4g6fbUAE3ajK.jpg",
+        "width": 780
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072703129121140736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO4g6gbMAAUSsf.jpg",
+        "width": 946
+      },
+      {
+        "height": 946,
+        "media_key": "3_2072703129133715456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO4g6jbEAAct01.jpg",
+        "width": 2048
+      },
+      {
+        "height": 360,
+        "media_key": "3_2072703129129512960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO4g6ia8AA7YSx.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072703129116954625",
+            "3_2072703129121140736",
+            "3_2072703129133715456",
+            "3_2072703129129512960"
+          ],
+          "media_source_tweet_id": [
+            "2072703146451968282",
+            "2072703146451968282",
+            "2072703146451968282",
+            "2072703146451968282"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072703534840066436",
+        "created_at": "2026-07-02T15:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072703534840066436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2063574393201311745",
+              "start": 3,
+              "username": "zhoushashaff9n"
+            },
+            {
+              "end": 61,
+              "id": "2057425772198215680",
+              "start": 50,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwUCuIRHC3",
+              "end": 85,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+              "media_key": "3_2072703129116954625",
+              "start": 62,
+              "url": "https://t.co/jwUCuIRHC3"
+            },
+            {
+              "display_url": "pic.x.com/jwUCuIRHC3",
+              "end": 85,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+              "media_key": "3_2072703129121140736",
+              "start": 62,
+              "url": "https://t.co/jwUCuIRHC3"
+            },
+            {
+              "display_url": "pic.x.com/jwUCuIRHC3",
+              "end": 85,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+              "media_key": "3_2072703129133715456",
+              "start": 62,
+              "url": "https://t.co/jwUCuIRHC3"
+            },
+            {
+              "display_url": "pic.x.com/jwUCuIRHC3",
+              "end": 85,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+              "media_key": "3_2072703129129512960",
+              "start": 62,
+              "url": "https://t.co/jwUCuIRHC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072703534840066436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072703146451968282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhoushashaff9n: 欧吼吼吼好酥胡 我好开心呀和你一起玩我希望我们可以一直一起玩@boqiaoahm4 https://t.co/jwUCuIRHC3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072703129116954625",
+            "3_2072703129121140736",
+            "3_2072703129133715456",
+            "3_2072703129129512960"
+          ]
+        },
+        "author_id": "2063574393201311745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072703146451968282",
+        "created_at": "2026-07-02T15:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072703146451968282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2057425772198215680",
+              "start": 30,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwUCuIRHC3",
+              "end": 65,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+              "media_key": "3_2072703129116954625",
+              "start": 42,
+              "url": "https://t.co/jwUCuIRHC3"
+            },
+            {
+              "display_url": "pic.x.com/jwUCuIRHC3",
+              "end": 65,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+              "media_key": "3_2072703129121140736",
+              "start": 42,
+              "url": "https://t.co/jwUCuIRHC3"
+            },
+            {
+              "display_url": "pic.x.com/jwUCuIRHC3",
+              "end": 65,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+              "media_key": "3_2072703129133715456",
+              "start": 42,
+              "url": "https://t.co/jwUCuIRHC3"
+            },
+            {
+              "display_url": "pic.x.com/jwUCuIRHC3",
+              "end": 65,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2072703146451968282/photo/1",
+              "media_key": "3_2072703129129512960",
+              "start": 42,
+              "url": "https://t.co/jwUCuIRHC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072703146451968282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "欧吼吼吼好酥胡 我好开心呀和你一起玩我希望我们可以一直一起玩@boqiaoahm4 https://t.co/jwUCuIRHC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 420,
+          "like_count": 3156,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1964
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:52:00.000Z",
+        "description": "sasioverlxrd",
+        "id": "2063574393201311745",
+        "name": "當不了你的天使該怎麼說謊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063830903596748800/5CJyAve0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "zhoushashaff9n",
+        "verified": false
+      }
+    ]
+  }
+}

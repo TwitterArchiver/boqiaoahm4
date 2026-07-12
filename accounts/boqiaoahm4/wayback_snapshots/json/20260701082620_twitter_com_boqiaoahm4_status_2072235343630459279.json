@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2072199223215563250",
+    "created_at": "2026-07-01T08:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072235343630459279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1441414197930172419",
+          "start": 0,
+          "username": "TvTokuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072235343630459279",
+    "in_reply_to_user_id": "1441414197930172419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072199223215563250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTokuya 无刘海好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2072199213468053504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHuNKabcAAP7vK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072199213480603648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHuNKda8AA2-Q1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2072199223215563250",
+        "created_at": "2026-07-01T08:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072235343630459279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1441414197930172419",
+              "start": 0,
+              "username": "TvTokuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072235343630459279",
+        "in_reply_to_user_id": "1441414197930172419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072199223215563250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTokuya 无刘海好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072199213468053504",
+            "3_2072199213480603648"
+          ]
+        },
+        "author_id": "1441414197930172419",
+        "conversation_id": "2072199223215563250",
+        "created_at": "2026-07-01T06:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072199223215563250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6bGkbGhgW",
+              "end": 35,
+              "expanded_url": "https://x.com/TvTokuya/status/2072199223215563250/photo/1",
+              "media_key": "3_2072199213468053504",
+              "start": 12,
+              "url": "https://t.co/M6bGkbGhgW"
+            },
+            {
+              "display_url": "pic.x.com/M6bGkbGhgW",
+              "end": 35,
+              "expanded_url": "https://x.com/TvTokuya/status/2072199223215563250/photo/1",
+              "media_key": "3_2072199213480603648",
+              "start": 12,
+              "url": "https://t.co/M6bGkbGhgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072199223215563250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想要不要剪刘海，。 https://t.co/M6bGkbGhgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 423,
+          "like_count": 3038,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1889
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-24T14:48:27.000Z",
+        "description": "姐妹你不要跟我扯 我告诉你 我有公主病 有小仙女人格 我体内住着一个顺直男",
+        "id": "1441414197930172419",
+        "name": "美乐帝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024913682145361920/jTXX3CDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 344,
+          "like_count": 1970,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "TvTokuya",
+        "verified": false
+      }
+    ]
+  }
+}

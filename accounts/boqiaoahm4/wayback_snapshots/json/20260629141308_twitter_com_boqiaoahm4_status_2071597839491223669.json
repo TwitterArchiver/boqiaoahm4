@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071440563610788328",
+    "created_at": "2026-06-29T14:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071597839491223669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1828962134581297152",
+          "start": 0,
+          "username": "Brpl5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071597839491223669",
+    "in_reply_to_user_id": "1828962134581297152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071440563610788328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brpl5U 好萌 我捏捏🤏🤏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071440545126424576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL88M2maIAAqCZ2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071440563610788328",
+        "created_at": "2026-06-29T14:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071597839491223669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1828962134581297152",
+              "start": 0,
+              "username": "Brpl5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071597839491223669",
+        "in_reply_to_user_id": "1828962134581297152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071440563610788328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brpl5U 好萌 我捏捏🤏🤏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071440545126424576"
+          ]
+        },
+        "author_id": "1828962134581297152",
+        "conversation_id": "2071440563610788328",
+        "created_at": "2026-06-29T03:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071440563610788328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J1nUBH9LfU",
+              "end": 23,
+              "expanded_url": "https://x.com/Brpl5U/status/2071440563610788328/photo/1",
+              "media_key": "3_2071440545126424576",
+              "start": 0,
+              "url": "https://t.co/J1nUBH9LfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071440563610788328",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/J1nUBH9LfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 416,
+          "like_count": 2895,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T01:05:59.000Z",
+        "description": "",
+        "id": "1828962134581297152",
+        "name": "N",
+        "pinned_tweet_id": "2064349097528885413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059927938481676288/-dNGO5hh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 19,
+          "like_count": 2093,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "Brpl5U",
+        "verified": false
+      }
+    ]
+  }
+}

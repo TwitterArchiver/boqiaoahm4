@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070899217560993792"
+      ],
+      "media_source_tweet_id": [
+        "2070899225643397172"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071074264208572690",
+    "created_at": "2026-06-28T03:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T04:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071074264208572690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552213521253150720",
+          "start": 3,
+          "username": "acnekot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z4Wi1MoY2y",
+          "end": 50,
+          "expanded_url": "https://x.com/acnekot/status/2070899225643397172/photo/1",
+          "media_key": "3_2070899217560993792",
+          "start": 27,
+          "url": "https://t.co/z4Wi1MoY2y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071074264208572690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070899225643397172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acnekot: 追求小众是一件很大众的事情 https://t.co/z4Wi1MoY2y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2381,
+        "media_key": "3_2070899217560993792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1P3cRbgAAZcf9.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070899217560993792"
+          ],
+          "media_source_tweet_id": [
+            "2070899225643397172"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071074264208572690",
+        "created_at": "2026-06-28T03:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071074264208572690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552213521253150720",
+              "start": 3,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z4Wi1MoY2y",
+              "end": 50,
+              "expanded_url": "https://x.com/acnekot/status/2070899225643397172/photo/1",
+              "media_key": "3_2070899217560993792",
+              "start": 27,
+              "url": "https://t.co/z4Wi1MoY2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071074264208572690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070899225643397172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acnekot: 追求小众是一件很大众的事情 https://t.co/z4Wi1MoY2y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070899217560993792"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2070899225643397172",
+        "created_at": "2026-06-27T15:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070899225643397172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z4Wi1MoY2y",
+              "end": 37,
+              "expanded_url": "https://x.com/acnekot/status/2070899225643397172/photo/1",
+              "media_key": "3_2070899217560993792",
+              "start": 14,
+              "url": "https://t.co/z4Wi1MoY2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070899225643397172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2605,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "追求小众是一件很大众的事情 https://t.co/z4Wi1MoY2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 404,
+          "like_count": 2787,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 803,
+          "like_count": 94991,
+          "listed_count": 9,
+          "media_count": 4048,
+          "tweet_count": 17148
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

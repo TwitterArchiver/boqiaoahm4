@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071867563689341389",
+    "created_at": "2026-06-30T11:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071913587619352945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2066323895972777984",
+          "start": 0,
+          "username": "whyaiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071913587619352945",
+    "in_reply_to_user_id": "2066323895972777984",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071913319641108658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyaiu_ mua——🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071867563689341389",
+        "created_at": "2026-06-30T11:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071913587619352945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2066323895972777984",
+              "start": 0,
+              "username": "whyaiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071913587619352945",
+        "in_reply_to_user_id": "2066323895972777984",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071913319641108658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyaiu_ mua——🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066323895972777984",
+        "conversation_id": "2071867563689341389",
+        "created_at": "2026-06-30T11:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071913319641108658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071913319641108658",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071913201344950623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 那你亲亲我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 414,
+          "like_count": 2976,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T00:57:15.000Z",
+        "description": "=威士忌3.0\n♀/高校生/海外/OD/自傷/病み垢\n無言fo致歉\n前世寻回互fo",
+        "id": "2066323895972777984",
+        "location": "浅尝辄止 是命运轻轻放过我",
+        "name": "病名は愛だった",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066324785001381888/dV5cly_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 65,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "whyaiu_",
+        "verified": false
+      }
+    ]
+  }
+}

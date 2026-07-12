@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071620999196647471",
+    "created_at": "2026-06-29T15:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071620999196647471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1958921879185760260",
+          "start": 3,
+          "username": "lndngdng1114681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071620999196647471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071293306068414884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lndngdng1114681: 真的很喜欢不带任何色欲和目的 就单纯的那种小暧昧式聊天 互相分享今天做了什么有趣的事情 煲一下电话粥 想想就好幸福吧 可是青春期遇到的人都是以想睡我为目的而跟我聊天 好没意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071620999196647471",
+        "created_at": "2026-06-29T15:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071620999196647471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1958921879185760260",
+              "start": 3,
+              "username": "lndngdng1114681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071620999196647471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071293306068414884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lndngdng1114681: 真的很喜欢不带任何色欲和目的 就单纯的那种小暧昧式聊天 互相分享今天做了什么有趣的事情 煲一下电话粥 想想就好幸福吧 可是青春期遇到的人都是以想睡我为目的而跟我聊天 好没意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958921879185760260",
+        "conversation_id": "2071293306068414884",
+        "created_at": "2026-06-28T18:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071293306068414884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071293306068414884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 35225,
+          "like_count": 749,
+          "quote_count": 5,
+          "reply_count": 77,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "真的很喜欢不带任何色欲和目的 就单纯的那种小暧昧式聊天 互相分享今天做了什么有趣的事情 煲一下电话粥 想想就好幸福吧 可是青春期遇到的人都是以想睡我为目的而跟我聊天 好没意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 416,
+          "like_count": 2920,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T15:59:16.000Z",
+        "description": "什么都发 主要碎碎念｜sub-brat｜infj 🐾",
+        "id": "1958921879185760260",
+        "location": "喵喵",
+        "name": "咚咚",
+        "pinned_tweet_id": "1972642595307483496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972651742425755648/kZ_0ygxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 21,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 1664
+        },
+        "url": "",
+        "username": "lndngdng1114681",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068715947247222784",
+        "3_2068715947259826176"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068715958202732612",
+    "created_at": "2026-06-21T15:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068715958202732612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yVirEbQP9S",
+          "end": 42,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2068715958202732612/photo/1",
+          "media_key": "3_2068715947247222784",
+          "start": 19,
+          "url": "https://t.co/yVirEbQP9S"
+        },
+        {
+          "display_url": "pic.x.com/yVirEbQP9S",
+          "end": 42,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2068715958202732612/photo/1",
+          "media_key": "3_2068715947259826176",
+          "start": 19,
+          "url": "https://t.co/yVirEbQP9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068715958202732612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈这辈子第一次主动道歉好鸡巴气啊 https://t.co/yVirEbQP9S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2068715947247222784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWOMYjbQAA9zyo.jpg",
+        "width": 706
+      },
+      {
+        "height": 913,
+        "media_key": "3_2068715947259826176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWOMYmbkAA3Zhw.jpg",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068715947247222784",
+            "3_2068715947259826176"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068715958202732612",
+        "created_at": "2026-06-21T15:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068715958202732612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yVirEbQP9S",
+              "end": 42,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2068715958202732612/photo/1",
+              "media_key": "3_2068715947247222784",
+              "start": 19,
+              "url": "https://t.co/yVirEbQP9S"
+            },
+            {
+              "display_url": "pic.x.com/yVirEbQP9S",
+              "end": 42,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2068715958202732612/photo/1",
+              "media_key": "3_2068715947259826176",
+              "start": 19,
+              "url": "https://t.co/yVirEbQP9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068715958202732612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈这辈子第一次主动道歉好鸡巴气啊 https://t.co/yVirEbQP9S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 397,
+          "like_count": 2419,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1425
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

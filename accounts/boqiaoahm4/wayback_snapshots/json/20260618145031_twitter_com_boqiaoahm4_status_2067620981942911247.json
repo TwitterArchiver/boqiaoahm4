@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2067619977751089338",
+    "created_at": "2026-06-18T14:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067620981942911247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066912899738828800",
+          "start": 0,
+          "username": "Qiouqiou9297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067620981942911247",
+    "in_reply_to_user_id": "2066912899738828800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067620442094145959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiouqiou9297 🥺亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2067619977751089338",
+        "created_at": "2026-06-18T14:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067620981942911247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066912899738828800",
+              "start": 0,
+              "username": "Qiouqiou9297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067620981942911247",
+        "in_reply_to_user_id": "2066912899738828800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067620442094145959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiouqiou9297 🥺亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066912899738828800",
+        "conversation_id": "2067619977751089338",
+        "created_at": "2026-06-18T14:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067620442094145959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067620442094145959",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067619977751089338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 可爱～亲亲，咱不理傻呗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 387,
+          "like_count": 2225,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T15:57:50.000Z",
+        "description": "我重生了！@qiouqiou0114 有割有负面，无性别主义（但喜欢被叫姐姐hh）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "qiouqiou0114"
+              }
+            ]
+          }
+        },
+        "id": "2066912899738828800",
+        "name": "Qiou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066914283829809152/0R6Nfymf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 44,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 42
+        },
+        "username": "Qiouqiou9297",
+        "verified": false
+      }
+    ]
+  }
+}

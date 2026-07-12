@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059451100567318528"
+      ],
+      "media_source_tweet_id": [
+        "2059451106208698388"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2059590519437852912",
+    "created_at": "2026-05-27T11:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059590519437852912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5XKenFhqW3",
+          "end": 46,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2059451106208698388/photo/1",
+          "media_key": "3_2059451100567318528",
+          "start": 23,
+          "url": "https://t.co/5XKenFhqW3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059590519437852912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059451106208698388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: 🥵🥵🥵 https://t.co/5XKenFhqW3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2059451100567318528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSj3VGaMAASnxt.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059451100567318528"
+          ],
+          "media_source_tweet_id": [
+            "2059451106208698388"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2059590519437852912",
+        "created_at": "2026-05-27T11:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059590519437852912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XKenFhqW3",
+              "end": 46,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2059451106208698388/photo/1",
+              "media_key": "3_2059451100567318528",
+              "start": 23,
+              "url": "https://t.co/5XKenFhqW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059590519437852912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059451106208698388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: 🥵🥵🥵 https://t.co/5XKenFhqW3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059451100567318528"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2059451106208698388",
+        "created_at": "2026-05-27T01:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059451106208698388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XKenFhqW3",
+              "end": 27,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2059451106208698388/photo/1",
+              "media_key": "3_2059451100567318528",
+              "start": 4,
+              "url": "https://t.co/5XKenFhqW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059451106208698388",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 70965,
+          "like_count": 653,
+          "quote_count": 11,
+          "reply_count": 36,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "🥵🥵🥵 https://t.co/5XKenFhqW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 77,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 124
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6016,
+          "following_count": 674,
+          "like_count": 17997,
+          "listed_count": 11,
+          "media_count": 1840,
+          "tweet_count": 5108
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

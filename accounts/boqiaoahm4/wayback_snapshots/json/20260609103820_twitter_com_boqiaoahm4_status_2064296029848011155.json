@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064296029848011155",
+    "created_at": "2026-06-09T10:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064296029848011155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666072064481173506",
+          "start": 3,
+          "username": "shiyiyi22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064296029848011155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064204516187390274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiyiyi22: 你到底要我怎么做 我爬进笼子里给你当狗可以吗 别不理我了 我想你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064296029848011155",
+        "created_at": "2026-06-09T10:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064296029848011155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1666072064481173506",
+              "start": 3,
+              "username": "shiyiyi22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064296029848011155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064204516187390274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiyiyi22: 你到底要我怎么做 我爬进笼子里给你当狗可以吗 别不理我了 我想你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666072064481173506",
+        "conversation_id": "2064204516187390274",
+        "created_at": "2026-06-09T04:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064204516187390274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064204516187390274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 489,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你到底要我怎么做 我爬进笼子里给你当狗可以吗 别不理我了 我想你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 308,
+          "like_count": 1142,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 930
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T13:18:49.000Z",
+        "description": "这里是小语/未成年女高/泛性恋/把推当朋友圈发 /170+的萌妹 体重为良子/随机掉落精修自拍ing/欢迎找我终末地扩列呀/no🚪",
+        "id": "1666072064481173506",
+        "location": "哥伦比亚",
+        "name": "迟迟不语",
+        "pinned_tweet_id": "2063232056134619432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064281043964993536/A_shLhLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 193,
+          "like_count": 3361,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 4126
+        },
+        "username": "shiyiyi22",
+        "verified": false
+      }
+    ]
+  }
+}

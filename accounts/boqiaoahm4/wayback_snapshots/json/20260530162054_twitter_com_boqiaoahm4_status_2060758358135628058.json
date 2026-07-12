@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060758358135628058",
+    "created_at": "2026-05-30T16:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060758358135628058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727273302857822208",
+          "start": 3,
+          "username": "sisi7758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060758358135628058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060658101813174305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sisi7758: 一群毛都刮的干干净净的人还想过六一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060758358135628058",
+        "created_at": "2026-05-30T16:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060758358135628058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727273302857822208",
+              "start": 3,
+              "username": "sisi7758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060758358135628058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060658101813174305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sisi7758: 一群毛都刮的干干净净的人还想过六一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727273302857822208",
+        "conversation_id": "2060658101813174305",
+        "created_at": "2026-05-30T09:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060658101813174305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060658101813174305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16834,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一群毛都刮的干干净净的人还想过六一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 131,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 314
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:30:33.000Z",
+        "description": "喜欢女生 小小思@sisidawang123 盗图替我挡灾 推广自辨 谢谢你的喜欢^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sisidawang123"
+              }
+            ]
+          }
+        },
+        "id": "1727273302857822208",
+        "location": "加联系方式需要过🚪(｡ì _ í｡) 188/520",
+        "name": "sisi",
+        "pinned_tweet_id": "1849324033722179911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833178858688032768/L96o5aM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13393,
+          "following_count": 14,
+          "like_count": 2292,
+          "listed_count": 31,
+          "media_count": 168,
+          "tweet_count": 1475
+        },
+        "username": "sisi7758",
+        "verified": false
+      }
+    ]
+  }
+}

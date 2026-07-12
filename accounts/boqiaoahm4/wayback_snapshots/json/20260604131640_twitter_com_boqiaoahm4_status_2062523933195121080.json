@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2062523933195121080",
+    "created_at": "2026-06-04T13:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062523933195121080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1558757725797986305",
+          "start": 3,
+          "username": "Hemlock_113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062523933195121080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062512874497724803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hemlock_113: canmake跟花知晓的化妆品真的好好看（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2062523933195121080",
+        "created_at": "2026-06-04T13:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062523933195121080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1558757725797986305",
+              "start": 3,
+              "username": "Hemlock_113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062523933195121080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062512874497724803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hemlock_113: canmake跟花知晓的化妆品真的好好看（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558757725797986305",
+        "conversation_id": "2062512874497724803",
+        "created_at": "2026-06-04T12:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062512874497724803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062512874497724803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "canmake跟花知晓的化妆品真的好好看（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 181,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 567
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T10:09:46.000Z",
+        "description": "HK 10 单机小透明\nod｜自伤｜碎碎念｜小作文\n社交恐惧 低情商 神经病 同类互fo",
+        "id": "1558757725797986305",
+        "location": "🚪52 好友位",
+        "name": "凝檬_☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052171541077704704/sPryY9_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 57,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 551
+        },
+        "username": "Hemlock_113",
+        "verified": false
+      }
+    ]
+  }
+}

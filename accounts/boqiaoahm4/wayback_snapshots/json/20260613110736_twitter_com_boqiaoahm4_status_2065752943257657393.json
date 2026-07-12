@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065752026492158059",
+    "created_at": "2026-06-13T11:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065752943257657393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055381611580100608",
+          "start": 0,
+          "username": "mikashs0Da"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065752943257657393",
+    "in_reply_to_user_id": "2055381611580100608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065752026492158059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikashs0Da 86"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2065752023711309824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsGhU9bYAAKMYB.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065752026492158059",
+        "created_at": "2026-06-13T11:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065752943257657393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055381611580100608",
+              "start": 0,
+              "username": "mikashs0Da"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065752943257657393",
+        "in_reply_to_user_id": "2055381611580100608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065752026492158059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikashs0Da 86"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065752023711309824"
+          ]
+        },
+        "author_id": "2055381611580100608",
+        "conversation_id": "2065752026492158059",
+        "created_at": "2026-06-13T11:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065752026492158059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFIFYwYPTo",
+              "end": 28,
+              "expanded_url": "https://x.com/mikashs0Da/status/2065752026492158059/photo/1",
+              "media_key": "3_2065752023711309824",
+              "start": 5,
+              "url": "https://t.co/OFIFYwYPTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065752026492158059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想玩！ https://t.co/OFIFYwYPTo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 357,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1174
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T20:17:13.000Z",
+        "description": "likeyouyou！ 唉我總是很困",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikashis0da",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikashis0da",
+                "start": 0,
+                "url": "https://t.co/3EwfP0sebC"
+              }
+            ]
+          }
+        },
+        "id": "2055381611580100608",
+        "location": "你家的衣櫃",
+        "name": "L1v1a03o",
+        "pinned_tweet_id": "2065386804195553385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063891452313354240/jsgdhsbd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 158,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/3EwfP0sebC",
+        "username": "mikashs0Da",
+        "verified": false
+      }
+    ]
+  }
+}

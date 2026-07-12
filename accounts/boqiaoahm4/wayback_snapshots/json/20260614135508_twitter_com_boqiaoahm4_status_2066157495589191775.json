@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2066147628728066440",
+    "created_at": "2026-06-14T13:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066157495589191775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1885927801435611136",
+          "start": 0,
+          "username": "qixiaogonyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066157495589191775",
+    "in_reply_to_user_id": "1885927801435611136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066157117749510167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qixiaogonyiyi 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2066147628728066440",
+        "created_at": "2026-06-14T13:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066157495589191775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1885927801435611136",
+              "start": 0,
+              "username": "qixiaogonyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066157495589191775",
+        "in_reply_to_user_id": "1885927801435611136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066157117749510167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qixiaogonyiyi 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885927801435611136",
+        "conversation_id": "2066147628728066440",
+        "created_at": "2026-06-14T13:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066157117749510167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066157117749510167",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066147628728066440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 抱抱🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 365,
+          "like_count": 1720,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T05:46:50.000Z",
+        "description": "这里乙刃绘，可以叫我乙乙，11。🏳️‍⚧️。原账号登不上了这个是新号。主要在推上分享自己喜欢的东西和碎碎念。",
+        "id": "1885927801435611136",
+        "location": "小酒馆",
+        "name": "乙乙小姐的复仇大计😈",
+        "pinned_tweet_id": "1945888889995968799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932763510796431360/8B7dfvLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 762,
+          "like_count": 52293,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 4476
+        },
+        "username": "qixiaogonyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

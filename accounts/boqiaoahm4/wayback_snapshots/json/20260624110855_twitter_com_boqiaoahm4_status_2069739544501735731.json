@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2069624812759294223",
+    "created_at": "2026-06-24T11:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069739544501735731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620684748090904576",
+          "start": 0,
+          "username": "ldunyng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069739544501735731",
+    "in_reply_to_user_id": "1620684748090904576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069738668680741287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ldunyng1 这集有点恐怖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2069624812759294223",
+        "created_at": "2026-06-24T11:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069739544501735731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620684748090904576",
+              "start": 0,
+              "username": "ldunyng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069739544501735731",
+        "in_reply_to_user_id": "1620684748090904576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069738668680741287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ldunyng1 这集有点恐怖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620684748090904576",
+        "conversation_id": "2069624812759294223",
+        "created_at": "2026-06-24T11:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069738668680741287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069738668680741287",
+        "in_reply_to_user_id": "1620684748090904576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069738398626226333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 而且还有很大概率血液进入呼吸道呛到但是又咳不出来，边咳咳着咳着把肺的碎片咳出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 398,
+          "like_count": 2574,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T07:25:38.000Z",
+        "description": "不要看350234😭",
+        "id": "1620684748090904576",
+        "location": "还有350235😭",
+        "name": "AAA泰拉本子大王😋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620739715849916418/x_rT86Tr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 84,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "ldunyng1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062377508599726080",
+        "3_2062377508566093824"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2062377526576423062",
+    "created_at": "2026-06-04T03:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062377526576423062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bF2EA0AmEm",
+          "end": 30,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2062377526576423062/photo/1",
+          "media_key": "3_2062377508599726080",
+          "start": 7,
+          "url": "https://t.co/bF2EA0AmEm"
+        },
+        {
+          "display_url": "pic.x.com/bF2EA0AmEm",
+          "end": 30,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2062377526576423062/photo/1",
+          "media_key": "3_2062377508566093824",
+          "start": 7,
+          "url": "https://t.co/bF2EA0AmEm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062377526576423062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吸入一些渡聘 https://t.co/bF2EA0AmEm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062377508599726080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8JasjXgAA5aiK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062377508566093824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8JasbWUAANPuL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062377508599726080",
+            "3_2062377508566093824"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2062377526576423062",
+        "created_at": "2026-06-04T03:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062377526576423062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bF2EA0AmEm",
+              "end": 30,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2062377526576423062/photo/1",
+              "media_key": "3_2062377508599726080",
+              "start": 7,
+              "url": "https://t.co/bF2EA0AmEm"
+            },
+            {
+              "display_url": "pic.x.com/bF2EA0AmEm",
+              "end": 30,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2062377526576423062/photo/1",
+              "media_key": "3_2062377508566093824",
+              "start": 7,
+              "url": "https://t.co/bF2EA0AmEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062377526576423062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸入一些渡聘 https://t.co/bF2EA0AmEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 177,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 546
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

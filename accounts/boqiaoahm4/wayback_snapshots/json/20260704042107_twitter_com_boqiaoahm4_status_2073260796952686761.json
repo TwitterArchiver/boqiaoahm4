@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2073260453262979417",
+    "created_at": "2026-07-04T04:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073260796952686761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063574393201311745",
+          "start": 0,
+          "username": "zhoushashaff9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073260796952686761",
+    "in_reply_to_user_id": "2063574393201311745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073260453262979417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoushashaff9n 啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2073260435223334912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWzYZhb0AAfux4.jpg",
+        "width": 780
+      },
+      {
+        "height": 360,
+        "media_key": "3_2073260435206520832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWzYZdbQAA3PLR.jpg",
+        "width": 780
+      },
+      {
+        "height": 360,
+        "media_key": "3_2073260435202322432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWzYZcbMAAFe1K.jpg",
+        "width": 780
+      },
+      {
+        "height": 1386,
+        "media_key": "3_2073260441141383168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWzYvkaEAApBpj.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2073260453262979417",
+        "created_at": "2026-07-04T04:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073260796952686761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063574393201311745",
+              "start": 0,
+              "username": "zhoushashaff9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073260796952686761",
+        "in_reply_to_user_id": "2063574393201311745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073260453262979417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoushashaff9n 啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073260435223334912",
+            "3_2073260435206520832",
+            "3_2073260435202322432",
+            "3_2073260441141383168"
+          ]
+        },
+        "author_id": "2063574393201311745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073260453262979417",
+        "created_at": "2026-07-04T04:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073260453262979417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2057425772198215680",
+              "start": 21,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBHVJaYOwW",
+              "end": 56,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2073260453262979417/photo/1",
+              "media_key": "3_2073260435223334912",
+              "start": 33,
+              "url": "https://t.co/pBHVJaYOwW"
+            },
+            {
+              "display_url": "pic.x.com/pBHVJaYOwW",
+              "end": 56,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2073260453262979417/photo/1",
+              "media_key": "3_2073260435206520832",
+              "start": 33,
+              "url": "https://t.co/pBHVJaYOwW"
+            },
+            {
+              "display_url": "pic.x.com/pBHVJaYOwW",
+              "end": 56,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2073260453262979417/photo/1",
+              "media_key": "3_2073260435202322432",
+              "start": 33,
+              "url": "https://t.co/pBHVJaYOwW"
+            },
+            {
+              "display_url": "pic.x.com/pBHVJaYOwW",
+              "end": 56,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2073260453262979417/photo/1",
+              "media_key": "3_2073260441141383168",
+              "start": 33,
+              "url": "https://t.co/pBHVJaYOwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073260453262979417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我心肝我宝贝一个跑酷大师一个跳一跳大师@boqiaoahm4 https://t.co/pBHVJaYOwW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 421,
+          "like_count": 3231,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2025
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:52:00.000Z",
+        "description": "sasioverlxrd",
+        "id": "2063574393201311745",
+        "name": "當不了你的天使該怎麼說謊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063830903596748800/5CJyAve0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "zhoushashaff9n",
+        "verified": false
+      }
+    ]
+  }
+}

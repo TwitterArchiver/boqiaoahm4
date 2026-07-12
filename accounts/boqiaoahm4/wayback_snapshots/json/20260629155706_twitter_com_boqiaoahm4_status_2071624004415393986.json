@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071538754658189593",
+    "created_at": "2026-06-29T15:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071624004415393986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620684748090904576",
+          "start": 0,
+          "username": "ldunyng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071624004415393986",
+    "in_reply_to_user_id": "1620684748090904576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071623864971628864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ldunyng1 图一是奶盖啊啊啊啊啊🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071538754658189593",
+        "created_at": "2026-06-29T15:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071624004415393986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620684748090904576",
+              "start": 0,
+              "username": "ldunyng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071624004415393986",
+        "in_reply_to_user_id": "1620684748090904576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071623864971628864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ldunyng1 图一是奶盖啊啊啊啊啊🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620684748090904576",
+        "conversation_id": "2071538754658189593",
+        "created_at": "2026-06-29T15:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071623864971628864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071623864971628864",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071539069067440413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 图一皮肤组织看着不太好，色泽有些暗沉，疑似有较小的紫红色出血点，肝脏可能不太好，凝血功能可能有点问题，图二没看懂是什么组织🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 416,
+          "like_count": 2923,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T07:25:38.000Z",
+        "description": "不要看350234😭",
+        "id": "1620684748090904576",
+        "location": "还有350235😭",
+        "name": "AAA泰拉本子大王😋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620739715849916418/x_rT86Tr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 98,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "ldunyng1",
+        "verified": false
+      }
+    ]
+  }
+}

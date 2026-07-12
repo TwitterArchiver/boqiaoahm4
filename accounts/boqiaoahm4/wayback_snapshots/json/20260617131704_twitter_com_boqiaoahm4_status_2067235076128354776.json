@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067235069866229760"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2067235076128354776",
+    "created_at": "2026-06-17T13:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067235076128354776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2vJdq22dLO",
+          "end": 23,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2067235076128354776/photo/1",
+          "media_key": "3_2067235069866229760",
+          "start": 0,
+          "url": "https://t.co/2vJdq22dLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067235076128354776",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2vJdq22dLO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067235076128354776].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067235076128354776",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067235076128354776"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 383,
+        "media_key": "3_2067235069866229760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBLV-abQAAT7uv.jpg",
+        "width": 828
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 383,
+          "like_count": 2074,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1137
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059609173751627776"
+      ],
+      "media_source_tweet_id": [
+        "2059721299392446532"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059954778721935456",
+    "created_at": "2026-05-28T11:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059954778721935456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "868354704",
+          "start": 3,
+          "username": "TheCatsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgwESf0VNx",
+          "end": 37,
+          "expanded_url": "https://x.com/TheCatsX/status/2059721299392446532/video/1",
+          "media_key": "13_2059609173751627776",
+          "start": 14,
+          "url": "https://t.co/hgwESf0VNx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059954778721935456",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1038
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059721299392446532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheCatsX: https://t.co/hgwESf0VNx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10054,
+        "height": 1280,
+        "media_key": "13_2059609173751627776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059609173751627776/img/75pi217TvHT2WYvZ.jpg",
+        "public_metrics": {
+          "view_count": 69691
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059609173751627776/vid/avc1/320x568/NlzXMJFD7fS_RzHU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059609173751627776/vid/avc1/480x852/UxudYTR-SeJZeC2D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059609173751627776/vid/avc1/720x1280/zmhjAwTT7jg8Sxjz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059609173751627776/pl/OLA_4qjkZCzMB7Rg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059609173751627776"
+          ],
+          "media_source_tweet_id": [
+            "2059721299392446532"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059954778721935456",
+        "created_at": "2026-05-28T11:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059954778721935456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "868354704",
+              "start": 3,
+              "username": "TheCatsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgwESf0VNx",
+              "end": 37,
+              "expanded_url": "https://x.com/TheCatsX/status/2059721299392446532/video/1",
+              "media_key": "13_2059609173751627776",
+              "start": 14,
+              "url": "https://t.co/hgwESf0VNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059954778721935456",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1038
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059721299392446532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheCatsX: https://t.co/hgwESf0VNx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059609173751627776"
+          ]
+        },
+        "author_id": "868354704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059721299392446532",
+        "created_at": "2026-05-27T19:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059721299392446532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgwESf0VNx",
+              "end": 23,
+              "expanded_url": "https://x.com/TheCatsX/status/2059721299392446532/video/1",
+              "media_key": "13_2059609173751627776",
+              "start": 0,
+              "url": "https://t.co/hgwESf0VNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059721299392446532",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 550,
+          "impression_count": 322715,
+          "like_count": 6410,
+          "quote_count": 100,
+          "reply_count": 91,
+          "retweet_count": 1038
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hgwESf0VNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人理我我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 106,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 196
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-08T17:25:41.000Z",
+        "description": "Your Daily Dose of Cats",
+        "id": "868354704",
+        "name": "The Cats 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007846404929245184/sAN8YnzL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367430,
+          "following_count": 10,
+          "like_count": 1011,
+          "listed_count": 624,
+          "media_count": 12751,
+          "tweet_count": 13342
+        },
+        "username": "TheCatsX",
+        "verified": true
+      }
+    ]
+  }
+}

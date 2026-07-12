@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2074824354014310625",
+    "created_at": "2026-07-08T11:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074824354014310625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2030244886369419264",
+          "start": 3,
+          "username": "cnr2i8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074824354014310625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074760405117960433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cnr2i8964: 哪天决定要自杀了我就去卖逼 想操我的可以期待一下了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2074824354014310625",
+        "created_at": "2026-07-08T11:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074824354014310625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2030244886369419264",
+              "start": 3,
+              "username": "cnr2i8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074824354014310625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074760405117960433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cnr2i8964: 哪天决定要自杀了我就去卖逼 想操我的可以期待一下了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030244886369419264",
+        "conversation_id": "2074760405117960433",
+        "created_at": "2026-07-08T07:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074760405117960433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074760405117960433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 669,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪天决定要自杀了我就去卖逼 想操我的可以期待一下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 431,
+          "like_count": 3510,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:35:11.000Z",
+        "description": "在西安 只回口令\n没过🚪别让我打视频谢谢",
+        "id": "2030244886369419264",
+        "location": "🚪99/300线下",
+        "name": "成長變成了我和我的隔閡",
+        "pinned_tweet_id": "2043249308900958500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067188758555009024/th5aZSO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 76,
+          "like_count": 3579,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "cnr2i8964",
+        "verified": false
+      }
+    ]
+  }
+}

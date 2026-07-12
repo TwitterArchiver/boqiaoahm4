@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066375213642846208",
+        "3_2066375213517008896"
+      ],
+      "media_source_tweet_id": [
+        "2066375218487263566",
+        "2066375218487263566"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066501341804150788",
+    "created_at": "2026-06-15T12:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066501341804150788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "872273445798649856",
+          "start": 3,
+          "username": "AlllexHu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/07bgTJJMtl",
+          "end": 86,
+          "expanded_url": "https://x.com/AlllexHu/status/2066375218487263566/photo/1",
+          "media_key": "3_2066375213642846208",
+          "start": 63,
+          "url": "https://t.co/07bgTJJMtl"
+        },
+        {
+          "display_url": "pic.x.com/07bgTJJMtl",
+          "end": 86,
+          "expanded_url": "https://x.com/AlllexHu/status/2066375218487263566/photo/1",
+          "media_key": "3_2066375213517008896",
+          "start": 63,
+          "url": "https://t.co/07bgTJJMtl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066501341804150788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066375218487263566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlllexHu: 百盛中国我操你们全公司。\n\n妈的餐盘印这玩意也就罢了，薯条包装盒还继续印另一个傻逼和另一头肥猪。 https://t.co/07bgTJJMtl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066375213642846208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK09TwXakAAjCY7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066375213517008896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK09Tv5acAAdRRP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066375213642846208",
+            "3_2066375213517008896"
+          ],
+          "media_source_tweet_id": [
+            "2066375218487263566",
+            "2066375218487263566"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066501341804150788",
+        "created_at": "2026-06-15T12:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066501341804150788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "872273445798649856",
+              "start": 3,
+              "username": "AlllexHu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07bgTJJMtl",
+              "end": 86,
+              "expanded_url": "https://x.com/AlllexHu/status/2066375218487263566/photo/1",
+              "media_key": "3_2066375213642846208",
+              "start": 63,
+              "url": "https://t.co/07bgTJJMtl"
+            },
+            {
+              "display_url": "pic.x.com/07bgTJJMtl",
+              "end": 86,
+              "expanded_url": "https://x.com/AlllexHu/status/2066375218487263566/photo/1",
+              "media_key": "3_2066375213517008896",
+              "start": 63,
+              "url": "https://t.co/07bgTJJMtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066501341804150788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066375218487263566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlllexHu: 百盛中国我操你们全公司。\n\n妈的餐盘印这玩意也就罢了，薯条包装盒还继续印另一个傻逼和另一头肥猪。 https://t.co/07bgTJJMtl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066375213642846208",
+            "3_2066375213517008896"
+          ]
+        },
+        "author_id": "872273445798649856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066375218487263566",
+        "created_at": "2026-06-15T04:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066375218487263566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07bgTJJMtl",
+              "end": 72,
+              "expanded_url": "https://x.com/AlllexHu/status/2066375218487263566/photo/1",
+              "media_key": "3_2066375213642846208",
+              "start": 49,
+              "url": "https://t.co/07bgTJJMtl"
+            },
+            {
+              "display_url": "pic.x.com/07bgTJJMtl",
+              "end": 72,
+              "expanded_url": "https://x.com/AlllexHu/status/2066375218487263566/photo/1",
+              "media_key": "3_2066375213517008896",
+              "start": 49,
+              "url": "https://t.co/07bgTJJMtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066375218487263566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 107790,
+          "like_count": 617,
+          "quote_count": 1,
+          "reply_count": 116,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "百盛中国我操你们全公司。\n\n妈的餐盘印这玩意也就罢了，薯条包装盒还继续印另一个傻逼和另一头肥猪。 https://t.co/07bgTJJMtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 366,
+          "like_count": 1775,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-07T02:06:10.000Z",
+        "description": "梦想是养拉布拉多、开小卖部，和每天吃脆脆鲨。",
+        "id": "872273445798649856",
+        "location": "翻斗大街翻斗花园二号楼1001室",
+        "name": "小朋友🥔",
+        "pinned_tweet_id": "1731508045740663030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1265659743634219008/mwyHzAEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634,
+          "following_count": 301,
+          "like_count": 9441,
+          "listed_count": 13,
+          "media_count": 1369,
+          "tweet_count": 10057
+        },
+        "username": "AlllexHu",
+        "verified": false
+      }
+    ]
+  }
+}

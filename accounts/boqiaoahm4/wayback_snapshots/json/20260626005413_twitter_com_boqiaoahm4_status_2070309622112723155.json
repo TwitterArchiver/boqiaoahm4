@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070168157063688192"
+      ],
+      "media_source_tweet_id": [
+        "2070168207584100581"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2070309622112723155",
+    "created_at": "2026-06-26T00:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070309622112723155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552213521253150720",
+          "start": 3,
+          "username": "acnekot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/46kgjeULuI",
+          "end": 61,
+          "expanded_url": "https://x.com/acnekot/status/2070168207584100581/photo/1",
+          "media_key": "3_2070168157063688192",
+          "start": 38,
+          "url": "https://t.co/46kgjeULuI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070309622112723155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070168207584100581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acnekot: 感觉这种进嵌字汉化组是会被整个汉化组的群员攻击的 https://t.co/46kgjeULuI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1926,
+        "media_key": "3_2070168157063688192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq2-HsbMAApxxV.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070168157063688192"
+          ],
+          "media_source_tweet_id": [
+            "2070168207584100581"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2070309622112723155",
+        "created_at": "2026-06-26T00:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070309622112723155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552213521253150720",
+              "start": 3,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/46kgjeULuI",
+              "end": 61,
+              "expanded_url": "https://x.com/acnekot/status/2070168207584100581/photo/1",
+              "media_key": "3_2070168157063688192",
+              "start": 38,
+              "url": "https://t.co/46kgjeULuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070309622112723155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070168207584100581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acnekot: 感觉这种进嵌字汉化组是会被整个汉化组的群员攻击的 https://t.co/46kgjeULuI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070168157063688192"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2070168207584100581",
+        "created_at": "2026-06-25T15:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070168207584100581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46kgjeULuI",
+              "end": 48,
+              "expanded_url": "https://x.com/acnekot/status/2070168207584100581/photo/1",
+              "media_key": "3_2070168157063688192",
+              "start": 25,
+              "url": "https://t.co/46kgjeULuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070168207584100581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 37924,
+          "like_count": 814,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "感觉这种进嵌字汉化组是会被整个汉化组的群员攻击的 https://t.co/46kgjeULuI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 401,
+          "like_count": 2669,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 800,
+          "like_count": 94857,
+          "listed_count": 9,
+          "media_count": 4034,
+          "tweet_count": 17107
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065510392223428608"
+      ],
+      "media_source_tweet_id": [
+        "2065510399840280583"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065735437159923910",
+    "created_at": "2026-06-13T09:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065735437159923910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1945331416528539649",
+          "start": 3,
+          "username": "bpmiea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NaF5mn36Sm",
+          "end": 49,
+          "expanded_url": "https://x.com/bpmiea/status/2065510399840280583/photo/1",
+          "media_key": "3_2065510392223428608",
+          "start": 26,
+          "url": "https://t.co/NaF5mn36Sm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065735437159923910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065510399840280583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bpmiea: 这个零差评能绷住的是植物人 https://t.co/NaF5mn36Sm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2065510392223428608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoqwhha8AAEUmH.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065510392223428608"
+          ],
+          "media_source_tweet_id": [
+            "2065510399840280583"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065735437159923910",
+        "created_at": "2026-06-13T09:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065735437159923910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1945331416528539649",
+              "start": 3,
+              "username": "bpmiea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaF5mn36Sm",
+              "end": 49,
+              "expanded_url": "https://x.com/bpmiea/status/2065510399840280583/photo/1",
+              "media_key": "3_2065510392223428608",
+              "start": 26,
+              "url": "https://t.co/NaF5mn36Sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065735437159923910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065510399840280583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bpmiea: 这个零差评能绷住的是植物人 https://t.co/NaF5mn36Sm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065510392223428608"
+          ]
+        },
+        "author_id": "1945331416528539649",
+        "conversation_id": "2065510399840280583",
+        "created_at": "2026-06-12T19:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065510399840280583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaF5mn36Sm",
+              "end": 37,
+              "expanded_url": "https://x.com/bpmiea/status/2065510399840280583/photo/1",
+              "media_key": "3_2065510392223428608",
+              "start": 14,
+              "url": "https://t.co/NaF5mn36Sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065510399840280583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 473,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个零差评能绷住的是植物人 https://t.co/NaF5mn36Sm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 355,
+          "like_count": 1581,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1158
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️｜🍥hrt from 2026.1｜2011已出柜小资历年龄党\n不🔪尝试💊 不键政｜archlinux｜gfwfucker｜Vibecoder｜Vocaloid丨随缘发日常，欢迎同类互fo，私信都会回，平时上学周末复活喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bpmiea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bpmiea",
+                "start": 0,
+                "url": "https://t.co/o0j8ZV1aqF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "Hamura-shi, Tokyo",
+        "name": "凪🍥𝓑𝓮𝓼𝓹𝓱𝓲𝓻𝓮𝓜.",
+        "pinned_tweet_id": "2061142577160822877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063194317225938944/NOsxCBhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 405,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/o0j8ZV1aqF",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

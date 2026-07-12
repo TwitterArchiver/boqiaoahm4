@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060045186668113920"
+      ],
+      "media_source_tweet_id": [
+        "2060045191587983717"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060376922484568503",
+    "created_at": "2026-05-29T15:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060376922484568503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KMXolPfu6E",
+          "end": 56,
+          "expanded_url": "https://x.com/bui_tu46916/status/2060045191587983717/photo/1",
+          "media_key": "3_2060045186668113920",
+          "start": 33,
+          "url": "https://t.co/KMXolPfu6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060376922484568503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060045191587983717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 很难想象这个人10年经历了什么 https://t.co/KMXolPfu6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2060045186668113920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbALsSbMAA7L5u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060045186668113920"
+          ],
+          "media_source_tweet_id": [
+            "2060045191587983717"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060376922484568503",
+        "created_at": "2026-05-29T15:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060376922484568503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMXolPfu6E",
+              "end": 56,
+              "expanded_url": "https://x.com/bui_tu46916/status/2060045191587983717/photo/1",
+              "media_key": "3_2060045186668113920",
+              "start": 33,
+              "url": "https://t.co/KMXolPfu6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060376922484568503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060045191587983717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 很难想象这个人10年经历了什么 https://t.co/KMXolPfu6E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060045186668113920"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2060045191587983717",
+        "created_at": "2026-05-28T17:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060045191587983717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMXolPfu6E",
+              "end": 39,
+              "expanded_url": "https://x.com/bui_tu46916/status/2060045191587983717/photo/1",
+              "media_key": "3_2060045186668113920",
+              "start": 16,
+              "url": "https://t.co/KMXolPfu6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060045191587983717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1569,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象这个人10年经历了什么 https://t.co/KMXolPfu6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 128,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 250
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 218,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 668
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "2068147358714691977",
+    "created_at": "2026-06-20T01:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068147358714691977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057274759226986496",
+          "start": 3,
+          "username": "yoirruu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068147358714691977",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 408
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067873650393731300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoirruu: 담배연기를 싫어하던 아이가\n전자담배를 입에 물고\n술취한 아빠를 싫어하던 아이가\n낮술로 깡소주를 까고\n물약 먹기 싫어하던 아이가\n알약을 한움쿰씩 집어삼키고\n요리도 할줄 모르던 아이가\n자신의 팔다리에 칼을 대고"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2068147358714691977",
+        "created_at": "2026-06-20T01:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068147358714691977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057274759226986496",
+              "start": 3,
+              "username": "yoirruu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068147358714691977",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067873650393731300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoirruu: 담배연기를 싫어하던 아이가\n전자담배를 입에 물고\n술취한 아빠를 싫어하던 아이가\n낮술로 깡소주를 까고\n물약 먹기 싫어하던 아이가\n알약을 한움쿰씩 집어삼키고\n요리도 할줄 모르던 아이가\n자신의 팔다리에 칼을 대고"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057274759226986496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2067873650393731300",
+        "created_at": "2026-06-19T07:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067873650393731300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067873650393731300",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 227395,
+          "like_count": 4011,
+          "quote_count": 315,
+          "reply_count": 9,
+          "retweet_count": 408
+        },
+        "reply_settings": "everyone",
+        "text": "담배연기를 싫어하던 아이가\n전자담배를 입에 물고\n술취한 아빠를 싫어하던 아이가\n낮술로 깡소주를 까고\n물약 먹기 싫어하던 아이가\n알약을 한움쿰씩 집어삼키고\n요리도 할줄 모르던 아이가\n자신의 팔다리에 칼을 대고"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 393,
+          "like_count": 2329,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1325
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T01:38:27.000Z",
+        "description": "섹트시러요 /  ✝️승천✝️ / 선팔 맞팔 / 제발 그만 썰어줘 / 우울계 99.99% / 초멘 초뎀 등 환영 / 11년생 중삐리 /  https://t.co/EvP3cXOlzX / https://t.co/xBtgUklRYl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/9273784019",
+                "end": 99,
+                "expanded_url": "http://pushoong.com/ask/9273784019",
+                "start": 76,
+                "url": "https://t.co/EvP3cXOlzX"
+              },
+              {
+                "display_url": "asked.kr/yoirruu",
+                "end": 125,
+                "expanded_url": "http://asked.kr/yoirruu",
+                "start": 102,
+                "url": "https://t.co/xBtgUklRYl"
+              }
+            ]
+          }
+        },
+        "id": "2057274759226986496",
+        "location": "메르",
+        "name": "요이루 ₥",
+        "pinned_tweet_id": "2067873650393731300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062311648682262528/ycbqGO-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 245,
+          "like_count": 2270,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 1228
+        },
+        "url": "",
+        "username": "yoirruu",
+        "verified": false
+      }
+    ]
+  }
+}

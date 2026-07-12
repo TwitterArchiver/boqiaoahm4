@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2068705843521188258",
+    "created_at": "2026-06-21T14:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068708106809581743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1828962134581297152",
+          "start": 0,
+          "username": "Brpl5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068708106809581743",
+    "in_reply_to_user_id": "1828962134581297152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068707784980602906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brpl5U 亲亲你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2068705843521188258",
+        "created_at": "2026-06-21T14:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068708106809581743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1828962134581297152",
+              "start": 0,
+              "username": "Brpl5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068708106809581743",
+        "in_reply_to_user_id": "1828962134581297152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068707784980602906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brpl5U 亲亲你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828962134581297152",
+        "conversation_id": "2068705843521188258",
+        "created_at": "2026-06-21T14:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068707784980602906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068707784980602906",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068705843521188258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 想亲脸上那个红红的东西 你懂吧！。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 397,
+          "like_count": 2416,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1420
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T01:05:59.000Z",
+        "description": "",
+        "id": "1828962134581297152",
+        "name": "N",
+        "pinned_tweet_id": "2064349097528885413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059927938481676288/-dNGO5hh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 20,
+          "like_count": 2018,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "Brpl5U",
+        "verified": false
+      }
+    ]
+  }
+}

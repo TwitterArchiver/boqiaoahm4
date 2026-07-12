@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2059648045294444684",
+    "created_at": "2026-05-28T10:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059943247410270654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856030990105235456",
+          "start": 0,
+          "username": "ren_chuan5563"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059943247410270654",
+    "in_reply_to_user_id": "1856030990105235456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059821746640110078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ren_chuan5563 喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2059648045294444684",
+        "created_at": "2026-05-28T10:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059943247410270654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856030990105235456",
+              "start": 0,
+              "username": "ren_chuan5563"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059943247410270654",
+        "in_reply_to_user_id": "1856030990105235456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059821746640110078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ren_chuan5563 喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856030990105235456",
+        "conversation_id": "2059648045294444684",
+        "created_at": "2026-05-28T02:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059821746640110078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059821746640110078",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059648045294444684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 喜欢喜欢喜欢真的很喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 95,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 186
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T17:47:50.000Z",
+        "description": "为了要博世界赞美便苦恼，害怕永远也得不到，忘掉了偶尔懒理世界会更好",
+        "id": "1856030990105235456",
+        "location": "哈尔滨",
+        "name": "花洒viva",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059331082512891904/FS0pMKdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 22,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "username": "ren_chuan5563",
+        "verified": false
+      }
+    ]
+  }
+}

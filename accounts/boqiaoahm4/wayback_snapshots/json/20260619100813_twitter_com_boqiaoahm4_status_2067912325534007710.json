@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2067906964345192654",
+    "created_at": "2026-06-19T10:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067912325534007710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058924635547402243",
+          "start": 0,
+          "username": "kasemarin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067912325534007710",
+    "in_reply_to_user_id": "2058924635547402243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067911095692767458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin520 燥候🥵🥵🤏🤏🤏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2067906964345192654",
+        "created_at": "2026-06-19T10:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067912325534007710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058924635547402243",
+              "start": 0,
+              "username": "kasemarin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067912325534007710",
+        "in_reply_to_user_id": "2058924635547402243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067911095692767458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin520 燥候🥵🥵🤏🤏🤏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058924635547402243",
+        "conversation_id": "2067906964345192654",
+        "created_at": "2026-06-19T10:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067911095692767458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067911095692767458",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067910974313775528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 老婆我今晚给你暖床！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 390,
+          "like_count": 2295,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1280
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T14:55:29.000Z",
+        "description": "08 ISFP 无聊的留学生 自伤/bpd 叫我小殇\n匿名箱https://t.co/ut4i56f9mf\n欧尼酱 @elkvika 恋人@minako8964 老婆@boqiaoahm4\n 互fo请私信 有时候看不到 查成分回fo 成分不过关会取 健全人只fo女孩子男的滚一股顺直味恶心死了去死去死去死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "elkvika"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "minako8964"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "boqiaoahm4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 30,
+                "url": "https://t.co/ut4i56f9mf"
+              }
+            ]
+          }
+        },
+        "id": "2058924635547402243",
+        "location": "死死死",
+        "name": "用户1219（互fo私）",
+        "pinned_tweet_id": "2064694234670928276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060345615574618114/FMDvngb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 36,
+          "like_count": 2856,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "kasemarin520",
+        "verified": false
+      }
+    ]
+  }
+}

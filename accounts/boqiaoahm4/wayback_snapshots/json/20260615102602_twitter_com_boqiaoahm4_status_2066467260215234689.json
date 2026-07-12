@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066254579042594817",
+        "3_2066254579030003712",
+        "3_2066254579025752064",
+        "3_2066254579038302208"
+      ],
+      "media_source_tweet_id": [
+        "2066254611145691260",
+        "2066254611145691260",
+        "2066254611145691260",
+        "2066254611145691260"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2066467260215234689",
+    "created_at": "2026-06-15T10:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066467260215234689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045598149704818688",
+          "start": 3,
+          "username": "Dodioibs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y81bR6IjXg",
+          "end": 104,
+          "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+          "media_key": "3_2066254579042594817",
+          "start": 81,
+          "url": "https://t.co/y81bR6IjXg"
+        },
+        {
+          "display_url": "pic.x.com/y81bR6IjXg",
+          "end": 104,
+          "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+          "media_key": "3_2066254579030003712",
+          "start": 81,
+          "url": "https://t.co/y81bR6IjXg"
+        },
+        {
+          "display_url": "pic.x.com/y81bR6IjXg",
+          "end": 104,
+          "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+          "media_key": "3_2066254579025752064",
+          "start": 81,
+          "url": "https://t.co/y81bR6IjXg"
+        },
+        {
+          "display_url": "pic.x.com/y81bR6IjXg",
+          "end": 104,
+          "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+          "media_key": "3_2066254579038302208",
+          "start": 81,
+          "url": "https://t.co/y81bR6IjXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066467260215234689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066254611145691260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dodioibs: 这里小酸\n自殇 od｜地雷女💗\nbpd-cptsd -重抑中焦｜💝\n麻烦帮忙转转哦，我想认识新朋友。精神病和同类必回其他会查一点属性 https://t.co/y81bR6IjXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_2066254579042594817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzPl5dbsAEd9IE.jpg",
+        "width": 1700
+      },
+      {
+        "height": 1060,
+        "media_key": "3_2066254579030003712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzPl5abkAAWEba.jpg",
+        "width": 720
+      },
+      {
+        "height": 1450,
+        "media_key": "3_2066254579025752064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzPl5ZasAA1sr7.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066254579038302208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzPl5caMAA-eBL.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066254579042594817",
+            "3_2066254579030003712",
+            "3_2066254579025752064",
+            "3_2066254579038302208"
+          ],
+          "media_source_tweet_id": [
+            "2066254611145691260",
+            "2066254611145691260",
+            "2066254611145691260",
+            "2066254611145691260"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2066467260215234689",
+        "created_at": "2026-06-15T10:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066467260215234689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045598149704818688",
+              "start": 3,
+              "username": "Dodioibs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y81bR6IjXg",
+              "end": 104,
+              "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+              "media_key": "3_2066254579042594817",
+              "start": 81,
+              "url": "https://t.co/y81bR6IjXg"
+            },
+            {
+              "display_url": "pic.x.com/y81bR6IjXg",
+              "end": 104,
+              "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+              "media_key": "3_2066254579030003712",
+              "start": 81,
+              "url": "https://t.co/y81bR6IjXg"
+            },
+            {
+              "display_url": "pic.x.com/y81bR6IjXg",
+              "end": 104,
+              "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+              "media_key": "3_2066254579025752064",
+              "start": 81,
+              "url": "https://t.co/y81bR6IjXg"
+            },
+            {
+              "display_url": "pic.x.com/y81bR6IjXg",
+              "end": 104,
+              "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+              "media_key": "3_2066254579038302208",
+              "start": 81,
+              "url": "https://t.co/y81bR6IjXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066467260215234689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066254611145691260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dodioibs: 这里小酸\n自殇 od｜地雷女💗\nbpd-cptsd -重抑中焦｜💝\n麻烦帮忙转转哦，我想认识新朋友。精神病和同类必回其他会查一点属性 https://t.co/y81bR6IjXg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066254579042594817",
+            "3_2066254579030003712",
+            "3_2066254579025752064",
+            "3_2066254579038302208"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2066254611145691260",
+        "created_at": "2026-06-14T20:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066254611145691260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y81bR6IjXg",
+              "end": 90,
+              "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+              "media_key": "3_2066254579042594817",
+              "start": 67,
+              "url": "https://t.co/y81bR6IjXg"
+            },
+            {
+              "display_url": "pic.x.com/y81bR6IjXg",
+              "end": 90,
+              "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+              "media_key": "3_2066254579030003712",
+              "start": 67,
+              "url": "https://t.co/y81bR6IjXg"
+            },
+            {
+              "display_url": "pic.x.com/y81bR6IjXg",
+              "end": 90,
+              "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+              "media_key": "3_2066254579025752064",
+              "start": 67,
+              "url": "https://t.co/y81bR6IjXg"
+            },
+            {
+              "display_url": "pic.x.com/y81bR6IjXg",
+              "end": 90,
+              "expanded_url": "https://x.com/Dodioibs/status/2066254611145691260/photo/1",
+              "media_key": "3_2066254579038302208",
+              "start": 67,
+              "url": "https://t.co/y81bR6IjXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066254611145691260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这里小酸\n自殇 od｜地雷女💗\nbpd-cptsd -重抑中焦｜💝\n麻烦帮忙转转哦，我想认识新朋友。精神病和同类必回其他会查一点属性 https://t.co/y81bR6IjXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 365,
+          "like_count": 1772,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1211
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2066254611145691260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 258,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 898
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

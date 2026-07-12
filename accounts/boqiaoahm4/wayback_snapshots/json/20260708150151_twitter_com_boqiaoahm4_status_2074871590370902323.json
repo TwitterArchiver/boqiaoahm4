@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2074871590370902323",
+    "created_at": "2026-07-08T15:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074871590370902323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fox_sakura233/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/fox_sakura233/status/2074868589614752197",
+          "start": 12,
+          "url": "https://t.co/AST9fl7z48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074871590370902323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074868589614752197",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每次打完气就性欲高涨 https://t.co/AST9fl7z48"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2074868576520126465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtp-isaQAEerOE.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2074871590370902323",
+        "created_at": "2026-07-08T15:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074871590370902323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fox_sakura233/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/fox_sakura233/status/2074868589614752197",
+              "start": 12,
+              "url": "https://t.co/AST9fl7z48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074871590370902323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074868589614752197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每次打完气就性欲高涨 https://t.co/AST9fl7z48"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074868576520126465"
+          ]
+        },
+        "author_id": "1998751032650969088",
+        "conversation_id": "2074868589614752197",
+        "created_at": "2026-07-08T14:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074868589614752197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7X0gT1Hfy",
+              "end": 57,
+              "expanded_url": "https://x.com/Fox_Sakura233/status/2074868589614752197/photo/1",
+              "media_key": "3_2074868576520126465",
+              "start": 34,
+              "url": "https://t.co/L7X0gT1Hfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074868589614752197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个可以在淘宝买到，可以做蛋糕，也可以极乐，这是真极乐，就买这个吧 https://t.co/L7X0gT1Hfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 431,
+          "like_count": 3526,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2167
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 592,
+          "like_count": 798,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

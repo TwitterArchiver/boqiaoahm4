@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060891979962368000"
+      ],
+      "media_source_tweet_id": [
+        "2060892654892966368"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2061076789338997204",
+    "created_at": "2026-05-31T13:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061076789338997204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vYnCx3Mgqs",
+          "end": 111,
+          "expanded_url": "https://x.com/igeekbb/status/2060892654892966368/photo/1",
+          "media_key": "3_2060891979962368000",
+          "start": 88,
+          "url": "https://t.co/vYnCx3Mgqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061076789338997204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060892654892966368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 我知道峰哥为什么会疯了，白天看着股票跌个一二十万，晚上为了一两千，还要陪着笑脸拍祝福视频，拍半个月祝福视频又美美补仓了，最后在底部割肉，搁谁谁不疯。 https://t.co/vYnCx3Mgqs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1691,
+        "media_key": "3_2060891979962368000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnCVjIbwAA_09y.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060891979962368000"
+          ],
+          "media_source_tweet_id": [
+            "2060892654892966368"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2061076789338997204",
+        "created_at": "2026-05-31T13:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061076789338997204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYnCx3Mgqs",
+              "end": 111,
+              "expanded_url": "https://x.com/igeekbb/status/2060892654892966368/photo/1",
+              "media_key": "3_2060891979962368000",
+              "start": 88,
+              "url": "https://t.co/vYnCx3Mgqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061076789338997204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060892654892966368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 我知道峰哥为什么会疯了，白天看着股票跌个一二十万，晚上为了一两千，还要陪着笑脸拍祝福视频，拍半个月祝福视频又美美补仓了，最后在底部割肉，搁谁谁不疯。 https://t.co/vYnCx3Mgqs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060891979962368000"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2060892654892966368",
+        "created_at": "2026-05-31T01:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060892654892966368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYnCx3Mgqs",
+              "end": 98,
+              "expanded_url": "https://x.com/igeekbb/status/2060892654892966368/photo/1",
+              "media_key": "3_2060891979962368000",
+              "start": 75,
+              "url": "https://t.co/vYnCx3Mgqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060892654892966368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 159301,
+          "like_count": 485,
+          "quote_count": 5,
+          "reply_count": 150,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我知道峰哥为什么会疯了，白天看着股票跌个一二十万，晚上为了一两千，还要陪着笑脸拍祝福视频，拍半个月祝福视频又美美补仓了，最后在底部割肉，搁谁谁不疯。 https://t.co/vYnCx3Mgqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 133,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 374
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80926,
+          "following_count": 1,
+          "like_count": 15678,
+          "listed_count": 330,
+          "media_count": 8099,
+          "tweet_count": 12649
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

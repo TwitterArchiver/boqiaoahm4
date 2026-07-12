@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2058923532265075021",
+    "created_at": "2026-05-25T14:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058925862464933982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997511338453876736",
+          "start": 0,
+          "username": "kasemarin1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058925862464933982",
+    "in_reply_to_user_id": "1997511338453876736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058923532265075021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin1219 感谢！🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2058923532265075021",
+        "created_at": "2026-05-25T14:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058925862464933982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997511338453876736",
+              "start": 0,
+              "username": "kasemarin1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058925862464933982",
+        "in_reply_to_user_id": "1997511338453876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058923532265075021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin1219 感谢！🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997511338453876736",
+        "conversation_id": "2058923532265075021",
+        "created_at": "2026-05-25T14:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058923532265075021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boqiaoahm4/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/boqiaoahm4/status/2058902425382326345",
+              "start": 6,
+              "url": "https://t.co/re9VDQIrp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058923532265075021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058902425382326345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "PDD助力 https://t.co/re9VDQIrp5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 77
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T03:40:04.000Z",
+        "description": "08 ISFP 互fo🉑➕🛰️   亲爱的吮指男们 钱买不来我的好友位 我也不开文具店",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 0,
+                "url": "https://t.co/EWnTz4Y1cl"
+              }
+            ]
+          }
+        },
+        "id": "1997511338453876736",
+        "location": "新世界",
+        "name": "小殇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044756604940419072/65qaA5JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 21,
+          "like_count": 2391,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/EWnTz4Y1cl",
+        "username": "kasemarin1219",
+        "verified": false
+      }
+    ]
+  }
+}

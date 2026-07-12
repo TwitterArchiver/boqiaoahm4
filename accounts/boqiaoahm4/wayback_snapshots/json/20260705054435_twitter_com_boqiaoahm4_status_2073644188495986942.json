@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2073644188495986942",
+    "created_at": "2026-07-05T05:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073644188495986942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Are you shadowbanned on Twitter?",
+          "display_url": "hisubway.online/shadowban/",
+          "end": 169,
+          "expanded_url": "https://hisubway.online/shadowban/",
+          "images": [
+            {
+              "height": 1050,
+              "url": "https://pbs.twimg.com/news_img/2073396523686363136/HyfrRvTp?format=png&name=orig",
+              "width": 2000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2073396523686363136/HyfrRvTp?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 146,
+          "status": 200,
+          "title": "Twitter Shadowban Test",
+          "unwound_url": "https://hisubway.online/shadowban/",
+          "url": "https://t.co/zhwAZKM3Hr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073644188495986942",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Test results for boqiaoahm4\n🟢 No Search Suggestion Ban\n🟢 No Search Ban\n🟢 No Ghost Ban\n🟢 No Reply Deboosting\n\nTwitter Shadowban Test (by HiSubway)\nhttps://t.co/zhwAZKM3Hr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2073644188495986942",
+        "created_at": "2026-07-05T05:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073644188495986942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Are you shadowbanned on Twitter?",
+              "display_url": "hisubway.online/shadowban/",
+              "end": 169,
+              "expanded_url": "https://hisubway.online/shadowban/",
+              "images": [
+                {
+                  "height": 1050,
+                  "url": "https://pbs.twimg.com/news_img/2073396523686363136/HyfrRvTp?format=png&name=orig",
+                  "width": 2000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2073396523686363136/HyfrRvTp?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 146,
+              "status": 200,
+              "title": "Twitter Shadowban Test",
+              "unwound_url": "https://hisubway.online/shadowban/",
+              "url": "https://t.co/zhwAZKM3Hr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073644188495986942",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Test results for boqiaoahm4\n🟢 No Search Suggestion Ban\n🟢 No Search Ban\n🟢 No Ghost Ban\n🟢 No Reply Deboosting\n\nTwitter Shadowban Test (by HiSubway)\nhttps://t.co/zhwAZKM3Hr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 422,
+          "like_count": 3262,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2051
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

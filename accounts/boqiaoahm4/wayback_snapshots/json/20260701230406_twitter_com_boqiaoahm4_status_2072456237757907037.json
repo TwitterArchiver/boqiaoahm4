@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072135224050462720"
+      ],
+      "media_source_tweet_id": [
+        "2072135236369170655"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2072456237757907037",
+    "created_at": "2026-07-01T23:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T00:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072456237757907037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1478634807810670592",
+          "start": 3,
+          "username": "haohao123455"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fhNtSunTzv",
+          "end": 41,
+          "expanded_url": "https://x.com/haohao123455/status/2072135236369170655/photo/1",
+          "media_key": "3_2072135224050462720",
+          "start": 18,
+          "url": "https://t.co/fhNtSunTzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072456237757907037",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072135236369170655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haohao123455: https://t.co/fhNtSunTzv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2072135224050462720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMG0AfQaMAABuYo.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072135224050462720"
+          ],
+          "media_source_tweet_id": [
+            "2072135236369170655"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2072456237757907037",
+        "created_at": "2026-07-01T23:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072456237757907037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1478634807810670592",
+              "start": 3,
+              "username": "haohao123455"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhNtSunTzv",
+              "end": 41,
+              "expanded_url": "https://x.com/haohao123455/status/2072135236369170655/photo/1",
+              "media_key": "3_2072135224050462720",
+              "start": 18,
+              "url": "https://t.co/fhNtSunTzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072456237757907037",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072135236369170655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haohao123455: https://t.co/fhNtSunTzv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072135224050462720"
+          ]
+        },
+        "author_id": "1478634807810670592",
+        "conversation_id": "2072135236369170655",
+        "created_at": "2026-07-01T01:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072135236369170655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhNtSunTzv",
+              "end": 23,
+              "expanded_url": "https://x.com/haohao123455/status/2072135236369170655/photo/1",
+              "media_key": "3_2072135224050462720",
+              "start": 0,
+              "url": "https://t.co/fhNtSunTzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072135236369170655",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 125627,
+          "like_count": 1459,
+          "quote_count": 7,
+          "reply_count": 109,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fhNtSunTzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 422,
+          "like_count": 3093,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T07:50:02.000Z",
+        "description": "",
+        "id": "1478634807810670592",
+        "name": "爆炒霸王龙",
+        "pinned_tweet_id": "1855552005055689000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991917804367552512/og8vENQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7526,
+          "following_count": 380,
+          "like_count": 8818,
+          "listed_count": 16,
+          "media_count": 40,
+          "tweet_count": 3444
+        },
+        "url": "",
+        "username": "haohao123455",
+        "verified": false
+      }
+    ]
+  }
+}

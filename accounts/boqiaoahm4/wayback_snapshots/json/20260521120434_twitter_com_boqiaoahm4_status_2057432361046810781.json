@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2057432361046810781",
+    "created_at": "2026-05-21T12:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057432361046810781"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057432361046810781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想 注销掉所有社交账号带着我的药和刀片离家出走逃离这个充满恐惧的地方 谁也不要找到我就好啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2057432361046810781",
+        "created_at": "2026-05-21T12:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057432361046810781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057432361046810781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想 注销掉所有社交账号带着我的药和刀片离家出走逃离这个充满恐惧的地方 谁也不要找到我就好啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "别对我发脾气 我 很脆弱",
+        "id": "2057425772198215680",
+        "name": "熵增",
+        "pinned_tweet_id": "2057427103348621718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2072337965909754025",
+    "created_at": "2026-07-01T15:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072337965909754025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0427smtieshou/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/0427smtieshou/status/2072145668278522088",
+          "start": 16,
+          "url": "https://t.co/ERsnCvvrme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072337965909754025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072145668278522088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真想过给同学杀了藏尸在天台上 https://t.co/ERsnCvvrme"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_2069231861658722305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdjajgWoAElT8b.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2072337965909754025",
+        "created_at": "2026-07-01T15:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072337965909754025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0427smtieshou/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/0427smtieshou/status/2072145668278522088",
+              "start": 16,
+              "url": "https://t.co/ERsnCvvrme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072337965909754025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072145668278522088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真想过给同学杀了藏尸在天台上 https://t.co/ERsnCvvrme"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069231861658722305"
+          ]
+        },
+        "author_id": "1239436070292320257",
+        "conversation_id": "2072145668278522088",
+        "created_at": "2026-07-01T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072145668278522088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0HIdSNg0z",
+              "end": 44,
+              "expanded_url": "https://x.com/0427SMtieshou/status/2072145668278522088/photo/1",
+              "media_key": "3_2069231861658722305",
+              "start": 21,
+              "url": "https://t.co/V0HIdSNg0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072145668278522088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 98276,
+          "like_count": 1708,
+          "quote_count": 6,
+          "reply_count": 86,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "。。。。。我觉得真的会有人这么干。。。。 https://t.co/V0HIdSNg0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 424,
+          "like_count": 3082,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "每日精进\n日拱一卒\n热爱经济\n热爱AI\n热爱币圈\n一起发东西南北旋风财！",
+        "id": "1239436070292320257",
+        "name": "铁手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052880484473217024/W7AIOFFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77947,
+          "following_count": 1524,
+          "like_count": 22381,
+          "listed_count": 433,
+          "media_count": 2109,
+          "tweet_count": 12361
+        },
+        "url": "",
+        "username": "0427SMtieshou",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073420366274273281"
+      ],
+      "media_source_tweet_id": [
+        "2073549921102496025"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2073719844688781687",
+    "created_at": "2026-07-05T10:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073719844688781687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1399574572836569090",
+          "start": 3,
+          "username": "barbie_context"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ty09f94C8A",
+          "end": 105,
+          "expanded_url": "https://x.com/barbie_context/status/2073549921102496025/photo/1",
+          "media_key": "3_2073420366274273281",
+          "start": 82,
+          "url": "https://t.co/Ty09f94C8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073719844688781687",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 439
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073549921102496025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @barbie_context: cuando me doy cuenta que hablé mucho con una persona chismosa https://t.co/Ty09f94C8A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2073420366274273281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZE1nHWoAEdVzA.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073420366274273281"
+          ],
+          "media_source_tweet_id": [
+            "2073549921102496025"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2073719844688781687",
+        "created_at": "2026-07-05T10:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073719844688781687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1399574572836569090",
+              "start": 3,
+              "username": "barbie_context"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ty09f94C8A",
+              "end": 105,
+              "expanded_url": "https://x.com/barbie_context/status/2073549921102496025/photo/1",
+              "media_key": "3_2073420366274273281",
+              "start": 82,
+              "url": "https://t.co/Ty09f94C8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073719844688781687",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 439
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073549921102496025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @barbie_context: cuando me doy cuenta que hablé mucho con una persona chismosa https://t.co/Ty09f94C8A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073420366274273281"
+          ]
+        },
+        "author_id": "1399574572836569090",
+        "conversation_id": "2073549921102496025",
+        "created_at": "2026-07-04T23:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073549921102496025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ty09f94C8A",
+              "end": 85,
+              "expanded_url": "https://x.com/barbie_context/status/2073549921102496025/photo/1",
+              "media_key": "3_2073420366274273281",
+              "start": 62,
+              "url": "https://t.co/Ty09f94C8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073549921102496025",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 39393,
+          "like_count": 3442,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 439
+        },
+        "reply_settings": "everyone",
+        "text": "cuando me doy cuenta que hablé mucho con una persona chismosa https://t.co/Ty09f94C8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 421,
+          "like_count": 3299,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-01T03:52:46.000Z",
+        "description": "Memes and funny videos every day / Parody / Ads DM 📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/barbie_outcont…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/barbie_outcontext",
+                "start": 0,
+                "url": "https://t.co/a7KzR7zpk7"
+              }
+            ]
+          }
+        },
+        "id": "1399574572836569090",
+        "location": "España",
+        "name": "Frases Barbie",
+        "pinned_tweet_id": "2065121885562499167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445246636813393920/24GoCqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973556,
+          "following_count": 81,
+          "like_count": 7147,
+          "listed_count": 429,
+          "media_count": 20351,
+          "tweet_count": 24998
+        },
+        "url": "https://t.co/a7KzR7zpk7",
+        "username": "barbie_context",
+        "verified": true
+      }
+    ]
+  }
+}

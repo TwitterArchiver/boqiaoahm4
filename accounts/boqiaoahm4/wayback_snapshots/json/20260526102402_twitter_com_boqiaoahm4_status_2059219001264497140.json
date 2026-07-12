@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2058902425382326345",
+    "created_at": "2026-05-26T10:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059219001264497140"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059219001264497140",
+    "in_reply_to_user_id": "2057425772198215680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058902425382326345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢帮转的各位！🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2058902416695967744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKw1uZbQAA0OBb.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2058902425382326345",
+        "created_at": "2026-05-26T10:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059219001264497140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059219001264497140",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058902425382326345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢帮转的各位！🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058902416695967744"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2058902425382326345",
+        "created_at": "2026-05-25T13:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058902425382326345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgRojg3lzT",
+              "end": 43,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2058902425382326345/photo/1",
+              "media_key": "3_2058902416695967744",
+              "start": 20,
+              "url": "https://t.co/pgRojg3lzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058902425382326345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1883,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "求帮转🥺大号被msk制裁了 推u寻回中 https://t.co/pgRojg3lzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 36,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 78
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

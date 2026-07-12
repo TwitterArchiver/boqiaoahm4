@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060820194876911623"
+      ],
+      "media_source_tweet_id": [
+        "2062746231391035894"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2062855558613643529",
+    "created_at": "2026-06-05T11:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062855558613643529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "911294414781337600",
+          "start": 3,
+          "username": "itsD3lay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mz3R1Mianu",
+          "end": 107,
+          "expanded_url": "https://x.com/itsD3lay/status/2062746231391035894/photo/1",
+          "media_key": "3_2060820194876911623",
+          "start": 84,
+          "url": "https://t.co/Mz3R1Mianu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062855558613643529",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062746231391035894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsD3lay: cuando hace calor por la noche y abrazas la pared xq es lo único frío https://t.co/Mz3R1Mianu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_2060820194876911623",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmBDG2W8AcUNM5.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060820194876911623"
+          ],
+          "media_source_tweet_id": [
+            "2062746231391035894"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2062855558613643529",
+        "created_at": "2026-06-05T11:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062855558613643529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "911294414781337600",
+              "start": 3,
+              "username": "itsD3lay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mz3R1Mianu",
+              "end": 107,
+              "expanded_url": "https://x.com/itsD3lay/status/2062746231391035894/photo/1",
+              "media_key": "3_2060820194876911623",
+              "start": 84,
+              "url": "https://t.co/Mz3R1Mianu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062855558613643529",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062746231391035894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsD3lay: cuando hace calor por la noche y abrazas la pared xq es lo único frío https://t.co/Mz3R1Mianu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060820194876911623"
+          ]
+        },
+        "author_id": "911294414781337600",
+        "conversation_id": "2062746231391035894",
+        "created_at": "2026-06-05T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062746231391035894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mz3R1Mianu",
+              "end": 93,
+              "expanded_url": "https://x.com/itsD3lay/status/2062746231391035894/photo/1",
+              "media_key": "3_2060820194876911623",
+              "start": 70,
+              "url": "https://t.co/Mz3R1Mianu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062746231391035894",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8398,
+          "like_count": 1040,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "cuando hace calor por la noche y abrazas la pared xq es lo único frío https://t.co/Mz3R1Mianu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 193,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 629
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-22T18:21:34.000Z",
+        "description": "📥 contacto: itsd3laybusiness@gmail.com📩 \n@ToshiBet | BYTS COMP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "ToshiBet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pablosans34/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/pablosans34/",
+                "start": 0,
+                "url": "https://t.co/EjiUPH2UjF"
+              }
+            ]
+          }
+        },
+        "id": "911294414781337600",
+        "location": "bcn",
+        "name": "itsD3lay🐧",
+        "pinned_tweet_id": "2062534871818334311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611849135732277249/52jKE673_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156460,
+          "following_count": 1237,
+          "like_count": 773453,
+          "listed_count": 278,
+          "media_count": 21789,
+          "tweet_count": 75998
+        },
+        "url": "https://t.co/EjiUPH2UjF",
+        "username": "itsD3lay",
+        "verified": true
+      }
+    ]
+  }
+}

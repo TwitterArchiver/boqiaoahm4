@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070528430286757891",
+        "3_2070528442584514560",
+        "3_2070528462800949249",
+        "3_2070528479876001792"
+      ],
+      "media_source_tweet_id": [
+        "2070528489481019462",
+        "2070528489481019462",
+        "2070528489481019462",
+        "2070528489481019462"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2070539022792101925",
+    "created_at": "2026-06-26T16:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070539022792101925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060627239654629376",
+          "start": 3,
+          "username": "ashdieds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xPyRawlMB0",
+          "end": 51,
+          "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+          "media_key": "3_2070528430286757891",
+          "start": 28,
+          "url": "https://t.co/xPyRawlMB0"
+        },
+        {
+          "display_url": "pic.x.com/xPyRawlMB0",
+          "end": 51,
+          "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+          "media_key": "3_2070528442584514560",
+          "start": 28,
+          "url": "https://t.co/xPyRawlMB0"
+        },
+        {
+          "display_url": "pic.x.com/xPyRawlMB0",
+          "end": 51,
+          "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+          "media_key": "3_2070528462800949249",
+          "start": 28,
+          "url": "https://t.co/xPyRawlMB0"
+        },
+        {
+          "display_url": "pic.x.com/xPyRawlMB0",
+          "end": 51,
+          "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+          "media_key": "3_2070528479876001792",
+          "start": 28,
+          "url": "https://t.co/xPyRawlMB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070539022792101925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070528489481019462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashdieds: 漏回fo私信我就好\n请随意 https://t.co/xPyRawlMB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1841,
+        "media_key": "3_2070528430286757891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv-oyCW4AM2a77.jpg",
+        "width": 934
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070528442584514560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv-pf2XwAAinDa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070528462800949249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv-qrKWEAEvGCa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2070528479876001792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv-rqxWsAAsb7i.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070528430286757891",
+            "3_2070528442584514560",
+            "3_2070528462800949249",
+            "3_2070528479876001792"
+          ],
+          "media_source_tweet_id": [
+            "2070528489481019462",
+            "2070528489481019462",
+            "2070528489481019462",
+            "2070528489481019462"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2070539022792101925",
+        "created_at": "2026-06-26T16:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070539022792101925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060627239654629376",
+              "start": 3,
+              "username": "ashdieds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPyRawlMB0",
+              "end": 51,
+              "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+              "media_key": "3_2070528430286757891",
+              "start": 28,
+              "url": "https://t.co/xPyRawlMB0"
+            },
+            {
+              "display_url": "pic.x.com/xPyRawlMB0",
+              "end": 51,
+              "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+              "media_key": "3_2070528442584514560",
+              "start": 28,
+              "url": "https://t.co/xPyRawlMB0"
+            },
+            {
+              "display_url": "pic.x.com/xPyRawlMB0",
+              "end": 51,
+              "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+              "media_key": "3_2070528462800949249",
+              "start": 28,
+              "url": "https://t.co/xPyRawlMB0"
+            },
+            {
+              "display_url": "pic.x.com/xPyRawlMB0",
+              "end": 51,
+              "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+              "media_key": "3_2070528479876001792",
+              "start": 28,
+              "url": "https://t.co/xPyRawlMB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070539022792101925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070528489481019462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashdieds: 漏回fo私信我就好\n请随意 https://t.co/xPyRawlMB0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070528430286757891",
+            "3_2070528442584514560",
+            "3_2070528462800949249",
+            "3_2070528479876001792"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2070528489481019462",
+        "created_at": "2026-06-26T15:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070528489481019462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPyRawlMB0",
+              "end": 37,
+              "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+              "media_key": "3_2070528430286757891",
+              "start": 14,
+              "url": "https://t.co/xPyRawlMB0"
+            },
+            {
+              "display_url": "pic.x.com/xPyRawlMB0",
+              "end": 37,
+              "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+              "media_key": "3_2070528442584514560",
+              "start": 14,
+              "url": "https://t.co/xPyRawlMB0"
+            },
+            {
+              "display_url": "pic.x.com/xPyRawlMB0",
+              "end": 37,
+              "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+              "media_key": "3_2070528462800949249",
+              "start": 14,
+              "url": "https://t.co/xPyRawlMB0"
+            },
+            {
+              "display_url": "pic.x.com/xPyRawlMB0",
+              "end": 37,
+              "expanded_url": "https://x.com/ashdieds/status/2070528489481019462/photo/1",
+              "media_key": "3_2070528479876001792",
+              "start": 14,
+              "url": "https://t.co/xPyRawlMB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070528489481019462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "漏回fo私信我就好\n请随意 https://t.co/xPyRawlMB0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 401,
+          "like_count": 2715,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "一个餐劵逼，一个oder ，一个神经病，一个coser，一个乞丐。求互转互fo 会查成分",
+        "id": "2060627239654629376",
+        "location": "好的",
+        "name": "蚀蛊（二代转世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 165,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063640007324094599",
+    "created_at": "2026-06-07T15:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063651028072079697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1620684748090904576",
+          "start": 0,
+          "username": "ldunyng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063651028072079697",
+    "in_reply_to_user_id": "1620684748090904576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063649828748562445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ldunyng1 卧槽 兄弟 我感动哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063640007324094599",
+        "created_at": "2026-06-07T15:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063651028072079697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1620684748090904576",
+              "start": 0,
+              "username": "ldunyng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063651028072079697",
+        "in_reply_to_user_id": "1620684748090904576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063649828748562445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ldunyng1 卧槽 兄弟 我感动哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620684748090904576",
+        "conversation_id": "2063640007324094599",
+        "created_at": "2026-06-07T15:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063649828748562445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063649828748562445",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063648903086698539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 找不到施法材料我可以帮你找找，视频本子小说都能找找，喜欢的题材也可以告诉我，我去找找"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 244,
+          "like_count": 947,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 787
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-01T07:25:38.000Z",
+        "description": "（・∀・）おやおや~",
+        "id": "1620684748090904576",
+        "location": "?僕も分からないよ?",
+        "name": "ロク",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620739715849916418/x_rT86Tr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 67,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 71
+        },
+        "username": "ldunyng1",
+        "verified": false
+      }
+    ]
+  }
+}

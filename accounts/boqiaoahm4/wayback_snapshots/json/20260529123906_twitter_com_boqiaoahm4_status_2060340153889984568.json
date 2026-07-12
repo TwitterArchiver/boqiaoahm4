@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060340153889984568",
+    "created_at": "2026-05-29T12:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060340153889984568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981638054688501760",
+          "start": 3,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060340153889984568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060192985325973594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw114514: 我真发现中推永久不衰的几个话题\n1六四\n2卫生巾\n3跨女能不能上女卫\n4男同不能把屁眼叫逼\n5各种辱包和辱腊\n\n每过一段这几个都跟会增殖似的，我真求求了恁土逼女大民逗包蜜腊友能不能换个话题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060340153889984568",
+        "created_at": "2026-05-29T12:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060340153889984568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981638054688501760",
+              "start": 3,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060340153889984568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060192985325973594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw114514: 我真发现中推永久不衰的几个话题\n1六四\n2卫生巾\n3跨女能不能上女卫\n4男同不能把屁眼叫逼\n5各种辱包和辱腊\n\n每过一段这几个都跟会增殖似的，我真求求了恁土逼女大民逗包蜜腊友能不能换个话题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2060192985325973594",
+        "created_at": "2026-05-29T02:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060192985325973594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060192985325973594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13780,
+          "like_count": 355,
+          "quote_count": 2,
+          "reply_count": 71,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我真发现中推永久不衰的几个话题\n1六四\n2卫生巾\n3跨女能不能上女卫\n4男同不能把屁眼叫逼\n5各种辱包和辱腊\n\n每过一段这几个都跟会增殖似的，我真求求了恁土逼女大民逗包蜜腊友能不能换个话题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 127,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 245
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n🫛：@rn1021929822675",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "rn1021929822675"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3467,
+          "following_count": 3054,
+          "like_count": 6906,
+          "listed_count": 10,
+          "media_count": 546,
+          "tweet_count": 4559
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064242642573983786",
+    "created_at": "2026-06-09T07:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064242642573983786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1723546829454032896",
+          "start": 3,
+          "username": "yeshsbxhjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064242642573983786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063974477122412981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yeshsbxhjs: 我真觉得我的初中同学应该全部死光"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064242642573983786",
+        "created_at": "2026-06-09T07:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064242642573983786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723546829454032896",
+              "start": 3,
+              "username": "yeshsbxhjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064242642573983786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063974477122412981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yeshsbxhjs: 我真觉得我的初中同学应该全部死光"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723546829454032896",
+        "conversation_id": "2063974477122412981",
+        "created_at": "2026-06-08T13:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063974477122412981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063974477122412981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5213,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我真觉得我的初中同学应该全部死光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 305,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 914
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T03:43:27.000Z",
+        "description": "这里是秋秋！09 （欢迎宝宝互fo 会查一下成分 ）我成分很复杂 我会视监每一个关注我的人🙌互fo的宝宝可以找我聊天🥹我很社恐 说话像人机 没回就是手机不在……或者我在睡觉",
+        "id": "1723546829454032896",
+        "location": "天堂",
+        "name": "秋秋OvO",
+        "pinned_tweet_id": "2051527837619036362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051218647474135040/7Z32hHKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 193,
+          "like_count": 675,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 648
+        },
+        "username": "yeshsbxhjs",
+        "verified": false
+      }
+    ]
+  }
+}

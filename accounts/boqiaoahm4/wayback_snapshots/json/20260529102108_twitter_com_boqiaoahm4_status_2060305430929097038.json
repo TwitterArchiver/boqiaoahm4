@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060305430929097038",
+    "created_at": "2026-05-29T10:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060305430929097038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060305430929097038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035826386976506361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 我觉得你是一个傻蛋，好了，不跟你废话了，我得去OD了，今天的目标是吃到第4000片右美沙芬，吃不到就不睡觉。\n你自个儿在地球上慢慢割手，慢慢昏死，慢慢缓过来吧！记住，七月别来火星，来了我也不见你，因为我要去火星另一边OD，没空搭理你这个废物…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060305430929097038",
+        "created_at": "2026-05-29T10:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060305430929097038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837114188046684161",
+              "start": 3,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060305430929097038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035826386976506361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winterfruit_1: 我觉得你是一个傻蛋，好了，不跟你废话了，我得去OD了，今天的目标是吃到第4000片右美沙芬，吃不到就不睡觉。\n你自个儿在地球上慢慢割手，慢慢昏死，慢慢缓过来吧！记住，七月别来火星，来了我也不见你，因为我要去火星另一边OD，没空搭理你这个废物…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2035826386976506361",
+        "created_at": "2026-03-22T21:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T22:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035826386976506361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035826386976506361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2517,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得你是一个傻蛋，好了，不跟你废话了，我得去OD了，今天的目标是吃到第4000片右美沙芬，吃不到就不睡觉。\n你自个儿在地球上慢慢割手，慢慢昏死，慢慢缓过来吧！记住，七月别来火星，来了我也不见你，因为我要去火星另一边OD，没空搭理你这个废物！拜拜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 127,
+          "like_count": 269,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 239
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 1474,
+          "like_count": 42200,
+          "listed_count": 6,
+          "media_count": 1835,
+          "tweet_count": 12525
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2074460658805174642",
+    "created_at": "2026-07-07T11:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074460658805174642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhoushashaff9n…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/zhoushashaff9n/status/2074459542654693466",
+          "start": 5,
+          "url": "https://t.co/uOpTtJvt1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074460658805174642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074459542654693466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们懂吗 https://t.co/uOpTtJvt1E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074459525357490176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn18oXb0AAiHJ2.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2074459525361631232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn18oYbAAAA4kS.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2074459525382631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn18odbcAAywrb.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2074460658805174642",
+        "created_at": "2026-07-07T11:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074460658805174642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhoushashaff9n…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/zhoushashaff9n/status/2074459542654693466",
+              "start": 5,
+              "url": "https://t.co/uOpTtJvt1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074460658805174642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074459542654693466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们懂吗 https://t.co/uOpTtJvt1E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074459525357490176",
+            "3_2074459525361631232",
+            "3_2074459525382631424"
+          ]
+        },
+        "author_id": "2063574393201311745",
+        "conversation_id": "2074459542654693466",
+        "created_at": "2026-07-07T11:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074459542654693466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2057425772198215680",
+              "start": 7,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QoZEmQQTM2",
+              "end": 42,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2074459542654693466/photo/1",
+              "media_key": "3_2074459525357490176",
+              "start": 19,
+              "url": "https://t.co/QoZEmQQTM2"
+            },
+            {
+              "display_url": "pic.x.com/QoZEmQQTM2",
+              "end": 42,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2074459542654693466/photo/1",
+              "media_key": "3_2074459525361631232",
+              "start": 19,
+              "url": "https://t.co/QoZEmQQTM2"
+            },
+            {
+              "display_url": "pic.x.com/QoZEmQQTM2",
+              "end": 42,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2074459542654693466/photo/1",
+              "media_key": "3_2074459525382631424",
+              "start": 19,
+              "url": "https://t.co/QoZEmQQTM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074459542654693466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哼哼我就一个玉@boqiaoahm4 https://t.co/QoZEmQQTM2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 429,
+          "like_count": 3458,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:52:00.000Z",
+        "description": "sasioverlxrd",
+        "id": "2063574393201311745",
+        "name": "當不了你的天使該怎麼說謊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074152551415676928/thEGnRK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 2,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "zhoushashaff9n",
+        "verified": false
+      }
+    ]
+  }
+}

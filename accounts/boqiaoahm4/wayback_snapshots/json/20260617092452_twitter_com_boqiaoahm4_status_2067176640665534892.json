@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067002948501016576"
+      ],
+      "media_source_tweet_id": [
+        "2067002955316777425"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067176640665534892",
+    "created_at": "2026-06-17T09:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067176640665534892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1979698494316138496",
+          "start": 3,
+          "username": "llpipi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OfGCIItbTM",
+          "end": 35,
+          "expanded_url": "https://x.com/llpipi/status/2067002955316777425/photo/1",
+          "media_key": "3_2067002948501016576",
+          "start": 12,
+          "url": "https://t.co/OfGCIItbTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067176640665534892",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 794
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067002955316777425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llpipi: https://t.co/OfGCIItbTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2067002948501016576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK94Ou8WkAAbTQc.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067002948501016576"
+          ],
+          "media_source_tweet_id": [
+            "2067002955316777425"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067176640665534892",
+        "created_at": "2026-06-17T09:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067176640665534892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1979698494316138496",
+              "start": 3,
+              "username": "llpipi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfGCIItbTM",
+              "end": 35,
+              "expanded_url": "https://x.com/llpipi/status/2067002955316777425/photo/1",
+              "media_key": "3_2067002948501016576",
+              "start": 12,
+              "url": "https://t.co/OfGCIItbTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067176640665534892",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 794
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067002955316777425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llpipi: https://t.co/OfGCIItbTM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067002948501016576"
+          ]
+        },
+        "author_id": "1979698494316138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067002955316777425",
+        "created_at": "2026-06-16T21:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T22:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067002955316777425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfGCIItbTM",
+              "end": 23,
+              "expanded_url": "https://x.com/llpipi/status/2067002955316777425/photo/1",
+              "media_key": "3_2067002948501016576",
+              "start": 0,
+              "url": "https://t.co/OfGCIItbTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067002955316777425",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 58607,
+          "like_count": 4644,
+          "quote_count": 44,
+          "reply_count": 5,
+          "retweet_count": 794
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OfGCIItbTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 381,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T23:58:13.000Z",
+        "description": "Visuals from the other side",
+        "id": "1979698494316138496",
+        "name": "BMW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022587898940608512/XzCdZk-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16391,
+          "following_count": 0,
+          "like_count": 8140,
+          "listed_count": 22,
+          "media_count": 3596,
+          "tweet_count": 4650
+        },
+        "username": "llpipi",
+        "verified": true
+      }
+    ]
+  }
+}

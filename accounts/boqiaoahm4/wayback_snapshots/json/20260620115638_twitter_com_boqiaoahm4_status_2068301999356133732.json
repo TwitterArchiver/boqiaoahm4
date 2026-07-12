@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2068301467891724473",
+    "created_at": "2026-06-20T11:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068301999356133732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617471215001796609",
+          "start": 0,
+          "username": "stuk_randomdude"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068301999356133732",
+    "in_reply_to_user_id": "1617471215001796609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068301663706988985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stuk_randomdude 这种煎蛋感觉煎起来好困难😭😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2068301467891724473",
+        "created_at": "2026-06-20T11:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068301999356133732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617471215001796609",
+              "start": 0,
+              "username": "stuk_randomdude"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068301999356133732",
+        "in_reply_to_user_id": "1617471215001796609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068301663706988985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stuk_randomdude 这种煎蛋感觉煎起来好困难😭😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617471215001796609",
+        "conversation_id": "2068301467891724473",
+        "created_at": "2026-06-20T11:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068301663706988985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068301663706988985",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068301467891724473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 煎蛋 但是保持蛋黃流質"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 394,
+          "like_count": 2356,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1342
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T10:36:22.000Z",
+        "description": "正常人盡量不要找我\n這個帳號就只是用作看黃和亂評論\n真的想聊就私聊問我聯繫方式\n如果還看不出來，我是男的",
+        "id": "1617471215001796609",
+        "location": "某處",
+        "name": "Stuk",
+        "pinned_tweet_id": "2061303538568081620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629528544878686212/P4_GDHqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 182,
+          "like_count": 815,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1644
+        },
+        "url": "",
+        "username": "stuk_randomdude",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063258775595995628",
+    "created_at": "2026-06-06T13:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063258775595995628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055586228704104448",
+          "start": 3,
+          "username": "mioqaq7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/7NCFU",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/7NCFU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063258775595995628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063245580630118528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mioqaq7: 一个已经腐朽腐烂的人类🪦\n因为想倾诉并且因为一些原因很需要💰\n所以又回归了 知道我以前叫什么的请🤫\n请过🚪让我过的好一点体验什么是爱\n想认识真诚善良互相倾诉的好朋友\n我对每个人都很真诚善良🚬🐹\n就说到这吧 累了晚安 https://t.co/7NCFU…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063245571058802688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIe6lNboAAkbNB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1127,
+        "media_key": "3_2063245571058753536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIe6lNa4AAIR6F.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063258775595995628",
+        "created_at": "2026-06-06T13:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063258775595995628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055586228704104448",
+              "start": 3,
+              "username": "mioqaq7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/7NCFU",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/7NCFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063258775595995628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063245580630118528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mioqaq7: 一个已经腐朽腐烂的人类🪦\n因为想倾诉并且因为一些原因很需要💰\n所以又回归了 知道我以前叫什么的请🤫\n请过🚪让我过的好一点体验什么是爱\n想认识真诚善良互相倾诉的好朋友\n我对每个人都很真诚善良🚬🐹\n就说到这吧 累了晚安 https://t.co/7NCFU…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063245571058802688",
+            "3_2063245571058753536"
+          ]
+        },
+        "author_id": "2055586228704104448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063245580630118528",
+        "created_at": "2026-06-06T13:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063245580630118528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NCFUVlQxx",
+              "end": 131,
+              "expanded_url": "https://x.com/mioqaq7/status/2063245580630118528/photo/1",
+              "media_key": "3_2063245571058802688",
+              "start": 108,
+              "url": "https://t.co/7NCFUVlQxx"
+            },
+            {
+              "display_url": "pic.x.com/7NCFUVlQxx",
+              "end": 131,
+              "expanded_url": "https://x.com/mioqaq7/status/2063245580630118528/photo/1",
+              "media_key": "3_2063245571058753536",
+              "start": 108,
+              "url": "https://t.co/7NCFUVlQxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063245580630118528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一个已经腐朽腐烂的人类🪦\n因为想倾诉并且因为一些原因很需要💰\n所以又回归了 知道我以前叫什么的请🤫\n请过🚪让我过的好一点体验什么是爱\n想认识真诚善良互相倾诉的好朋友\n我对每个人都很真诚善良🚬🐹\n就说到这吧 累了晚安 https://t.co/7NCFUVlQxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 210,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 675
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T09:49:40.000Z",
+        "description": "喜欢所有人 想被人喜欢被得到认可 🐹👁坐标北上广深港 嗯还有就是想小女孩来找我聊天交朋友呀 关注就是暗恋你 本人不太会主动沟通",
+        "id": "2055586228704104448",
+        "location": "🚪具体请看置顶p2",
+        "name": "腐朽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060628851898929152/3eLohZ4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 16,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "username": "mioqaq7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2070549629650042897",
+    "created_at": "2026-06-26T16:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070549629650042897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/BsG",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/BsG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070549629650042897",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9307
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070277495685792069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: Quando eu era criança eu via adolescentes namorando, agora que sou adolescente eu vejo as crianças namorando https://t.co/BsG…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19202,
+        "height": 480,
+        "media_key": "7_2070277463276388352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070277463276388352/pu/img/Qkzw4XI3090i4GVP.jpg",
+        "public_metrics": {
+          "view_count": 218593
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070277463276388352/pu/vid/avc1/360x270/fuxOEF18Ea2iyA50.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070277463276388352/pu/vid/avc1/480x360/EKM713Mho1W_xQtE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070277463276388352/pu/vid/avc1/640x480/1iuWCplxk2jBXJ26.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070277463276388352/pu/pl/Ph5-KWV_k-AzdFJz.m3u8?tag=12&v=418"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2070549629650042897",
+        "created_at": "2026-06-26T16:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070549629650042897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/BsG",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/BsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070549629650042897",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070277495685792069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: Quando eu era criança eu via adolescentes namorando, agora que sou adolescente eu vejo as crianças namorando https://t.co/BsG…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070277463276388352"
+          ]
+        },
+        "author_id": "2046395388974845952",
+        "conversation_id": "2070277495685792069",
+        "created_at": "2026-06-25T22:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T23:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070277495685792069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsGbyDO7Op",
+              "end": 132,
+              "expanded_url": "https://x.com/eduantao/status/2070277495685792069/video/1",
+              "media_key": "7_2070277463276388352",
+              "start": 109,
+              "url": "https://t.co/BsGbyDO7Op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070277495685792069",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1324,
+          "impression_count": 397995,
+          "like_count": 47914,
+          "quote_count": 107,
+          "reply_count": 62,
+          "retweet_count": 9307
+        },
+        "reply_settings": "everyone",
+        "text": "Quando eu era criança eu via adolescentes namorando, agora que sou adolescente eu vejo as crianças namorando https://t.co/BsGbyDO7Op"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 401,
+          "like_count": 2723,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1652
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3912,
+          "following_count": 498,
+          "like_count": 50,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 681
+        },
+        "url": "",
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

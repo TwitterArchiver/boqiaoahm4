@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1846016374000263168"
+      ],
+      "media_source_tweet_id": [
+        "1846016453901705452"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2068597497594003912",
+    "created_at": "2026-06-21T07:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068597497594003912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1814450431189196801",
+          "start": 3,
+          "username": "zzveigha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ltjsPPF7dp",
+          "end": 111,
+          "expanded_url": "https://x.com/acervozx/status/1846016453901705452/video/1",
+          "media_key": "7_1846016374000263168",
+          "start": 88,
+          "url": "https://t.co/ltjsPPF7dp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068597497594003912",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068387999184769166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzveigha: eu acho que eu NUNCA vou saber qual é a sensação de ser pedida em namoro  https://t.co/ltjsPPF7dp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23866,
+        "height": 720,
+        "media_key": "7_1846016374000263168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1846016374000263168/pu/img/3m7h6Virkstv3RXh.jpg",
+        "public_metrics": {
+          "view_count": 5872656
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846016374000263168/pu/vid/avc1/374x270/m0oGUmWoDtyYicKH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846016374000263168/pu/vid/avc1/500x360/WIQpgJiwugL5hftL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1846016374000263168/pu/vid/avc1/1000x720/FHn3c1Ev10-6afjh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1846016374000263168/pu/pl/y6xOMqPkv-T340I6.m3u8?tag=12&v=8f6"
+          }
+        ],
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1846016374000263168"
+          ],
+          "media_source_tweet_id": [
+            "1846016453901705452"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2068597497594003912",
+        "created_at": "2026-06-21T07:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068597497594003912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1814450431189196801",
+              "start": 3,
+              "username": "zzveigha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltjsPPF7dp",
+              "end": 111,
+              "expanded_url": "https://x.com/acervozx/status/1846016453901705452/video/1",
+              "media_key": "7_1846016374000263168",
+              "start": 88,
+              "url": "https://t.co/ltjsPPF7dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068597497594003912",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068387999184769166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzveigha: eu acho que eu NUNCA vou saber qual é a sensação de ser pedida em namoro  https://t.co/ltjsPPF7dp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1846016374000263168"
+          ],
+          "media_source_tweet_id": [
+            "1846016453901705452"
+          ]
+        },
+        "author_id": "1814450431189196801",
+        "conversation_id": "2068387999184769166",
+        "created_at": "2026-06-20T17:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068387999184769166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltjsPPF7dp",
+              "end": 97,
+              "expanded_url": "https://x.com/acervozx/status/1846016453901705452/video/1",
+              "media_key": "7_1846016374000263168",
+              "start": 74,
+              "url": "https://t.co/ltjsPPF7dp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068387999184769166",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 373,
+          "impression_count": 107994,
+          "like_count": 9961,
+          "quote_count": 232,
+          "reply_count": 83,
+          "retweet_count": 2303
+        },
+        "reply_settings": "everyone",
+        "text": "eu acho que eu NUNCA vou saber qual é a sensação de ser pedida em namoro  https://t.co/ltjsPPF7dp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 398,
+          "like_count": 2396,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T00:01:16.000Z",
+        "description": "",
+        "id": "1814450431189196801",
+        "name": "monica",
+        "pinned_tweet_id": "1827129923749773337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059999559514808324/sCZDBM9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17455,
+          "following_count": 15402,
+          "like_count": 0,
+          "listed_count": 55,
+          "media_count": 1215,
+          "tweet_count": 51961
+        },
+        "url": "",
+        "username": "zzveigha",
+        "verified": false
+      }
+    ]
+  }
+}

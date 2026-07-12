@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068705695873347584"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2068705843521188258",
+    "created_at": "2026-06-21T14:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068705843521188258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cw3TsXtO4H",
+          "end": 38,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2068705843521188258/video/1",
+          "media_key": "13_2068705695873347584",
+          "start": 15,
+          "url": "https://t.co/cw3TsXtO4H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068705843521188258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天天天国地狱国 跳得好幽默。 https://t.co/cw3TsXtO4H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8498,
+        "height": 1280,
+        "media_key": "13_2068705695873347584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068705695873347584/img/D-Qqzt8oyg4nF31F.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068705695873347584/vid/avc1/320x568/fdn2-fqYG5tYjenN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068705695873347584/vid/avc1/480x852/vVpRYSR56PH14lKX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068705695873347584/vid/avc1/720x1280/7AoJHZu-S2h9b1AH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068705695873347584/pl/fQF1hXh4Z5tAY-em.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068705695873347584"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2068705843521188258",
+        "created_at": "2026-06-21T14:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068705843521188258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cw3TsXtO4H",
+              "end": 38,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2068705843521188258/video/1",
+              "media_key": "13_2068705695873347584",
+              "start": 15,
+              "url": "https://t.co/cw3TsXtO4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068705843521188258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天天国地狱国 跳得好幽默。 https://t.co/cw3TsXtO4H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 397,
+          "like_count": 2415,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

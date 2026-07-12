@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060895739216331142",
+    "created_at": "2026-05-31T01:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060895739216331142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856662470146039808",
+          "start": 3,
+          "username": "misono_sho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060895739216331142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060778764796354730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misono_sho: 收一个ATM奴，条件如下：\n1无条件给我钱\n2我心情不好的时候主动趴下让我打\n3只有我一个主人\n4看见我有其他狗了不准哭不准闹不准吃醋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060895739216331142",
+        "created_at": "2026-05-31T01:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060895739216331142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856662470146039808",
+              "start": 3,
+              "username": "misono_sho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060895739216331142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060778764796354730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @misono_sho: 收一个ATM奴，条件如下：\n1无条件给我钱\n2我心情不好的时候主动趴下让我打\n3只有我一个主人\n4看见我有其他狗了不准哭不准闹不准吃醋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856662470146039808",
+        "conversation_id": "2060778764796354730",
+        "created_at": "2026-05-30T17:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060778764796354730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060778764796354730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "收一个ATM奴，条件如下：\n1无条件给我钱\n2我心情不好的时候主动趴下让我打\n3只有我一个主人\n4看见我有其他狗了不准哭不准闹不准吃醋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 130,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 343
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T11:37:14.000Z",
+        "description": "..ip大阪\n只是默默上网\n不要在意我\n日语苦手\n所以可能会打中文或者用翻译器\n很怪的话请原谅\n🥺🥺(⁠≧⁠▽⁠≦⁠)\n互fo大欢迎",
+        "id": "1856662470146039808",
+        "location": "常住大阪谢谢",
+        "name": "美園笙",
+        "pinned_tweet_id": "2037728140387287240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924830810454302720/CiMrr54k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 60,
+          "like_count": 4892,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 332
+        },
+        "username": "misono_sho",
+        "verified": false
+      }
+    ]
+  }
+}

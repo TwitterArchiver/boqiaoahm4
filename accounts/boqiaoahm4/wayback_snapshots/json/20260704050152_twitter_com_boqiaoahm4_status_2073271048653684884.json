@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073230168093515776"
+      ],
+      "media_source_tweet_id": [
+        "2073230236108414993"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2073271048653684884",
+    "created_at": "2026-07-04T05:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073271048653684884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "932768194405781504",
+          "start": 3,
+          "username": "s44nti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/geLMiMghPS",
+          "end": 90,
+          "expanded_url": "https://x.com/s44nti/status/2073230236108414993/video/1",
+          "media_key": "13_2073230168093515776",
+          "start": 67,
+          "url": "https://t.co/geLMiMghPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073271048653684884",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1002
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073230236108414993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s44nti: cuando te quedas viendo una foto tuya por mucho tiempo https://t.co/geLMiMghPS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19920,
+        "height": 898,
+        "media_key": "13_2073230168093515776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073230168093515776/img/LvagjstsRDR33b8A.jpg",
+        "public_metrics": {
+          "view_count": 24543
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073230168093515776/vid/avc1/320x398/gmnC3WrsyT2uhIVT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073230168093515776/vid/avc1/480x598/fhNIo7WXddSAbOFL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073230168093515776/vid/avc1/720x898/NsEFjrC2R7aWn7nI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073230168093515776/pl/lbMnYpgJLiEnsq4M.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073230168093515776"
+          ],
+          "media_source_tweet_id": [
+            "2073230236108414993"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2073271048653684884",
+        "created_at": "2026-07-04T05:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073271048653684884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "932768194405781504",
+              "start": 3,
+              "username": "s44nti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/geLMiMghPS",
+              "end": 90,
+              "expanded_url": "https://x.com/s44nti/status/2073230236108414993/video/1",
+              "media_key": "13_2073230168093515776",
+              "start": 67,
+              "url": "https://t.co/geLMiMghPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073271048653684884",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1002
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073230236108414993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s44nti: cuando te quedas viendo una foto tuya por mucho tiempo https://t.co/geLMiMghPS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073230168093515776"
+          ]
+        },
+        "author_id": "932768194405781504",
+        "conversation_id": "2073230236108414993",
+        "created_at": "2026-07-04T02:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073230236108414993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/geLMiMghPS",
+              "end": 78,
+              "expanded_url": "https://x.com/s44nti/status/2073230236108414993/video/1",
+              "media_key": "13_2073230168093515776",
+              "start": 55,
+              "url": "https://t.co/geLMiMghPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073230236108414993",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 50835,
+          "like_count": 6127,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 1002
+        },
+        "reply_settings": "everyone",
+        "text": "cuando te quedas viendo una foto tuya por mucho tiempo https://t.co/geLMiMghPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 423,
+          "like_count": 3234,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-21T00:30:42.000Z",
+        "description": "el de los tweets",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/s44nti/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/s44nti/",
+                "start": 0,
+                "url": "https://t.co/UUBC2ZqqLa"
+              }
+            ]
+          }
+        },
+        "id": "932768194405781504",
+        "location": "Pachuca, México ",
+        "name": "s44nti",
+        "pinned_tweet_id": "2064054337383333953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052235782996316165/38JMyglK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77203,
+          "following_count": 83,
+          "like_count": 57512,
+          "listed_count": 121,
+          "media_count": 2106,
+          "tweet_count": 5562
+        },
+        "url": "https://t.co/UUBC2ZqqLa",
+        "username": "s44nti",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2073793091270758562",
+    "created_at": "2026-07-05T15:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073793091270758562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029643662720897024",
+          "start": 3,
+          "username": "Inky030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073793091270758562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073595497038909668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Inky030: 我感觉我越喜欢别人别人就越不喜欢我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2073793091270758562",
+        "created_at": "2026-07-05T15:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073793091270758562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029643662720897024",
+              "start": 3,
+              "username": "Inky030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073793091270758562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073595497038909668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Inky030: 我感觉我越喜欢别人别人就越不喜欢我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029643662720897024",
+        "conversation_id": "2073595497038909668",
+        "created_at": "2026-07-05T02:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073595497038909668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073595497038909668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5423,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我越喜欢别人别人就越不喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 423,
+          "like_count": 3341,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T19:42:33.000Z",
+        "description": "尸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pipo77355",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pipo77355",
+                "start": 0,
+                "url": "https://t.co/uJmO9tuwFE"
+              }
+            ]
+          }
+        },
+        "id": "2029643662720897024",
+        "name": "pipo",
+        "pinned_tweet_id": "2038869837548802202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029652122397200384/PrH_-rJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260,
+          "following_count": 90,
+          "like_count": 10872,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 3009
+        },
+        "url": "https://t.co/uJmO9tuwFE",
+        "username": "Inky030",
+        "verified": false
+      }
+    ]
+  }
+}

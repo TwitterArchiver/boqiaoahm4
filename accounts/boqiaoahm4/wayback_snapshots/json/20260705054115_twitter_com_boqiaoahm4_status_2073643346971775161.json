@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2073641254383243365",
+    "created_at": "2026-07-05T05:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073643346971775161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049440151290667008",
+          "start": 0,
+          "username": "isellmyself3kss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073643346971775161",
+    "in_reply_to_user_id": "2049440151290667008",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073641254383243365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isellmyself3kss 2.1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2073641247479390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcNulubYAA1MOk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2073641254383243365",
+        "created_at": "2026-07-05T05:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073643346971775161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049440151290667008",
+              "start": 0,
+              "username": "isellmyself3kss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073643346971775161",
+        "in_reply_to_user_id": "2049440151290667008",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073641254383243365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isellmyself3kss 2.1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073641247479390208"
+          ]
+        },
+        "author_id": "2049440151290667008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073641254383243365",
+        "created_at": "2026-07-05T05:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073641254383243365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIaJFSz96o",
+              "end": 46,
+              "expanded_url": "https://x.com/isellmyself3kss/status/2073641254383243365/photo/1",
+              "media_key": "3_2073641247479390208",
+              "start": 23,
+              "url": "https://t.co/NIaJFSz96o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073641254383243365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拍卖拍卖 底价0元 随意加\n已经有人出2r了 https://t.co/NIaJFSz96o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 422,
+          "like_count": 3262,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2049
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T10:47:26.000Z",
+        "description": "本大王亲自指挥亲自部署亲自降临卖春第一线",
+        "id": "2049440151290667008",
+        "location": "位居上海🚪50 接纯半非绿入门后发脸照课表",
+        "name": "天逆每二代目",
+        "pinned_tweet_id": "2063835442504720427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789503103356928/rTQhVuvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 92,
+          "like_count": 318,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "isellmyself3kss",
+        "verified": true
+      }
+    ]
+  }
+}

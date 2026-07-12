@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063611129339822376",
+    "created_at": "2026-06-07T14:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063622812011487256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1800804511122071552",
+          "start": 0,
+          "username": "Enan0820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063622812011487256",
+    "in_reply_to_user_id": "1800804511122071552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063622136166830147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enan0820 不会去的 谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063611129339822376",
+        "created_at": "2026-06-07T14:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063622812011487256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1800804511122071552",
+              "start": 0,
+              "username": "Enan0820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063622812011487256",
+        "in_reply_to_user_id": "1800804511122071552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063622136166830147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enan0820 不会去的 谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800804511122071552",
+        "conversation_id": "2063611129339822376",
+        "created_at": "2026-06-07T14:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063622136166830147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063622136166830147",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063611129339822376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 还是别吧..接受这种赚快钱生活之后很难适应正常向上社交的工作的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 235,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 775
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T08:17:18.000Z",
+        "description": "。°☆(＞𐋣＜)☆°。",
+        "id": "1800804511122071552",
+        "location": "有🚪",
+        "name": "嘟嘟",
+        "pinned_tweet_id": "2025223620289585191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953454634426568704/JDs0qkJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 20,
+          "like_count": 123,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 213
+        },
+        "username": "Enan0820",
+        "verified": false
+      }
+    ]
+  }
+}

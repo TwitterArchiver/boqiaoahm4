@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072618629410242561"
+      ],
+      "media_source_tweet_id": [
+        "2072618634493747461"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2072979533888926192",
+    "created_at": "2026-07-03T09:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072979533888926192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002685844726104064",
+          "start": 3,
+          "username": "suicide_jc2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N9RQoWjscY",
+          "end": 57,
+          "expanded_url": "https://x.com/suicide_jc2/status/2072618634493747461/photo/1",
+          "media_key": "3_2072618629410242561",
+          "start": 34,
+          "url": "https://t.co/N9RQoWjscY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072979533888926192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072618634493747461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suicide_jc2: 中国語読めないけど常にこれです。 https://t.co/N9RQoWjscY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1091,
+        "media_key": "3_2072618629410242561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNrqYjawAEsjRP.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072618629410242561"
+          ],
+          "media_source_tweet_id": [
+            "2072618634493747461"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2072979533888926192",
+        "created_at": "2026-07-03T09:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072979533888926192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002685844726104064",
+              "start": 3,
+              "username": "suicide_jc2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9RQoWjscY",
+              "end": 57,
+              "expanded_url": "https://x.com/suicide_jc2/status/2072618634493747461/photo/1",
+              "media_key": "3_2072618629410242561",
+              "start": 34,
+              "url": "https://t.co/N9RQoWjscY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072979533888926192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072618634493747461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suicide_jc2: 中国語読めないけど常にこれです。 https://t.co/N9RQoWjscY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072618629410242561"
+          ]
+        },
+        "author_id": "2002685844726104064",
+        "conversation_id": "2072618634493747461",
+        "created_at": "2026-07-02T09:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072618634493747461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9RQoWjscY",
+              "end": 40,
+              "expanded_url": "https://x.com/suicide_jc2/status/2072618634493747461/photo/1",
+              "media_key": "3_2072618629410242561",
+              "start": 17,
+              "url": "https://t.co/N9RQoWjscY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072618634493747461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 83948,
+          "like_count": 4759,
+          "quote_count": 101,
+          "reply_count": 3,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "中国語読めないけど常にこれです。 https://t.co/N9RQoWjscY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 421,
+          "like_count": 3190,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T10:21:39.000Z",
+        "description": "羅列に刺し続けていく",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7jv4gdg27i0f4oq",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/7jv4gdg27i0f4oq",
+                "start": 0,
+                "url": "https://t.co/HejD97GknZ"
+              }
+            ]
+          }
+        },
+        "id": "2002685844726104064",
+        "name": "少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029943773850128385/PN68LXNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 428,
+          "like_count": 2491,
+          "listed_count": 17,
+          "media_count": 27,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/HejD97GknZ",
+        "username": "suicide_jc2",
+        "verified": false
+      }
+    ]
+  }
+}

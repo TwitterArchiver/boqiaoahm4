@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065296427857621092",
+    "created_at": "2026-06-12T04:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T05:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065296427857621092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559083758611230720",
+          "start": 3,
+          "username": "kuri_030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065296427857621092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064993224691974601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuri_030: 全部人类，全部开始吃普瑞巴林，每天吃450mg，不要让我孤独地社交增强好吗，每个人都给我兴奋起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065296427857621092",
+        "created_at": "2026-06-12T04:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065296427857621092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559083758611230720",
+              "start": 3,
+              "username": "kuri_030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065296427857621092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064993224691974601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuri_030: 全部人类，全部开始吃普瑞巴林，每天吃450mg，不要让我孤独地社交增强好吗，每个人都给我兴奋起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559083758611230720",
+        "conversation_id": "2064993224691974601",
+        "created_at": "2026-06-11T08:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064993224691974601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064993224691974601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "全部人类，全部开始吃普瑞巴林，每天吃450mg，不要让我孤独地社交增强好吗，每个人都给我兴奋起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 350,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1076
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T07:45:17.000Z",
+        "description": "oder💊/多重人格/文学及类文学/性瘾/自残🩸/手作博主/娱乐主播/编曲🎸/写作/solotrip爱好者🧗🏻‍♀️/大学独自跑去了四个国家挂壁🎒/单推ano/别靠近我，也别远离我💧/成分类似回fo",
+        "id": "1559083758611230720",
+        "location": "✙天国✙",
+        "name": "κīκö",
+        "pinned_tweet_id": "2061421329593897343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559083865452740608/JxoG0awi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 32,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 121
+        },
+        "username": "kuri_030",
+        "verified": false
+      }
+    ]
+  }
+}

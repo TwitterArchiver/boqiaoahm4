@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064001760923131904"
+      ],
+      "media_source_tweet_id": [
+        "2064001766694527287"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064188990819885291",
+    "created_at": "2026-06-09T03:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064188990819885291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695129319767674880",
+          "start": 3,
+          "username": "ayakano_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BtdRebUhj0",
+          "end": 96,
+          "expanded_url": "https://x.com/ayakano_x/status/2064001766694527287/photo/1",
+          "media_key": "3_2064001760923131904",
+          "start": 73,
+          "url": "https://t.co/BtdRebUhj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064188990819885291",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064001766694527287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayakano_x: 오늘 진지하게 니죽일여성이였는데 강아디 산책하시던 할아버지가 이쁜 학생들이라고 칭찬해주시고 덕담도해주심 https://t.co/BtdRebUhj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064001760923131904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTOqn-aoAAopbn.jpg",
+        "width": 1394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064001760923131904"
+          ],
+          "media_source_tweet_id": [
+            "2064001766694527287"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064188990819885291",
+        "created_at": "2026-06-09T03:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064188990819885291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695129319767674880",
+              "start": 3,
+              "username": "ayakano_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BtdRebUhj0",
+              "end": 96,
+              "expanded_url": "https://x.com/ayakano_x/status/2064001766694527287/photo/1",
+              "media_key": "3_2064001760923131904",
+              "start": 73,
+              "url": "https://t.co/BtdRebUhj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064188990819885291",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064001766694527287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayakano_x: 오늘 진지하게 니죽일여성이였는데 강아디 산책하시던 할아버지가 이쁜 학생들이라고 칭찬해주시고 덕담도해주심 https://t.co/BtdRebUhj0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064001760923131904"
+          ]
+        },
+        "author_id": "1695129319767674880",
+        "conversation_id": "2064001766694527287",
+        "created_at": "2026-06-08T15:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064001766694527287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BtdRebUhj0",
+              "end": 81,
+              "expanded_url": "https://x.com/ayakano_x/status/2064001766694527287/photo/1",
+              "media_key": "3_2064001760923131904",
+              "start": 58,
+              "url": "https://t.co/BtdRebUhj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064001766694527287",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 16554,
+          "like_count": 684,
+          "quote_count": 12,
+          "reply_count": 5,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "오늘 진지하게 니죽일여성이였는데 강아디 산책하시던 할아버지가 이쁜 학생들이라고 칭찬해주시고 덕담도해주심 https://t.co/BtdRebUhj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 302,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 898
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T17:41:45.000Z",
+        "description": "어 그래 트친들아 치파오입어라 트친들 치파오입어 치파오입어라 치파오 이것 좀 입어봐 어 그래 치피오 좀 입어봐라 치파오 입어보래도? 트친들아 치파오 안입냐 치파오 입어라",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/ayakadesu",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/ayakadesu",
+                "start": 0,
+                "url": "https://t.co/tqrzq4AJFk"
+              }
+            ]
+          }
+        },
+        "id": "1695129319767674880",
+        "location": "19↑ 女",
+        "name": "あやか",
+        "pinned_tweet_id": "2061746911561076737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039042720376016896/4j7JtOxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 405,
+          "like_count": 73815,
+          "listed_count": 1,
+          "media_count": 836,
+          "tweet_count": 8644
+        },
+        "url": "https://t.co/tqrzq4AJFk",
+        "username": "ayakano_x",
+        "verified": false
+      }
+    ]
+  }
+}

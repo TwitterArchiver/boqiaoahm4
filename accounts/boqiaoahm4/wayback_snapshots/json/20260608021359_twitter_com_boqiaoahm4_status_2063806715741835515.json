@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063561840073060352"
+      ],
+      "media_source_tweet_id": [
+        "2063561842509975778"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063806715741835515",
+    "created_at": "2026-06-08T02:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063806715741835515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1423220645383475200",
+          "start": 3,
+          "username": "sysjf0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dW8W2bP9Bi",
+          "end": 35,
+          "expanded_url": "https://x.com/sysjf0/status/2063561842509975778/photo/1",
+          "media_key": "3_2063561840073060352",
+          "start": 12,
+          "url": "https://t.co/dW8W2bP9Bi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063806715741835515",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063561842509975778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sysjf0: https://t.co/dW8W2bP9Bi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2063561840073060352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKM-j3GbMAAzS7b.jpg",
+        "width": 751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063561840073060352"
+          ],
+          "media_source_tweet_id": [
+            "2063561842509975778"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063806715741835515",
+        "created_at": "2026-06-08T02:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063806715741835515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1423220645383475200",
+              "start": 3,
+              "username": "sysjf0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dW8W2bP9Bi",
+              "end": 35,
+              "expanded_url": "https://x.com/sysjf0/status/2063561842509975778/photo/1",
+              "media_key": "3_2063561840073060352",
+              "start": 12,
+              "url": "https://t.co/dW8W2bP9Bi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063806715741835515",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063561842509975778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sysjf0: https://t.co/dW8W2bP9Bi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063561840073060352"
+          ]
+        },
+        "author_id": "1423220645383475200",
+        "conversation_id": "2063561842509975778",
+        "created_at": "2026-06-07T10:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063561842509975778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dW8W2bP9Bi",
+              "end": 23,
+              "expanded_url": "https://x.com/sysjf0/status/2063561842509975778/photo/1",
+              "media_key": "3_2063561840073060352",
+              "start": 0,
+              "url": "https://t.co/dW8W2bP9Bi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063561842509975778",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4294,
+          "like_count": 334,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dW8W2bP9Bi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 261,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 801
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324 @citrus_404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "citrus_404"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034670934108336128/mwvWsTX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 957,
+          "like_count": 30277,
+          "listed_count": 3,
+          "media_count": 1908,
+          "tweet_count": 24028
+        },
+        "username": "sysjf0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2073252384026120702",
+    "created_at": "2026-07-04T03:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073252384026120702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004736029463646208",
+          "start": 3,
+          "username": "aribudincita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073252384026120702",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16443
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072685200987853160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aribudincita: necesito un piercing o drogarme o teñirme todo el pelo o un beso de él o un abrazo de mi mamá"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2073252384026120702",
+        "created_at": "2026-07-04T03:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073252384026120702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004736029463646208",
+              "start": 3,
+              "username": "aribudincita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073252384026120702",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16443
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072685200987853160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aribudincita: necesito un piercing o drogarme o teñirme todo el pelo o un beso de él o un abrazo de mi mamá"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004736029463646208",
+        "conversation_id": "2072685200987853160",
+        "created_at": "2026-07-02T14:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072685200987853160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072685200987853160",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1891,
+          "impression_count": 443456,
+          "like_count": 48484,
+          "quote_count": 677,
+          "reply_count": 65,
+          "retweet_count": 16443
+        },
+        "reply_settings": "everyone",
+        "text": "necesito un piercing o drogarme o teñirme todo el pelo o un beso de él o un abrazo de mi mamá"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 421,
+          "like_count": 3227,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T02:08:18.000Z",
+        "description": "viviendo mucho",
+        "id": "2004736029463646208",
+        "name": "ִֶָ",
+        "pinned_tweet_id": "2048211139155169692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071450529671122944/e3hufBBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4498,
+          "following_count": 1615,
+          "like_count": 5622,
+          "listed_count": 24,
+          "media_count": 997,
+          "tweet_count": 15636
+        },
+        "url": "",
+        "username": "aribudincita",
+        "verified": false
+      }
+    ]
+  }
+}

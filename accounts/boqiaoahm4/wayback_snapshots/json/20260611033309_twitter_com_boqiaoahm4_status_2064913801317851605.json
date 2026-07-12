@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064913801317851605",
+    "created_at": "2026-06-11T03:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064913801317851605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zxr0924/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zxr0924/status/2064907685469045100",
+          "start": 4,
+          "url": "https://t.co/a4ujuXnRlh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064913801317851605",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064907685469045100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "屠校！ https://t.co/a4ujuXnRlh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064913801317851605",
+        "created_at": "2026-06-11T03:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064913801317851605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zxr0924/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zxr0924/status/2064907685469045100",
+              "start": 4,
+              "url": "https://t.co/a4ujuXnRlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064913801317851605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064907685469045100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "屠校！ https://t.co/a4ujuXnRlh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850759408596226048",
+        "conversation_id": "2064906856691351883",
+        "created_at": "2026-06-11T03:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064907685469045100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064907685469045100",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064906856691351883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 屠校呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 339,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1022
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T04:40:18.000Z",
+        "description": "上推只为消遣\n\n誓与赌毒不共戴天\n\n黄色请发我\n \n片哥片姐滚",
+        "id": "1850759408596226048",
+        "location": "翻斗花园",
+        "name": "廿six",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063312862811230208/zweLRFg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 64,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 116
+        },
+        "username": "zxr0924",
+        "verified": false
+      }
+    ]
+  }
+}

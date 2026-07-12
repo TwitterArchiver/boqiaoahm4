@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063999233477460335",
+    "created_at": "2026-06-08T14:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063999233477460335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057501846877417472",
+          "start": 3,
+          "username": "Jinhnyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063999233477460335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062840330672848924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jinhnyj: 老公你身边的女的能不能都死光 除了你长辈 能不能都死光"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063999233477460335",
+        "created_at": "2026-06-08T14:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063999233477460335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057501846877417472",
+              "start": 3,
+              "username": "Jinhnyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063999233477460335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062840330672848924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jinhnyj: 老公你身边的女的能不能都死光 除了你长辈 能不能都死光"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057501846877417472",
+        "conversation_id": "2062840330672848924",
+        "created_at": "2026-06-05T10:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062840330672848924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062840330672848924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老公你身边的女的能不能都死光 除了你长辈 能不能都死光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 293,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 879
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:41:20.000Z",
+        "description": "",
+        "id": "2057501846877417472",
+        "name": "Jin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057502358569918464/hHnBbuYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 79,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 38
+        },
+        "username": "Jinhnyj",
+        "verified": false
+      }
+    ]
+  }
+}

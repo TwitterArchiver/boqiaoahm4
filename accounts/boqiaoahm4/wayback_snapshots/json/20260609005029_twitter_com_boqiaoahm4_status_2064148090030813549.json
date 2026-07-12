@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064146680598163888",
+    "created_at": "2026-06-09T00:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064148090030813549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1297607755000188929",
+          "start": 0,
+          "username": "Rician0911827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064148090030813549",
+    "in_reply_to_user_id": "1297607755000188929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064147841224966305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rician0911827 没有，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064146680598163888",
+        "created_at": "2026-06-09T00:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064148090030813549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1297607755000188929",
+              "start": 0,
+              "username": "Rician0911827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064148090030813549",
+        "in_reply_to_user_id": "1297607755000188929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064147841224966305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rician0911827 没有，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297607755000188929",
+        "conversation_id": "2064146680598163888",
+        "created_at": "2026-06-09T00:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064147841224966305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064147841224966305",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064146680598163888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 又有暗恋对象了吗👂🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 302,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 895
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T18:53:00.000Z",
+        "description": "空吧哇，这里是宣雨！18⬆️泛性恋/MTX/infp/9w1，散厨和约厨,🚪3355036，",
+        "id": "1297607755000188929",
+        "location": "Auckland, New Zealand",
+        "name": "宣雨Rician☃︎",
+        "pinned_tweet_id": "2048308748012441992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848993619623264256/tMTDcXkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 96,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 3835
+        },
+        "username": "Rician0911827",
+        "verified": false
+      }
+    ]
+  }
+}

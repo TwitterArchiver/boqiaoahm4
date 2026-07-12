@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064655186858213719",
+    "created_at": "2026-06-10T10:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064655186858213719"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "上海"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "广东"
+        },
+        {
+          "end": 114,
+          "start": 110,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769137305313284096",
+          "start": 3,
+          "username": "ac_gawd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064655186858213719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064648042721239357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ac_gawd: 是小腐朽哦 我又被封了好想哭\n愿望是所有人幸福 治愈你们\n腐朽我是拯救你的小天使\n妈脑溢血我生病了需要很多钱想交可以倾诉的小女孩所以又回来了🥹🥲🥲\n具体看置顶 坐标 #上海 #江浙沪 #广东 \n#门槛妹 #爸爸活 #一日女友 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064645993174626304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcYl4IbcAAgQsG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064645993166229504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcYl4GbUAA1Sjy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1342,
+        "media_key": "3_2064645993174626305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcYl4IbcAEHhv9.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064655186858213719",
+        "created_at": "2026-06-10T10:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064655186858213719"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "上海"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "广东"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "一日女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769137305313284096",
+              "start": 3,
+              "username": "ac_gawd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064655186858213719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064648042721239357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ac_gawd: 是小腐朽哦 我又被封了好想哭\n愿望是所有人幸福 治愈你们\n腐朽我是拯救你的小天使\n妈脑溢血我生病了需要很多钱想交可以倾诉的小女孩所以又回来了🥹🥲🥲\n具体看置顶 坐标 #上海 #江浙沪 #广东 \n#门槛妹 #爸爸活 #一日女友 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064645993174626304",
+            "3_2064645993166229504",
+            "3_2064645993174626305"
+          ]
+        },
+        "author_id": "1769137305313284096",
+        "conversation_id": "2064648042721239357",
+        "created_at": "2026-06-10T09:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:49:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064646052196835678",
+          "2064648042721239357"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "上海"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "广东"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnYthOVr4y",
+              "end": 136,
+              "expanded_url": "https://x.com/ac_gawd/status/2064648042721239357/photo/1",
+              "media_key": "3_2064645993174626304",
+              "start": 113,
+              "url": "https://t.co/BnYthOVr4y"
+            },
+            {
+              "display_url": "pic.x.com/BnYthOVr4y",
+              "end": 136,
+              "expanded_url": "https://x.com/ac_gawd/status/2064648042721239357/photo/1",
+              "media_key": "3_2064645993166229504",
+              "start": 113,
+              "url": "https://t.co/BnYthOVr4y"
+            },
+            {
+              "display_url": "pic.x.com/BnYthOVr4y",
+              "end": 136,
+              "expanded_url": "https://x.com/ac_gawd/status/2064648042721239357/photo/1",
+              "media_key": "3_2064645993174626305",
+              "start": 113,
+              "url": "https://t.co/BnYthOVr4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064648042721239357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "是小腐朽哦 我又被封了好想哭\n愿望是所有人幸福 治愈你们\n腐朽我是拯救你的小天使\n妈脑溢血我生病了需要很多钱想交可以倾诉的小女孩所以又回来了🥹🥲🥲\n具体看置顶 坐标 #上海 #江浙沪 #广东 \n#门槛妹 #爸爸活 #一日女友 https://t.co/BnYthOVr4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 323,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1003
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T23:03:05.000Z",
+        "description": "🚪88解锁价目表开放朋友圈/288（图包视频）/520（永久更新）/1314不封顶主人我是你的🐶电子女友😇小绣会拯救你的",
+        "id": "1769137305313284096",
+        "location": "上海江苏广东",
+        "name": "小腐朽",
+        "pinned_tweet_id": "2064648042721239357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064422188997062656/3sUmW9Xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 11,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2335
+        },
+        "username": "ac_gawd",
+        "verified": true
+      }
+    ]
+  }
+}

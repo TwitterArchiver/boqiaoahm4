@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2059994263266463759",
+    "created_at": "2026-05-28T13:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059994263266463759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010491684220768256",
+          "start": 3,
+          "username": "miru_dz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059994263266463759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059449982466527378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miru_dz: 私本当に本当になんの取り柄も無さすぎる\n\n不登校\n豆腐メンタル\n頭悪い\nブス\n怠け癖\n自傷逃げ\nすぐ人と比べる\n被害妄想激しい\n飽き性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2059994263266463759",
+        "created_at": "2026-05-28T13:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059994263266463759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010491684220768256",
+              "start": 3,
+              "username": "miru_dz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059994263266463759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059449982466527378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miru_dz: 私本当に本当になんの取り柄も無さすぎる\n\n不登校\n豆腐メンタル\n頭悪い\nブス\n怠け癖\n自傷逃げ\nすぐ人と比べる\n被害妄想激しい\n飽き性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010491684220768256",
+        "conversation_id": "2059449982466527378",
+        "created_at": "2026-05-27T01:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059449982466527378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059449982466527378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 28522,
+          "like_count": 2057,
+          "quote_count": 52,
+          "reply_count": 15,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "私本当に本当になんの取り柄も無さすぎる\n\n不登校\n豆腐メンタル\n頭悪い\nブス\n怠け癖\n自傷逃げ\nすぐ人と比べる\n被害妄想激しい\n飽き性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 108,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 222
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T23:19:59.000Z",
+        "description": "全部悪気ないです 使い方もままならない リゼロとか好きです",
+        "id": "2010491684220768256",
+        "name": "miru",
+        "pinned_tweet_id": "2059872086945071571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013959127358402561/_0nYZXdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 48,
+          "like_count": 6001,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 196
+        },
+        "username": "miru_dz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064228638426353987",
+    "created_at": "2026-06-09T06:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064228638426353987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fortearsidie/s…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/fortearsidie/status/2064009951820030133",
+          "start": 52,
+          "url": "https://t.co/tNAdFjaqba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064228638426353987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064009951820030133",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我呢等会就发一个收款码 然后说一些我过的很惨的话 你们呢就往那个码里扫点钱 然后说一些安慰我的话懂了么 https://t.co/tNAdFjaqba"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064228638426353987",
+        "created_at": "2026-06-09T06:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064228638426353987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fortearsidie/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/fortearsidie/status/2064009951820030133",
+              "start": 52,
+              "url": "https://t.co/tNAdFjaqba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064228638426353987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064009951820030133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我呢等会就发一个收款码 然后说一些我过的很惨的话 你们呢就往那个码里扫点钱 然后说一些安慰我的话懂了么 https://t.co/tNAdFjaqba"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "conversation_id": "2064009951820030133",
+        "created_at": "2026-06-08T15:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064009951820030133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064009951820030133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我呢等会就发一个收款码 然后说一些我过的很惨的话 你们呢就往那个码里扫点钱 然后说一些安慰我的话懂了么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 304,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 909
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 370,
+          "like_count": 5902,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 176
+        },
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

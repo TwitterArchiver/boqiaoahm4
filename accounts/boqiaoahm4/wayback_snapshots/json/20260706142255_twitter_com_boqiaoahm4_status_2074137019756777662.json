@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2074137019756777662",
+    "created_at": "2026-07-06T14:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T15:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074137019756777662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074137019756777662",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 510
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073827820279677209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: Quando você vai nas notas do seu celular procurar uma senha e acaba encontrando um parágrafo falando sobre como você se senti…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6389,
+        "height": 240,
+        "media_key": "7_2073827811349913600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073827811349913600/pu/img/8Bab4rUfHL_46k9K.jpg",
+        "public_metrics": {
+          "view_count": 4350
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073827811349913600/pu/vid/avc1/250x240/3BcA2yRE8sIkMu9h.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073827811349913600/pu/pl/tDSpSPDRoZCe7MMz.m3u8?tag=12"
+          }
+        ],
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2074137019756777662",
+        "created_at": "2026-07-06T14:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074137019756777662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074137019756777662",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 510
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073827820279677209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: Quando você vai nas notas do seu celular procurar uma senha e acaba encontrando um parágrafo falando sobre como você se senti…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073827811349913600"
+          ]
+        },
+        "author_id": "2046395388974845952",
+        "conversation_id": "2073827820279677209",
+        "created_at": "2026-07-05T17:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073827820279677209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdVWMnMqtB",
+              "end": 151,
+              "expanded_url": "https://x.com/eduantao/status/2073827820279677209/video/1",
+              "media_key": "7_2073827811349913600",
+              "start": 128,
+              "url": "https://t.co/UdVWMnMqtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073827820279677209",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 9949,
+          "like_count": 1295,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 510
+        },
+        "reply_settings": "everyone",
+        "text": "Quando você vai nas notas do seu celular procurar uma senha e acaba encontrando um parágrafo falando sobre como você se sentia. https://t.co/UdVWMnMqtB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 429,
+          "like_count": 3397,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2121
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5255,
+          "following_count": 502,
+          "like_count": 33,
+          "listed_count": 3,
+          "media_count": 630,
+          "tweet_count": 846
+        },
+        "url": "",
+        "username": "eduantao",
+        "verified": true
+      }
+    ]
+  }
+}

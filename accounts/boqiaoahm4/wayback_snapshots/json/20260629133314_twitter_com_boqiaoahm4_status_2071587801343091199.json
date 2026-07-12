@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2071352960685318144"
+      ],
+      "media_source_tweet_id": [
+        "2071352971796082689"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071587801343091199",
+    "created_at": "2026-06-29T13:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071587801343091199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981638054688501760",
+          "start": 3,
+          "username": "ashasw114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j4EOvXPGLv",
+          "end": 41,
+          "expanded_url": "https://x.com/ashasw114514/status/2071352971796082689/photo/1",
+          "media_key": "16_2071352960685318144",
+          "start": 18,
+          "url": "https://t.co/j4EOvXPGLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071587801343091199",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071352971796082689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw114514: https://t.co/j4EOvXPGLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2071352960685318144",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HL7sixIaIAAx9ci.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HL7sixIaIAAx9ci.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071352960685318144"
+          ],
+          "media_source_tweet_id": [
+            "2071352971796082689"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071587801343091199",
+        "created_at": "2026-06-29T13:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071587801343091199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981638054688501760",
+              "start": 3,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4EOvXPGLv",
+              "end": 41,
+              "expanded_url": "https://x.com/ashasw114514/status/2071352971796082689/photo/1",
+              "media_key": "16_2071352960685318144",
+              "start": 18,
+              "url": "https://t.co/j4EOvXPGLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071587801343091199",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071352971796082689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw114514: https://t.co/j4EOvXPGLv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071352960685318144"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2071352971796082689",
+        "created_at": "2026-06-28T22:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071352971796082689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4EOvXPGLv",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2071352971796082689/photo/1",
+              "media_key": "16_2071352960685318144",
+              "start": 0,
+              "url": "https://t.co/j4EOvXPGLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071352971796082689",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1176,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j4EOvXPGLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 416,
+          "like_count": 2890,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1786
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex\n@LinkingMadoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "LinkingMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4539,
+          "following_count": 3451,
+          "like_count": 7692,
+          "listed_count": 10,
+          "media_count": 668,
+          "tweet_count": 5655
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

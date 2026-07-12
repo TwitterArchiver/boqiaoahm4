@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071518619880550400"
+      ],
+      "media_source_tweet_id": [
+        "2071518622858486087"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071625905152172107",
+    "created_at": "2026-06-29T16:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071625905152172107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2054755495710248960",
+          "start": 3,
+          "username": "lyn995407936678"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C8t31yQCcF",
+          "end": 50,
+          "expanded_url": "https://x.com/lyn995407936678/status/2071518622858486087/photo/1",
+          "media_key": "3_2071518619880550400",
+          "start": 27,
+          "url": "https://t.co/C8t31yQCcF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071625905152172107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071518622858486087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyn995407936678: 假发真难修 https://t.co/C8t31yQCcF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_2071518619880550400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-DNZuWcAAwxue.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071518619880550400"
+          ],
+          "media_source_tweet_id": [
+            "2071518622858486087"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071625905152172107",
+        "created_at": "2026-06-29T16:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071625905152172107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2054755495710248960",
+              "start": 3,
+              "username": "lyn995407936678"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8t31yQCcF",
+              "end": 50,
+              "expanded_url": "https://x.com/lyn995407936678/status/2071518622858486087/photo/1",
+              "media_key": "3_2071518619880550400",
+              "start": 27,
+              "url": "https://t.co/C8t31yQCcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071625905152172107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071518622858486087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lyn995407936678: 假发真难修 https://t.co/C8t31yQCcF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071518619880550400"
+          ]
+        },
+        "author_id": "2054755495710248960",
+        "conversation_id": "2071518622858486087",
+        "created_at": "2026-06-29T08:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071518622858486087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8t31yQCcF",
+              "end": 29,
+              "expanded_url": "https://x.com/lyn995407936678/status/2071518622858486087/photo/1",
+              "media_key": "3_2071518619880550400",
+              "start": 6,
+              "url": "https://t.co/C8t31yQCcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071518622858486087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "假发真难修 https://t.co/C8t31yQCcF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 416,
+          "like_count": 2931,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T02:47:59.000Z",
+        "description": "选择性回关回私信 推是我的树洞 什么都会发 我很脆弱偶尔温良偶尔刻薄 不惯着任何人 接游戏陪🥣纯绿 来找我玩匿名问答\nhttps://t.co/BZxptzmlJG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyn99540793667…",
+                "end": 82,
+                "expanded_url": "https://ngl.link/lyn9954079366782",
+                "start": 59,
+                "url": "https://t.co/BZxptzmlJG"
+              }
+            ]
+          }
+        },
+        "id": "2054755495710248960",
+        "name": "Sallyyyy",
+        "pinned_tweet_id": "2058271960820580717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067536921539006464/lbZTNdCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 210,
+          "like_count": 2173,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "lyn995407936678",
+        "verified": false
+      }
+    ]
+  }
+}

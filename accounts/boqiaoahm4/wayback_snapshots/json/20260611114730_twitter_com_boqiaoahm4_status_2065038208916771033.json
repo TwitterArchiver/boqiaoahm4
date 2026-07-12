@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065038208916771033",
+    "created_at": "2026-06-11T11:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065038208916771033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063877211938336768",
+          "start": 3,
+          "username": "KEHGIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065038208916771033",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064869621577232707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KEHGIV: 처음 정신병원에 갔다 왔던 날\n엄마는 눈물을 흘리며 울었다\n\n나는 그 눈물이\n나를 걱정해서 흘리는 눈물이라고 생각했다\n\n하지만 그 눈물의 의미는\n\n나를 걱정해서 흘린 눈물이 아니라\n정신병에 걸린 자식에 대한 현실을 부정하는 분노…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065038208916771033",
+        "created_at": "2026-06-11T11:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065038208916771033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063877211938336768",
+              "start": 3,
+              "username": "KEHGIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065038208916771033",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064869621577232707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KEHGIV: 처음 정신병원에 갔다 왔던 날\n엄마는 눈물을 흘리며 울었다\n\n나는 그 눈물이\n나를 걱정해서 흘리는 눈물이라고 생각했다\n\n하지만 그 눈물의 의미는\n\n나를 걱정해서 흘린 눈물이 아니라\n정신병에 걸린 자식에 대한 현실을 부정하는 분노…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063877211938336768",
+        "conversation_id": "2064869621577232707",
+        "created_at": "2026-06-11T00:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064869621577232707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064869621577232707",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5005,
+          "like_count": 247,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "처음 정신병원에 갔다 왔던 날\n엄마는 눈물을 흘리며 울었다\n\n나는 그 눈물이\n나를 걱정해서 흘리는 눈물이라고 생각했다\n\n하지만 그 눈물의 의미는\n\n나를 걱정해서 흘린 눈물이 아니라\n정신병에 걸린 자식에 대한 현실을 부정하는 분노의 눈물이었다\n\n그 이후 나는 정신병을 숨기기로 마음 먹었다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 343,
+          "like_count": 1301,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1032
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T06:59:31.000Z",
+        "description": "스미레입니다",
+        "id": "2063877211938336768",
+        "name": "菫",
+        "pinned_tweet_id": "2063883110316638454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063880302699913216/Z9DTwpkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 104,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "KEHGIV",
+        "verified": false
+      }
+    ]
+  }
+}

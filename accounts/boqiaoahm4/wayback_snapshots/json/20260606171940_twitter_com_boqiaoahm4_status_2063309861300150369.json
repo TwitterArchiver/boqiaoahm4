@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063309861300150369",
+    "created_at": "2026-06-06T17:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063309861300150369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622114910133002241",
+          "start": 3,
+          "username": "xsh19068663"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063309861300150369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063105037971382556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xsh19068663: 为什么我每次时间越临近朋友聚会就越焦虑甚至想找理由放对方鸽子…但是真见到面了就立马缓解了且玩得很开心。每次旅游也这样。唉所以我一直跟朋友说约我不能提前太早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063309861300150369",
+        "created_at": "2026-06-06T17:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063309861300150369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622114910133002241",
+              "start": 3,
+              "username": "xsh19068663"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063309861300150369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063105037971382556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xsh19068663: 为什么我每次时间越临近朋友聚会就越焦虑甚至想找理由放对方鸽子…但是真见到面了就立马缓解了且玩得很开心。每次旅游也这样。唉所以我一直跟朋友说约我不能提前太早"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622114910133002241",
+        "conversation_id": "2063105037971382556",
+        "created_at": "2026-06-06T03:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063105037971382556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063105037971382556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3592,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我每次时间越临近朋友聚会就越焦虑甚至想找理由放对方鸽子…但是真见到面了就立马缓解了且玩得很开心。每次旅游也这样。唉所以我一直跟朋友说约我不能提前太早"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 214,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 709
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T06:08:55.000Z",
+        "description": "03/infj/处女座/家里有只estp的小猫叫海苔\n欢迎小女孩们找我玩呀\n只回女生或者感兴趣的私信/有事先打钱骚扰拉黑",
+        "id": "1622114910133002241",
+        "location": "2.4km",
+        "name": "老公硬硬的原来是死了",
+        "pinned_tweet_id": "2063296073687560441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047853531894624256/uIrZEsBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 346,
+          "like_count": 1661,
+          "listed_count": 6,
+          "media_count": 219,
+          "tweet_count": 2499
+        },
+        "username": "xsh19068663",
+        "verified": false
+      }
+    ]
+  }
+}

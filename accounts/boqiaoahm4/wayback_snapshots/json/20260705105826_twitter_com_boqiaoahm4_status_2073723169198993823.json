@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2073723169198993823",
+    "created_at": "2026-07-05T10:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073723169198993823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bttrflynyx/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/bttrflynyx/status/2073421939302113676",
+          "start": 11,
+          "url": "https://t.co/KlIfYuJLdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073723169198993823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073421939302113676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是尿道出来就好了… https://t.co/KlIfYuJLdu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_2073421927541346304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZGQfSbkAAe75P.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2073723169198993823",
+        "created_at": "2026-07-05T10:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073723169198993823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bttrflynyx/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/bttrflynyx/status/2073421939302113676",
+              "start": 11,
+              "url": "https://t.co/KlIfYuJLdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073723169198993823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073421939302113676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是尿道出来就好了… https://t.co/KlIfYuJLdu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073421927541346304"
+          ]
+        },
+        "author_id": "1855814307587743744",
+        "conversation_id": "2073421939302113676",
+        "created_at": "2026-07-04T15:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073421939302113676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjvDjtkt0T",
+              "end": 82,
+              "expanded_url": "https://x.com/bttrflynyx/status/2073421939302113676/photo/1",
+              "media_key": "3_2073421927541346304",
+              "start": 59,
+              "url": "https://t.co/bjvDjtkt0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073421939302113676",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3382,
+          "impression_count": 1796241,
+          "like_count": 13415,
+          "quote_count": 342,
+          "reply_count": 437,
+          "retweet_count": 1082
+        },
+        "reply_settings": "everyone",
+        "text": "kalo beneran ada mpreg, lahirnya lewat silit apa titid yaa https://t.co/bjvDjtkt0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 422,
+          "like_count": 3303,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 2070
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T06:28:28.000Z",
+        "description": "apa aja deh",
+        "id": "1855814307587743744",
+        "location": "nomaden",
+        "name": "🦋",
+        "pinned_tweet_id": "2003899886207750215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031847828721725440/WJXAs1jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 2020,
+          "like_count": 405,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 3048
+        },
+        "url": "",
+        "username": "bttrflynyx",
+        "verified": true
+      }
+    ]
+  }
+}

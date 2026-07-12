@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065732127438897612",
+    "created_at": "2026-06-13T10:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065746783268176196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036099373608968192",
+          "start": 0,
+          "username": "szh80268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065746783268176196",
+    "in_reply_to_user_id": "2036099373608968192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065732127438897612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szh80268 看着电线杆感觉自己好忧郁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065732117464801280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr0aoaa4AAenKg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065732127438897612",
+        "created_at": "2026-06-13T10:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065746783268176196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036099373608968192",
+              "start": 0,
+              "username": "szh80268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065746783268176196",
+        "in_reply_to_user_id": "2036099373608968192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065732127438897612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szh80268 看着电线杆感觉自己好忧郁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065732117464801280"
+          ]
+        },
+        "author_id": "2036099373608968192",
+        "conversation_id": "2065732127438897612",
+        "created_at": "2026-06-13T09:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065732127438897612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bs4rfgVLwG",
+              "end": 35,
+              "expanded_url": "https://x.com/szh80268/status/2065732127438897612/photo/1",
+              "media_key": "3_2065732117464801280",
+              "start": 12,
+              "url": "https://t.co/bs4rfgVLwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065732127438897612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都愛抽菸看電線桿 https://t.co/bs4rfgVLwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 356,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1167
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T15:15:03.000Z",
+        "description": "沒事可以找我聊天喔",
+        "id": "2036099373608968192",
+        "name": "素直",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036859816908619776/LYTzS830_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 365,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1860
+        },
+        "username": "szh80268",
+        "verified": false
+      }
+    ]
+  }
+}

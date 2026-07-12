@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2067758492241502400",
+    "created_at": "2026-06-19T01:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067777305322398036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065580384406921216",
+          "start": 0,
+          "username": "tutu0630mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067777305322398036",
+    "in_reply_to_user_id": "2065580384406921216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067758492241502400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutu0630mi 。牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2067758492241502400",
+        "created_at": "2026-06-19T01:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067777305322398036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065580384406921216",
+              "start": 0,
+              "username": "tutu0630mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067777305322398036",
+        "in_reply_to_user_id": "2065580384406921216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067758492241502400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutu0630mi 。牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065580384406921216",
+        "conversation_id": "2067758492241502400",
+        "created_at": "2026-06-18T23:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T00:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067758492241502400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067758492241502400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前认识过一个11岁就去卖逼的，其实她家里还挺有钱的，她去卖纯属是觉得这样很小众"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 385,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T23:43:46.000Z",
+        "description": "大号@KG6I1x｜你们都来和我互动行不行｜我抗压差，你们不准骂我｜小女孩我无条件回fo呀｜只会小女孩和同类谢谢｜这是我闺蜜@zhheou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "KG6I1x"
+              },
+              {
+                "end": 69,
+                "start": 62,
+                "username": "zhheou"
+              }
+            ]
+          }
+        },
+        "id": "2065580384406921216",
+        "name": "荼蘼花二代目（评论再被限）",
+        "pinned_tweet_id": "2066896798388720049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065581328507011072/wYddomwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 56,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "tutu0630mi",
+        "verified": false
+      }
+    ]
+  }
+}

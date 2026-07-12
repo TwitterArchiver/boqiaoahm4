@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057078236308529152"
+      ],
+      "media_source_tweet_id": [
+        "2057078556484882619"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2057427740786340060",
+    "created_at": "2026-05-21T11:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057427740786340060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2052601714419658752",
+          "start": 3,
+          "username": "Crystallize888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WG4ETZbmW5",
+          "end": 55,
+          "expanded_url": "https://x.com/Crystallize888/status/2057078556484882619/video/1",
+          "media_key": "13_2057078236308529152",
+          "start": 32,
+          "url": "https://t.co/WG4ETZbmW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057427740786340060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057078556484882619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Crystallize888: 药片的梦，是时候结束了 https://t.co/WG4ETZbmW5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30603,
+        "height": 1080,
+        "media_key": "13_2057078236308529152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057078236308529152/img/4mDxf_Yi3al6ZdNb.jpg",
+        "public_metrics": {
+          "view_count": 4049
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057078236308529152/vid/avc1/1280x720/wTzC2uq1q0xOYY6K.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057078236308529152/vid/avc1/480x270/wYYySVnr3qUUxqGi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057078236308529152/pl/CdWo4CJWlHb7bG4B.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057078236308529152/vid/avc1/1920x1080/x0M3GY8LlvKy-zV3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057078236308529152/vid/avc1/640x360/ZF2hhmcbCmJ9I_El.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057078236308529152"
+          ],
+          "media_source_tweet_id": [
+            "2057078556484882619"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2057427740786340060",
+        "created_at": "2026-05-21T11:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057427740786340060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2052601714419658752",
+              "start": 3,
+              "username": "Crystallize888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WG4ETZbmW5",
+              "end": 55,
+              "expanded_url": "https://x.com/Crystallize888/status/2057078556484882619/video/1",
+              "media_key": "13_2057078236308529152",
+              "start": 32,
+              "url": "https://t.co/WG4ETZbmW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057427740786340060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057078556484882619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Crystallize888: 药片的梦，是时候结束了 https://t.co/WG4ETZbmW5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057078236308529152"
+          ]
+        },
+        "author_id": "2052601714419658752",
+        "conversation_id": "2057078556484882619",
+        "created_at": "2026-05-20T12:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057078556484882619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WG4ETZbmW5",
+              "end": 35,
+              "expanded_url": "https://x.com/Crystallize888/status/2057078556484882619/video/1",
+              "media_key": "13_2057078236308529152",
+              "start": 12,
+              "url": "https://t.co/WG4ETZbmW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057078556484882619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 9814,
+          "like_count": 634,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "药片的梦，是时候结束了 https://t.co/WG4ETZbmW5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "别对我发脾气 我 很脆弱",
+        "id": "2057425772198215680",
+        "name": "熵增",
+        "pinned_tweet_id": "2057427103348621718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T04:09:58.000Z",
+        "description": "Offical X Acoount Of https://t.co/MkurdUoEKF\n #結晶化\n多人帳號 亞文化 言論自由 不出東西不擔保交易\n\n！網站和社群在置頂推文！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "結晶化"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Crystallize.Club",
+                "end": 44,
+                "expanded_url": "http://Crystallize.Club",
+                "start": 21,
+                "url": "https://t.co/MkurdUoEKF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/cIXzl6egXK"
+              }
+            ]
+          }
+        },
+        "id": "2052601714419658752",
+        "location": "Tai Wan",
+        "name": "結晶化 - Crystallize 精神物質結晶圈",
+        "pinned_tweet_id": "2054172285578453071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054166877304197120/XhSr4TLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 71,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/cIXzl6egXK",
+        "username": "Crystallize888",
+        "verified": true
+      }
+    ]
+  }
+}

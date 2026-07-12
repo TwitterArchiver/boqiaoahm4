@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2067034446025666839",
+    "created_at": "2026-06-17T00:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067047180163268883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "919677923702874112",
+          "start": 0,
+          "username": "ChiZehao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067047180163268883",
+    "in_reply_to_user_id": "919677923702874112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067039371883401468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiZehao 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2067034446025666839",
+        "created_at": "2026-06-17T00:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067047180163268883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "919677923702874112",
+              "start": 0,
+              "username": "ChiZehao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067047180163268883",
+        "in_reply_to_user_id": "919677923702874112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067039371883401468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiZehao 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "919677923702874112",
+        "conversation_id": "2067034446025666839",
+        "created_at": "2026-06-17T00:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067039371883401468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067039371883401468",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067037401957147030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 🤔一个打两个成年人还是有点压力吧，没点拳脚真不行（姐妹你不会要欺负人家亚成体吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 381,
+          "like_count": 1976,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-15T21:34:38.000Z",
+        "description": "",
+        "id": "919677923702874112",
+        "name": "Dr.San",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/919683793400631298/yTPb9Y6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 209,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 220
+        },
+        "username": "ChiZehao",
+        "verified": false
+      }
+    ]
+  }
+}

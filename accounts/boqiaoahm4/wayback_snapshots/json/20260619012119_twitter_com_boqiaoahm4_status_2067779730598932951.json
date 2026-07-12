@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2067654486295007549",
+    "created_at": "2026-06-19T01:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067779730598932951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1977438559817854976",
+          "start": 0,
+          "username": "b7520chazhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067779730598932951",
+    "in_reply_to_user_id": "1977438559817854976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067654486295007549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b7520chazhi 超可爱…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067654468146204672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHIyKwakAARbtt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2067654486295007549",
+        "created_at": "2026-06-19T01:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067779730598932951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1977438559817854976",
+              "start": 0,
+              "username": "b7520chazhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067779730598932951",
+        "in_reply_to_user_id": "1977438559817854976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067654486295007549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b7520chazhi 超可爱…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067654468146204672"
+          ]
+        },
+        "author_id": "1977438559817854976",
+        "conversation_id": "2067654486295007549",
+        "created_at": "2026-06-18T17:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067654486295007549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eo3ON8l9rk",
+              "end": 30,
+              "expanded_url": "https://x.com/b7520chazhi/status/2067654486295007549/photo/1",
+              "media_key": "3_2067654468146204672",
+              "start": 7,
+              "url": "https://t.co/eo3ON8l9rk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067654486295007549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 914,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个 大小眼 https://t.co/eo3ON8l9rk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 385,
+          "like_count": 2258,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1253
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T18:17:59.000Z",
+        "description": "主页全是片的人关注我会死全家\n只和女生玩",
+        "id": "1977438559817854976",
+        "name": "kisana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067564632680890368/y50FPeBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 47,
+          "like_count": 1430,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "b7520chazhi",
+        "verified": false
+      }
+    ]
+  }
+}

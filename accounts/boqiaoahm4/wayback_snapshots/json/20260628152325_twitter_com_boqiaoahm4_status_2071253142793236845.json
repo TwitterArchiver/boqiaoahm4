@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071245948693385325",
+    "created_at": "2026-06-28T15:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071253142793236845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1622511426215755777",
+          "start": 0,
+          "username": "dntuxngjihuxng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071253142793236845",
+    "in_reply_to_user_id": "1622511426215755777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071249112448782346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dntuxngjihuxng1 没钓到😹😹😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071245948693385325",
+        "created_at": "2026-06-28T15:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071253142793236845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1622511426215755777",
+              "start": 0,
+              "username": "dntuxngjihuxng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071253142793236845",
+        "in_reply_to_user_id": "1622511426215755777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071249112448782346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dntuxngjihuxng1 没钓到😹😹😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622511426215755777",
+        "conversation_id": "2071245948693385325",
+        "created_at": "2026-06-28T15:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071249112448782346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071249112448782346",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071245948693385325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 钓到了吗？钓到了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 408,
+          "like_count": 2830,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1740
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T08:24:40.000Z",
+        "description": "月亮啊月亮",
+        "id": "1622511426215755777",
+        "name": "我是一个低能",
+        "pinned_tweet_id": "2066902901528944786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066836582540427264/GT9LJZQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 657,
+          "like_count": 5870,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 6148
+        },
+        "url": "",
+        "username": "dntuxngjihuxng1",
+        "verified": false
+      }
+    ]
+  }
+}

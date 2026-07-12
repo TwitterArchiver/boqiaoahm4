@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2069092468084396290",
+    "created_at": "2026-06-22T16:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069092468084396290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loves_angel_/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/loves_angel_/status/2068930230463397963",
+          "start": 14,
+          "url": "https://t.co/ycvIaHeCI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069092468084396290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068930230463397963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我喜欢的人都不喜欢我 https://t.co/ycvIaHeCI9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2069092468084396290",
+        "created_at": "2026-06-22T16:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069092468084396290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loves_angel_/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/loves_angel_/status/2068930230463397963",
+              "start": 14,
+              "url": "https://t.co/ycvIaHeCI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069092468084396290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068930230463397963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我喜欢的人都不喜欢我 https://t.co/ycvIaHeCI9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2068930230463397963",
+        "created_at": "2026-06-22T05:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068930230463397963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068930230463397963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我喜欢的人都不喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 399,
+          "like_count": 2480,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1477
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "我保证我是天使只是偶尔有点坏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "name": "拜天使教",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067235852443340800/tx4FMXXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 242,
+          "like_count": 2886,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "loves_angel_",
+        "verified": true
+      }
+    ]
+  }
+}

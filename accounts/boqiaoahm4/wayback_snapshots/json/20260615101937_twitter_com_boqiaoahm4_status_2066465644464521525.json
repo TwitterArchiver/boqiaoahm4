@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2066451146244600271",
+    "created_at": "2026-06-15T10:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066465644464521525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058924635547402243",
+          "start": 0,
+          "username": "kasemarin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066465644464521525",
+    "in_reply_to_user_id": "2058924635547402243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066451146244600271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin520 死贱畜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2066451142532599808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2CXZhbEAArnQ6.jpg",
+        "width": 720
+      },
+      {
+        "height": 1604,
+        "media_key": "3_2066451143480496128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2CXdDa0AAf8WI.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2066451146244600271",
+        "created_at": "2026-06-15T10:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066465644464521525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058924635547402243",
+              "start": 0,
+              "username": "kasemarin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066465644464521525",
+        "in_reply_to_user_id": "2058924635547402243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066451146244600271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin520 死贱畜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066451142532599808",
+            "3_2066451143480496128"
+          ]
+        },
+        "author_id": "2058924635547402243",
+        "conversation_id": "2066451146244600271",
+        "created_at": "2026-06-15T09:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066451146244600271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ssYJxYY5z",
+              "end": 30,
+              "expanded_url": "https://x.com/kasemarin520/status/2066451146244600271/photo/1",
+              "media_key": "3_2066451142532599808",
+              "start": 7,
+              "url": "https://t.co/2ssYJxYY5z"
+            },
+            {
+              "display_url": "pic.x.com/2ssYJxYY5z",
+              "end": 30,
+              "expanded_url": "https://x.com/kasemarin520/status/2066451146244600271/photo/1",
+              "media_key": "3_2066451143480496128",
+              "start": 7,
+              "url": "https://t.co/2ssYJxYY5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066451146244600271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼吧这人。 https://t.co/2ssYJxYY5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo\nod自伤精神病傻逼贱货婊子畜生一枚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 365,
+          "like_count": 1762,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T14:55:29.000Z",
+        "description": "08 ISFP 无聊的留学生 自伤/美丽伤口 我爱我身上的每一道疤痕哪怕它们真的很丑陋\n匿名箱https://t.co/ut4i56f9mf\n欧尼酱 @elkvika\n 互fo请私信 有时候看不到 查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "elkvika"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 70,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 47,
+                "url": "https://t.co/ut4i56f9mf"
+              }
+            ]
+          }
+        },
+        "id": "2058924635547402243",
+        "location": "死死死",
+        "name": "用户1219（互fo私）",
+        "pinned_tweet_id": "2064694234670928276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060345615574618114/FMDvngb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 21,
+          "like_count": 2114,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 801
+        },
+        "username": "kasemarin520",
+        "verified": false
+      }
+    ]
+  }
+}

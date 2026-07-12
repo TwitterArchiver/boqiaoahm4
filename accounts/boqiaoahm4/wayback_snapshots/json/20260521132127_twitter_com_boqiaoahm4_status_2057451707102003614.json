@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2057451707102003614",
+    "created_at": "2026-05-21T13:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057451707102003614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1936283321568509952",
+          "start": 3,
+          "username": "mingxing311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057451707102003614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057374702910460250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingxing311: 听到有人说咪的天之类的词语 自动开启远离模式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2057451707102003614",
+        "created_at": "2026-05-21T13:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057451707102003614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1936283321568509952",
+              "start": 3,
+              "username": "mingxing311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057451707102003614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057374702910460250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingxing311: 听到有人说咪的天之类的词语 自动开启远离模式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936283321568509952",
+        "conversation_id": "2057374702910460250",
+        "created_at": "2026-05-21T08:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057374702910460250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057374702910460250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6115,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "听到有人说咪的天之类的词语 自动开启远离模式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "别对我发脾气 我 很脆弱",
+        "id": "2057425772198215680",
+        "name": "熵增",
+        "pinned_tweet_id": "2057427103348621718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T04:41:43.000Z",
+        "description": "皮下是脂肪 不约不下海不出原味不参与性行为 这里是实话小辣条 如果你看见我的言论生气了 请你认为我是反串的 如果你开心了 那我也开心 @latiaomeimo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "latiaomeimo2"
+              }
+            ]
+          }
+        },
+        "id": "1936283321568509952",
+        "location": "🚪520 直达我心里",
+        "name": "辣条魅魔",
+        "pinned_tweet_id": "2055981675595907399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041903012688621570/1m2XVeVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 52,
+          "like_count": 11288,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 1479
+        },
+        "username": "mingxing311",
+        "verified": false
+      }
+    ]
+  }
+}

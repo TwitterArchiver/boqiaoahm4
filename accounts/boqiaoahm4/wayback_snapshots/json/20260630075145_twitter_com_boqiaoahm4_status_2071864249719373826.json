@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071864249719373826",
+    "created_at": "2026-06-30T07:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071864249719373826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1729831830214344704",
+          "start": 3,
+          "username": "qiqi61595220678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071864249719373826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071658104790663485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiqi61595220678: 对不起，不能做到和刚认识那样可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071864249719373826",
+        "created_at": "2026-06-30T07:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071864249719373826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1729831830214344704",
+              "start": 3,
+              "username": "qiqi61595220678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071864249719373826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071658104790663485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiqi61595220678: 对不起，不能做到和刚认识那样可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729831830214344704",
+        "conversation_id": "2071658104790663485",
+        "created_at": "2026-06-29T18:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071658104790663485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071658104790663485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4021,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，不能做到和刚认识那样可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 415,
+          "like_count": 2960,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1837
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T11:57:10.000Z",
+        "description": "",
+        "id": "1729831830214344704",
+        "name": "Qiiquq",
+        "pinned_tweet_id": "2022006402068488489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862102195555995648/BAiZzT5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 76,
+          "like_count": 1242,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "qiqi61595220678",
+        "verified": false
+      }
+    ]
+  }
+}

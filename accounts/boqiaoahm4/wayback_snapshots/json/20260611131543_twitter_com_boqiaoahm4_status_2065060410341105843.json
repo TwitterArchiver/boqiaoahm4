@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065051819932549472",
+    "created_at": "2026-06-11T13:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065060410341105843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995929856723615744",
+          "start": 0,
+          "username": "Navira1449585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065060410341105843",
+    "in_reply_to_user_id": "1995929856723615744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065059418471821314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Navira1449585 吸溜吸溜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065051819932549472",
+        "created_at": "2026-06-11T13:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065060410341105843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995929856723615744",
+              "start": 0,
+              "username": "Navira1449585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065060410341105843",
+        "in_reply_to_user_id": "1995929856723615744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065059418471821314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Navira1449585 吸溜吸溜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995929856723615744",
+        "conversation_id": "2065051819932549472",
+        "created_at": "2026-06-11T13:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065059418471821314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065059418471821314",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065051819932549472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 （舌头舔人的声音）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 344,
+          "like_count": 1331,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1046
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T18:55:44.000Z",
+        "description": "＝毛线\n不登校｜intp｜11｜互fo\n💊｜🚬｜🍻｜智商低情商为负orz\n匿名提问箱https://t.co/xS5wT1S99f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/navira26904",
+                "end": 65,
+                "expanded_url": "https://ngl.link/navira26904",
+                "start": 42,
+                "url": "https://t.co/xS5wT1S99f"
+              }
+            ]
+          }
+        },
+        "id": "1995929856723615744",
+        "name": "毛线咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008468373693136896/6f5DcANP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 135,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 152
+        },
+        "username": "Navira1449585",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065746113559429376",
+    "created_at": "2026-06-13T10:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065746113559429376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/onijiang00/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/onijiang00/status/2065587233231630802",
+          "start": 12,
+          "url": "https://t.co/8xjUZqEt9O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065746113559429376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065587233231630802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此时此刻我就想杀他全家 https://t.co/8xjUZqEt9O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065746113559429376",
+        "created_at": "2026-06-13T10:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065746113559429376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onijiang00/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/onijiang00/status/2065587233231630802",
+              "start": 12,
+              "url": "https://t.co/8xjUZqEt9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065746113559429376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065587233231630802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此时此刻我就想杀他全家 https://t.co/8xjUZqEt9O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065320706527907840",
+        "conversation_id": "2065587233231630802",
+        "created_at": "2026-06-13T00:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065587233231630802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065587233231630802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20154,
+          "like_count": 323,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "终于有人把这种微妙的感觉说出来了\n\n其实是很小的事情\n十点不到的时候男朋友挂了视讯\n说先去洗澡\n十一点了他还没有传讯息过来\n于是我问他洗完没\n他说洗完了 已经躺在床上了\n明明都忙完了却也没有想主动找你\n一瞬间觉得非常失落和索然无味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 356,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1165
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T06:32:32.000Z",
+        "description": "🧁i人的碎碎念日常、吃喝玩乐、记录生活\n闺蜜@0b7cm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 22,
+                "username": "0b7cm"
+              }
+            ]
+          }
+        },
+        "id": "2065320706527907840",
+        "name": "欧尼酱もえ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065330606452723712/P_i32Z0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 4,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 68
+        },
+        "username": "onijiang00",
+        "verified": false
+      }
+    ]
+  }
+}

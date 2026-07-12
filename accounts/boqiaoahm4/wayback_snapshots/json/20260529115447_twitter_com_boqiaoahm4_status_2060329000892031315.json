@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060329000892031315",
+    "created_at": "2026-05-29T11:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060329000892031315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3057724353",
+          "start": 3,
+          "username": "yyylaney"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060329000892031315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060020156659847362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyylaney: 我觉得地雷系片子做着做着把衣服全脱了的行为堪比裤袜角色脱裤袜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060329000892031315",
+        "created_at": "2026-05-29T11:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060329000892031315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3057724353",
+              "start": 3,
+              "username": "yyylaney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060329000892031315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060020156659847362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyylaney: 我觉得地雷系片子做着做着把衣服全脱了的行为堪比裤袜角色脱裤袜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3057724353",
+        "conversation_id": "2060020156659847362",
+        "created_at": "2026-05-28T15:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060020156659847362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060020156659847362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 470560,
+          "like_count": 2758,
+          "quote_count": 10,
+          "reply_count": 342,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得地雷系片子做着做着把衣服全脱了的行为堪比裤袜角色脱裤袜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 127,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 242
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-24T01:13:16.000Z",
+        "description": "生理心理男，取向女，程序员，今年毕业后去上海某血汗工厂上班，目前在香港上学，住在深圳。热衷于地雷系装扮。女装对我来说就是cos，日常不会穿，发社交平台也是为了受到一点关注，当然也会发一些日常或牢骚，希望大家不要介意！十多年老足控，不发🔞，不代表不看。我关注纯看眼缘，而且不关注喜欢秀恩爱的抱歉！喜欢有艺术张力的照片~",
+        "id": "3057724353",
+        "name": "渚夜椰葉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024862641852948480/nbvOteXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 140,
+          "like_count": 943,
+          "listed_count": 10,
+          "media_count": 109,
+          "tweet_count": 749
+        },
+        "username": "yyylaney",
+        "verified": true
+      }
+    ]
+  }
+}

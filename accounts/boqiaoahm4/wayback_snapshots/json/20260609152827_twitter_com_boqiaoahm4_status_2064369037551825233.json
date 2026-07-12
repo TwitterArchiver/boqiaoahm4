@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064369037551825233",
+    "created_at": "2026-06-09T15:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064369037551825233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1954426904712536064",
+          "start": 3,
+          "username": "_14_ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064369037551825233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064365110458806660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_14_ii: 我的价值观已经崩坏了我操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064369037551825233",
+        "created_at": "2026-06-09T15:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064369037551825233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1954426904712536064",
+              "start": 3,
+              "username": "_14_ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064369037551825233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064365110458806660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_14_ii: 我的价值观已经崩坏了我操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954426904712536064",
+        "conversation_id": "2064365110458806660",
+        "created_at": "2026-06-09T15:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064365110458806660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064365110458806660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的价值观已经崩坏了我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 311,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 977
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T06:17:59.000Z",
+        "description": "TT/淚醬|09|ip香港/深圳/馬來-留學中|地雷/餐卷|我o割吸|低能量|玻璃心|粵/普/En-oki |互fo/擴列 大歡迎|高強度上網［精神狀態偶爾不穩 很友好請放心撫摸］\n♡歡迎小窗互動 出來線下面基呀 ♡\n🚪52/88/120 \n*ଘ 幸せが私に来ますように! ‧₊",
+        "id": "1954426904712536064",
+        "location": "🚪88 解锁线下/原",
+        "name": "幸福是什么",
+        "pinned_tweet_id": "2063804916804825139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063762948808720384/Qur0YtjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 124,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 280
+        },
+        "username": "_14_ii",
+        "verified": false
+      }
+    ]
+  }
+}

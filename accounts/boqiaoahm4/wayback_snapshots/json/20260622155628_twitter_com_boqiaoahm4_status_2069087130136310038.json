@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2069072291775017342",
+    "created_at": "2026-06-22T15:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069087130136310038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063285995487834112",
+          "start": 0,
+          "username": "HarukoKazama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069087130136310038",
+    "in_reply_to_user_id": "2063285995487834112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069072291775017342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarukoKazama 我看到真天使了.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069072257381707776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbSQXPaMAArcsG.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2069072257369137152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbSQXMaYAAj-Qp.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2069072257343950848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbSQXGaEAA85pZ.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2069072291775017342",
+        "created_at": "2026-06-22T15:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069087130136310038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063285995487834112",
+              "start": 0,
+              "username": "HarukoKazama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069087130136310038",
+        "in_reply_to_user_id": "2063285995487834112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069072291775017342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarukoKazama 我看到真天使了.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069072257381707776",
+            "3_2069072257369137152",
+            "3_2069072257343950848"
+          ]
+        },
+        "author_id": "2063285995487834112",
+        "conversation_id": "2069072291775017342",
+        "created_at": "2026-06-22T14:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069072291775017342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HeSL3nbm4H",
+              "end": 38,
+              "expanded_url": "https://x.com/HarukoKazama/status/2069072291775017342/photo/1",
+              "media_key": "3_2069072257381707776",
+              "start": 15,
+              "url": "https://t.co/HeSL3nbm4H"
+            },
+            {
+              "display_url": "pic.x.com/HeSL3nbm4H",
+              "end": 38,
+              "expanded_url": "https://x.com/HarukoKazama/status/2069072291775017342/photo/1",
+              "media_key": "3_2069072257369137152",
+              "start": 15,
+              "url": "https://t.co/HeSL3nbm4H"
+            },
+            {
+              "display_url": "pic.x.com/HeSL3nbm4H",
+              "end": 38,
+              "expanded_url": "https://x.com/HarukoKazama/status/2069072291775017342/photo/1",
+              "media_key": "3_2069072257343950848",
+              "start": 15,
+              "url": "https://t.co/HeSL3nbm4H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069072291775017342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我承认我是天使只是偶尔有点坏 https://t.co/HeSL3nbm4H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 399,
+          "like_count": 2466,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T15:46:06.000Z",
+        "description": "叫我鹤露吧\n发自己想发的 专注自己的唐逼生活\n这是我第三个号了再炸我就永远不玩推特了",
+        "id": "2063285995487834112",
+        "name": "鹤露HLu",
+        "pinned_tweet_id": "2063643842222391364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063628234990784512/nICaAXTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "HarukoKazama",
+        "verified": false
+      }
+    ]
+  }
+}

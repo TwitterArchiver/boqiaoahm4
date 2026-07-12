@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063610020269310103",
+    "created_at": "2026-06-07T13:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063610020269310103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1746520870871564288",
+          "start": 3,
+          "username": "h1r4_26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063610020269310103",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 555
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063477890604577197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h1r4_26: 초중딩 그림러들은 진짜 나이 밝히지마셈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063610020269310103",
+        "created_at": "2026-06-07T13:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063610020269310103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1746520870871564288",
+              "start": 3,
+              "username": "h1r4_26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063610020269310103",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063477890604577197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h1r4_26: 초중딩 그림러들은 진짜 나이 밝히지마셈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746520870871564288",
+        "conversation_id": "2063477890604577197",
+        "created_at": "2026-06-07T04:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063477890604577197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063477890604577197",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 290128,
+          "like_count": 4649,
+          "quote_count": 185,
+          "reply_count": 18,
+          "retweet_count": 555
+        },
+        "reply_settings": "everyone",
+        "text": "초중딩 그림러들은 진짜 나이 밝히지마셈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 231,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 757
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T13:13:27.000Z",
+        "description": "뭐든 일단 보여드리겟습니다",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/h1r4_26",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/h1r4_26",
+                "start": 0,
+                "url": "https://t.co/LkL3Y45jpP"
+              }
+            ]
+          }
+        },
+        "id": "1746520870871564288",
+        "location": "니얼굴",
+        "name": "히라",
+        "pinned_tweet_id": "2062911055597379764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041447947163037696/ZYXtB9LM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 657,
+          "like_count": 22830,
+          "listed_count": 5,
+          "media_count": 179,
+          "tweet_count": 8784
+        },
+        "url": "https://t.co/LkL3Y45jpP",
+        "username": "h1r4_26",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2062554838077251957",
+    "created_at": "2026-06-04T15:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062554838077251957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999198546743144448",
+          "start": 3,
+          "username": "_OD1216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062554838077251957",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062376137108692995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_OD1216: 근데 정말로 13년생 14년생은 뭐가 그리 힘들어서 우울계를 하고 손목을 그을까 그냥 마음 아픔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2062554838077251957",
+        "created_at": "2026-06-04T15:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062554838077251957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999198546743144448",
+              "start": 3,
+              "username": "_OD1216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062554838077251957",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062376137108692995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_OD1216: 근데 정말로 13년생 14년생은 뭐가 그리 힘들어서 우울계를 하고 손목을 그을까 그냥 마음 아픔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999198546743144448",
+        "conversation_id": "2062376137108692995",
+        "created_at": "2026-06-04T03:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062376137108692995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062376137108692995",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 67065,
+          "like_count": 1146,
+          "quote_count": 127,
+          "reply_count": 8,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "근데 정말로 13년생 14년생은 뭐가 그리 힘들어서 우울계를 하고 손목을 그을까 그냥 마음 아픔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 183,
+          "like_count": 760,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 596
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T19:24:26.000Z",
+        "description": "@a1n3rrt_eeeee  @hyun_hxn  @_ma_lix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "a1n3rrt_eeeee"
+              },
+              {
+                "end": 25,
+                "start": 16,
+                "username": "hyun_hxn"
+              },
+              {
+                "end": 35,
+                "start": 27,
+                "username": "_ma_lix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/9867844610/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/9867844610/",
+                "start": 0,
+                "url": "https://t.co/qG3tiF95CD"
+              }
+            ]
+          }
+        },
+        "id": "1999198546743144448",
+        "name": "형",
+        "pinned_tweet_id": "2050352300930322663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015146827855880192/rXkpfzTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 432,
+          "like_count": 5549,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/qG3tiF95CD",
+        "username": "_OD1216",
+        "verified": false
+      }
+    ]
+  }
+}

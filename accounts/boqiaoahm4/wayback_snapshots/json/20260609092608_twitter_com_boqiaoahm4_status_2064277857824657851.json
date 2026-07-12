@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064193616587980800"
+      ],
+      "media_source_tweet_id": [
+        "2064193624318071085"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2064277857824657851",
+    "created_at": "2026-06-09T09:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064277857824657851"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "上海"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "广东"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "香港"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055586228704104448",
+          "start": 3,
+          "username": "mioqaq7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DQazCQf6fe",
+          "end": 104,
+          "expanded_url": "https://x.com/mioqaq7/status/2064193624318071085/photo/1",
+          "media_key": "3_2064193616587980800",
+          "start": 81,
+          "url": "https://t.co/DQazCQf6fe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064277857824657851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064193624318071085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mioqaq7: 小腐朽今天去上海，就是很可怜啊，这次去上海被鸽了两个单子 有没有哥哥🈷️拯救一下我 ...#爸爸活  #上海 #广东 #香港 #门槛妹 https://t.co/DQazCQf6fe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_2064193616587980800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV9KGBbAAAIq05.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064193616587980800"
+          ],
+          "media_source_tweet_id": [
+            "2064193624318071085"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2064277857824657851",
+        "created_at": "2026-06-09T09:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064277857824657851"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "上海"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "广东"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "香港"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055586228704104448",
+              "start": 3,
+              "username": "mioqaq7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQazCQf6fe",
+              "end": 104,
+              "expanded_url": "https://x.com/mioqaq7/status/2064193624318071085/photo/1",
+              "media_key": "3_2064193616587980800",
+              "start": 81,
+              "url": "https://t.co/DQazCQf6fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064277857824657851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064193624318071085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mioqaq7: 小腐朽今天去上海，就是很可怜啊，这次去上海被鸽了两个单子 有没有哥哥🈷️拯救一下我 ...#爸爸活  #上海 #广东 #香港 #门槛妹 https://t.co/DQazCQf6fe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064193616587980800"
+          ]
+        },
+        "author_id": "2055586228704104448",
+        "conversation_id": "2064193624318071085",
+        "created_at": "2026-06-09T03:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064193624318071085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "上海"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "广东"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "香港"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQazCQf6fe",
+              "end": 91,
+              "expanded_url": "https://x.com/mioqaq7/status/2064193624318071085/photo/1",
+              "media_key": "3_2064193616587980800",
+              "start": 68,
+              "url": "https://t.co/DQazCQf6fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064193624318071085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 272,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小腐朽今天去上海，就是很可怜啊，这次去上海被鸽了两个单子 有没有哥哥🈷️拯救一下我 ...#爸爸活  #上海 #广东 #香港 #门槛妹 https://t.co/DQazCQf6fe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 307,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 923
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T09:49:40.000Z",
+        "description": "想被人喜欢被得到认可 想治愈所有人🐹👁坐标北上广深港 关注就是暗恋你 想和小女孩聊天",
+        "id": "2055586228704104448",
+        "location": "🚪88/288/520/1314不封顶 ",
+        "name": "腐朽",
+        "pinned_tweet_id": "2064193624318071085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060628851898929152/3eLohZ4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 22,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 116
+        },
+        "username": "mioqaq7",
+        "verified": false
+      }
+    ]
+  }
+}

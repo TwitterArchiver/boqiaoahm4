@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065210229206163456",
+        "3_2065210229248135168",
+        "3_2065210229231423488",
+        "3_2065210229214662656"
+      ],
+      "media_source_tweet_id": [
+        "2065210271178559639",
+        "2065210271178559639",
+        "2065210271178559639",
+        "2065210271178559639"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2067962410359836886",
+    "created_at": "2026-06-19T13:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067962410359836886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701102642414645248",
+          "start": 3,
+          "username": "KG6I1x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8xrE6fLm99",
+          "end": 41,
+          "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+          "media_key": "3_2065210229206163456",
+          "start": 18,
+          "url": "https://t.co/8xrE6fLm99"
+        },
+        {
+          "display_url": "pic.x.com/8xrE6fLm99",
+          "end": 41,
+          "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+          "media_key": "3_2065210229248135168",
+          "start": 18,
+          "url": "https://t.co/8xrE6fLm99"
+        },
+        {
+          "display_url": "pic.x.com/8xrE6fLm99",
+          "end": 41,
+          "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+          "media_key": "3_2065210229231423488",
+          "start": 18,
+          "url": "https://t.co/8xrE6fLm99"
+        },
+        {
+          "display_url": "pic.x.com/8xrE6fLm99",
+          "end": 41,
+          "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+          "media_key": "3_2065210229214662656",
+          "start": 18,
+          "url": "https://t.co/8xrE6fLm99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067962410359836886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065210271178559639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KG6I1x: 放一个置顶 https://t.co/8xrE6fLm99"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_2065210229206163456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkZwvJWIAAS_eC.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065210229248135168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkZwvTWkAAZ94B.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2065210229231423488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkZwvPXkAApXK8.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065210229214662656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkZwvLX0AAMPRO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065210229206163456",
+            "3_2065210229248135168",
+            "3_2065210229231423488",
+            "3_2065210229214662656"
+          ],
+          "media_source_tweet_id": [
+            "2065210271178559639",
+            "2065210271178559639",
+            "2065210271178559639",
+            "2065210271178559639"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2067962410359836886",
+        "created_at": "2026-06-19T13:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067962410359836886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701102642414645248",
+              "start": 3,
+              "username": "KG6I1x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 41,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229206163456",
+              "start": 18,
+              "url": "https://t.co/8xrE6fLm99"
+            },
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 41,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229248135168",
+              "start": 18,
+              "url": "https://t.co/8xrE6fLm99"
+            },
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 41,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229231423488",
+              "start": 18,
+              "url": "https://t.co/8xrE6fLm99"
+            },
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 41,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229214662656",
+              "start": 18,
+              "url": "https://t.co/8xrE6fLm99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067962410359836886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065210271178559639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KG6I1x: 放一个置顶 https://t.co/8xrE6fLm99"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065210229206163456",
+            "3_2065210229248135168",
+            "3_2065210229231423488",
+            "3_2065210229214662656"
+          ]
+        },
+        "author_id": "1701102642414645248",
+        "conversation_id": "2065210271178559639",
+        "created_at": "2026-06-11T23:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065210271178559639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 29,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229206163456",
+              "start": 6,
+              "url": "https://t.co/8xrE6fLm99"
+            },
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 29,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229248135168",
+              "start": 6,
+              "url": "https://t.co/8xrE6fLm99"
+            },
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 29,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229231423488",
+              "start": 6,
+              "url": "https://t.co/8xrE6fLm99"
+            },
+            {
+              "display_url": "pic.x.com/8xrE6fLm99",
+              "end": 29,
+              "expanded_url": "https://x.com/KG6I1x/status/2065210271178559639/photo/1",
+              "media_key": "3_2065210229214662656",
+              "start": 6,
+              "url": "https://t.co/8xrE6fLm99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065210271178559639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1797,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "放一个置顶 https://t.co/8xrE6fLm99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 392,
+          "like_count": 2308,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T05:17:45.000Z",
+        "description": "05颓废家里蹲｜我语言能力缺失｜是因为喜欢你才会点关注喵/如果回fo我会开心一整天｜防吞小号@tutu0630mi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "tutu0630mi"
+              }
+            ]
+          }
+        },
+        "id": "1701102642414645248",
+        "name": "荼蘼花（评论被吞版",
+        "pinned_tweet_id": "2065210271178559639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063201336188194817/y7bGvpyb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 132,
+          "like_count": 2272,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "KG6I1x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071987950892847105"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071988066672316453",
+    "created_at": "2026-06-30T16:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071988066672316453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M4jdUlbdn3",
+          "end": 63,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2071988066672316453/video/1",
+          "media_key": "13_2071987950892847105",
+          "start": 40,
+          "url": "https://t.co/M4jdUlbdn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071988066672316453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚给我气得肚子疼我朋友给我分享个视频看得我笑岔气了差点尿床上 我现在。好痛苦 https://t.co/M4jdUlbdn3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24198,
+        "height": 1280,
+        "media_key": "13_2071987950892847105",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071987950892847105/img/aw8GZafnEpTjWtMe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071987950892847105/vid/avc1/320x690/5ektFLbgi5aI2tkY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071987950892847105/vid/avc1/480x1036/xuU3pIKuTwZk7Tm7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071987950892847105/vid/avc1/592x1280/KwZM1hu5XL2OpYmp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071987950892847105/pl/a-AJa9iYw15ppmyV.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071987950892847105"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071988066672316453",
+        "created_at": "2026-06-30T16:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071988066672316453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4jdUlbdn3",
+              "end": 63,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2071988066672316453/video/1",
+              "media_key": "13_2071987950892847105",
+              "start": 40,
+              "url": "https://t.co/M4jdUlbdn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071988066672316453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚给我气得肚子疼我朋友给我分享个视频看得我笑岔气了差点尿床上 我现在。好痛苦 https://t.co/M4jdUlbdn3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 418,
+          "like_count": 3003,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

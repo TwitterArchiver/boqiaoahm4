@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071918531772575944",
+    "created_at": "2026-06-30T11:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071918531772575944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813400969620709376",
+          "start": 3,
+          "username": "ShengRen2894"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071918531772575944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071614709795795370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShengRen2894: 一聊全是占有欲强的，一谈全是情感漠视来的😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071918531772575944",
+        "created_at": "2026-06-30T11:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071918531772575944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813400969620709376",
+              "start": 3,
+              "username": "ShengRen2894"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071918531772575944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071614709795795370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShengRen2894: 一聊全是占有欲强的，一谈全是情感漠视来的😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813400969620709376",
+        "conversation_id": "2071614709795795370",
+        "created_at": "2026-06-29T15:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071614709795795370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071614709795795370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11816,
+          "like_count": 235,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "一聊全是占有欲强的，一谈全是情感漠视来的😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 415,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T02:31:08.000Z",
+        "description": "",
+        "id": "1813400969620709376",
+        "location": "your heart",
+        "name": "任平生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813401809618112512/QSEJmsAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 82,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "ShengRen2894",
+        "verified": false
+      }
+    ]
+  }
+}

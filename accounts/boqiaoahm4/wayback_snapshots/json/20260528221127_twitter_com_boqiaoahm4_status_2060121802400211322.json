@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2060121802400211322",
+    "created_at": "2026-05-28T22:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060121802400211322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831328988960034816",
+          "start": 3,
+          "username": "55ghcgxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060121802400211322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060098610524815399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @55ghcgxc: 怎么样才能被别人注意到，被别人喜欢呢，性格不好长相也不好，整个人找不到一个优点出来，唉……到底怎么做才能被别人喜欢，我也想要朋友，但我实在不知道应该怎么去和她们说话，许愿下辈子不要当asd了，好痛苦口牙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2060121802400211322",
+        "created_at": "2026-05-28T22:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060121802400211322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831328988960034816",
+              "start": 3,
+              "username": "55ghcgxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060121802400211322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060098610524815399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @55ghcgxc: 怎么样才能被别人注意到，被别人喜欢呢，性格不好长相也不好，整个人找不到一个优点出来，唉……到底怎么做才能被别人喜欢，我也想要朋友，但我实在不知道应该怎么去和她们说话，许愿下辈子不要当asd了，好痛苦口牙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831328988960034816",
+        "conversation_id": "2060098610524815399",
+        "created_at": "2026-05-28T20:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060098610524815399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060098610524815399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么样才能被别人注意到，被别人喜欢呢，性格不好长相也不好，整个人找不到一个优点出来，唉……到底怎么做才能被别人喜欢，我也想要朋友，但我实在不知道应该怎么去和她们说话，许愿下辈子不要当asd了，好痛苦口牙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 116,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 233
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T13:50:51.000Z",
+        "description": "女的｜08辍学精神病｜抽烟喝酒od割手｜想发什么就发什么少对别人指指点点｜🚪66",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/55ghcgxc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/55ghcgxc",
+                "start": 0,
+                "url": "https://t.co/3h8JwIgoIX"
+              }
+            ]
+          }
+        },
+        "id": "1831328988960034816",
+        "name": "如果把表面的爱称作爱的话",
+        "pinned_tweet_id": "2031454610016370865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054567871045570561/97DrHAv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 232,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/3h8JwIgoIX",
+        "username": "55ghcgxc",
+        "verified": false
+      }
+    ]
+  }
+}

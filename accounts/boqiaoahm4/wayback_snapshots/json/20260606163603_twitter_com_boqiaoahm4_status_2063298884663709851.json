@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062975779194200064"
+      ],
+      "media_source_tweet_id": [
+        "2062975785884090719"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063298884663709851",
+    "created_at": "2026-06-06T16:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063298884663709851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7NOxZdwoCb",
+          "end": 40,
+          "expanded_url": "https://x.com/Miiharukawa/status/2062975785884090719/photo/1",
+          "media_key": "3_2062975779194200064",
+          "start": 17,
+          "url": "https://t.co/7NOxZdwoCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063298884663709851",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 354
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062975785884090719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: https://t.co/7NOxZdwoCb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2062975779194200064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEpioMa4AAWRvI.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062975779194200064"
+          ],
+          "media_source_tweet_id": [
+            "2062975785884090719"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063298884663709851",
+        "created_at": "2026-06-06T16:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063298884663709851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NOxZdwoCb",
+              "end": 40,
+              "expanded_url": "https://x.com/Miiharukawa/status/2062975785884090719/photo/1",
+              "media_key": "3_2062975779194200064",
+              "start": 17,
+              "url": "https://t.co/7NOxZdwoCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063298884663709851",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 354
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062975785884090719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: https://t.co/7NOxZdwoCb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062975779194200064"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2062975785884090719",
+        "created_at": "2026-06-05T19:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062975785884090719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NOxZdwoCb",
+              "end": 23,
+              "expanded_url": "https://x.com/Miiharukawa/status/2062975785884090719/photo/1",
+              "media_key": "3_2062975779194200064",
+              "start": 0,
+              "url": "https://t.co/7NOxZdwoCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062975785884090719",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 37396,
+          "like_count": 1907,
+          "quote_count": 22,
+          "reply_count": 40,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7NOxZdwoCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 215,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 690
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n发自拍的小号@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 235,
+          "like_count": 8977,
+          "listed_count": 6,
+          "media_count": 378,
+          "tweet_count": 3415
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

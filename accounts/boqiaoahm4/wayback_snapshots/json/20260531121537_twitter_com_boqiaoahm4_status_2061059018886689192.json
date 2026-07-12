@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2061059018886689192",
+    "created_at": "2026-05-31T12:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061059018886689192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1708743221545938944",
+          "start": 3,
+          "username": "ATMBOY_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061059018886689192",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060865382832087391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ATMBOY_: 난 자살을 하고싶은게아니라 걍 갑자기 인류전체가 멸망해서 걍 인간이라는 존재가 애초에 없었더라면 좋겠다는 생각을 함 나혼자죽어서뭐가달라지는데"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2061059018886689192",
+        "created_at": "2026-05-31T12:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061059018886689192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1708743221545938944",
+              "start": 3,
+              "username": "ATMBOY_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061059018886689192",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060865382832087391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ATMBOY_: 난 자살을 하고싶은게아니라 걍 갑자기 인류전체가 멸망해서 걍 인간이라는 존재가 애초에 없었더라면 좋겠다는 생각을 함 나혼자죽어서뭐가달라지는데"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708743221545938944",
+        "conversation_id": "2060865382832087391",
+        "created_at": "2026-05-30T23:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060865382832087391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060865382832087391",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 20150,
+          "like_count": 901,
+          "quote_count": 34,
+          "reply_count": 2,
+          "retweet_count": 289
+        },
+        "reply_settings": "following",
+        "text": "난 자살을 하고싶은게아니라 걍 갑자기 인류전체가 멸망해서 걍 인간이라는 존재가 애초에 없었더라면 좋겠다는 생각을 함 나혼자죽어서뭐가달라지는데"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 132,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 365
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T07:19:05.000Z",
+        "description": "게이",
+        "id": "1708743221545938944",
+        "location": "대한민국 서울",
+        "name": "남사원",
+        "pinned_tweet_id": "1893871307495792731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039325708057718784/HEel4xgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 108,
+          "like_count": 9867,
+          "listed_count": 0,
+          "media_count": 1007,
+          "tweet_count": 17249
+        },
+        "username": "ATMBOY_",
+        "verified": false
+      }
+    ]
+  }
+}

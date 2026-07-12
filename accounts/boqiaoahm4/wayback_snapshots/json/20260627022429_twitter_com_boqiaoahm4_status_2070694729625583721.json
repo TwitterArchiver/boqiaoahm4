@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2070615572455256119",
+    "created_at": "2026-06-27T02:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070694729625583721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1409546044124262405",
+          "start": 0,
+          "username": "fsj9806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070694729625583721",
+    "in_reply_to_user_id": "1409546044124262405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070615572455256119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fsj9806 好高级！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1611,
+        "media_key": "3_2070615569385095168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxN48eXgAAfRrM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2070615572455256119",
+        "created_at": "2026-06-27T02:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070694729625583721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1409546044124262405",
+              "start": 0,
+              "username": "fsj9806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070694729625583721",
+        "in_reply_to_user_id": "1409546044124262405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070615572455256119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fsj9806 好高级！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070615569385095168"
+          ]
+        },
+        "author_id": "1409546044124262405",
+        "conversation_id": "2070615572455256119",
+        "created_at": "2026-06-26T21:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070615572455256119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FW0sax0bD5",
+              "end": 35,
+              "expanded_url": "https://x.com/fsj9806/status/2070615572455256119/photo/1",
+              "media_key": "3_2070615569385095168",
+              "start": 12,
+              "url": "https://t.co/FW0sax0bD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070615572455256119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是看起来很高级的文字 https://t.co/FW0sax0bD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 402,
+          "like_count": 2732,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T16:15:59.000Z",
+        "description": "",
+        "id": "1409546044124262405",
+        "name": "零方",
+        "pinned_tweet_id": "1830440397098926144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063965602163941377/MRjx13Jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 817,
+          "like_count": 3037,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "fsj9806",
+        "verified": false
+      }
+    ]
+  }
+}

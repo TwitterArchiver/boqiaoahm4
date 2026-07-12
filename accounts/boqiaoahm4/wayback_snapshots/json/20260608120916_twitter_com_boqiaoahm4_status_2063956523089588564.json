@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046435103577157632",
+        "3_2046435103593869312",
+        "3_2046435107129729024",
+        "3_2046435107893092352"
+      ],
+      "media_source_tweet_id": [
+        "2046435116369744346",
+        "2046435116369744346",
+        "2046435116369744346",
+        "2046435116369744346"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063956523089588564",
+    "created_at": "2026-06-08T12:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063956523089588564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947704286944858112",
+          "start": 3,
+          "username": "NanaIOO7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kxf7RjzsAL",
+          "end": 127,
+          "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+          "media_key": "3_2046435103577157632",
+          "start": 104,
+          "url": "https://t.co/Kxf7RjzsAL"
+        },
+        {
+          "display_url": "pic.x.com/Kxf7RjzsAL",
+          "end": 127,
+          "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+          "media_key": "3_2046435103593869312",
+          "start": 104,
+          "url": "https://t.co/Kxf7RjzsAL"
+        },
+        {
+          "display_url": "pic.x.com/Kxf7RjzsAL",
+          "end": 127,
+          "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+          "media_key": "3_2046435107129729024",
+          "start": 104,
+          "url": "https://t.co/Kxf7RjzsAL"
+        },
+        {
+          "display_url": "pic.x.com/Kxf7RjzsAL",
+          "end": 127,
+          "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+          "media_key": "3_2046435107893092352",
+          "start": 104,
+          "url": "https://t.co/Kxf7RjzsAL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063956523089588564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046435116369744346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NanaIOO7: 這裡是宮奈 也可以叫我Miyana, 奈奈\n\n座標台灣中部\n\n09 | INTP | 雙向 | 焦慮 | 恐慌 |\n\n歡迎互fo,互轉 地雷女門檻妹一定回追！\n\n過門詳情在第四張 https://t.co/Kxf7RjzsAL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1635,
+        "media_key": "3_2046435103577157632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZl4lybMAAlMBg.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2046435103593869312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZl4l2aMAApkXB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2046435107129729024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZl4zBbIAAEZKF.jpg",
+        "width": 1920
+      },
+      {
+        "height": 928,
+        "media_key": "3_2046435107893092352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZl413bIAA8Pra.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046435103577157632",
+            "3_2046435103593869312",
+            "3_2046435107129729024",
+            "3_2046435107893092352"
+          ],
+          "media_source_tweet_id": [
+            "2046435116369744346",
+            "2046435116369744346",
+            "2046435116369744346",
+            "2046435116369744346"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063956523089588564",
+        "created_at": "2026-06-08T12:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063956523089588564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947704286944858112",
+              "start": 3,
+              "username": "NanaIOO7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kxf7RjzsAL",
+              "end": 127,
+              "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+              "media_key": "3_2046435103577157632",
+              "start": 104,
+              "url": "https://t.co/Kxf7RjzsAL"
+            },
+            {
+              "display_url": "pic.x.com/Kxf7RjzsAL",
+              "end": 127,
+              "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+              "media_key": "3_2046435103593869312",
+              "start": 104,
+              "url": "https://t.co/Kxf7RjzsAL"
+            },
+            {
+              "display_url": "pic.x.com/Kxf7RjzsAL",
+              "end": 127,
+              "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+              "media_key": "3_2046435107129729024",
+              "start": 104,
+              "url": "https://t.co/Kxf7RjzsAL"
+            },
+            {
+              "display_url": "pic.x.com/Kxf7RjzsAL",
+              "end": 127,
+              "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+              "media_key": "3_2046435107893092352",
+              "start": 104,
+              "url": "https://t.co/Kxf7RjzsAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063956523089588564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046435116369744346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NanaIOO7: 這裡是宮奈 也可以叫我Miyana, 奈奈\n\n座標台灣中部\n\n09 | INTP | 雙向 | 焦慮 | 恐慌 |\n\n歡迎互fo,互轉 地雷女門檻妹一定回追！\n\n過門詳情在第四張 https://t.co/Kxf7RjzsAL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046435103577157632",
+            "3_2046435103593869312",
+            "3_2046435107129729024",
+            "3_2046435107893092352"
+          ]
+        },
+        "author_id": "1947704286944858112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046435116369744346",
+        "created_at": "2026-04-21T03:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046435116369744346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kxf7RjzsAL",
+              "end": 113,
+              "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+              "media_key": "3_2046435103577157632",
+              "start": 90,
+              "url": "https://t.co/Kxf7RjzsAL"
+            },
+            {
+              "display_url": "pic.x.com/Kxf7RjzsAL",
+              "end": 113,
+              "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+              "media_key": "3_2046435103593869312",
+              "start": 90,
+              "url": "https://t.co/Kxf7RjzsAL"
+            },
+            {
+              "display_url": "pic.x.com/Kxf7RjzsAL",
+              "end": 113,
+              "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+              "media_key": "3_2046435107129729024",
+              "start": 90,
+              "url": "https://t.co/Kxf7RjzsAL"
+            },
+            {
+              "display_url": "pic.x.com/Kxf7RjzsAL",
+              "end": 113,
+              "expanded_url": "https://x.com/NanaIOO7/status/2046435116369744346/photo/1",
+              "media_key": "3_2046435107893092352",
+              "start": 90,
+              "url": "https://t.co/Kxf7RjzsAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046435116369744346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18702,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "這裡是宮奈 也可以叫我Miyana, 奈奈\n\n座標台灣中部\n\n09 | INTP | 雙向 | 焦慮 | 恐慌 |\n\n歡迎互fo,互轉 地雷女門檻妹一定回追！\n\n過門詳情在第四張 https://t.co/Kxf7RjzsAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 281,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 841
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T17:04:31.000Z",
+        "description": "地雷系｜躁鬱｜od｜自傷",
+        "id": "1947704286944858112",
+        "location": "🚪520解鎖朋友圈 歡迎自由打賞",
+        "name": "ミヤ奈",
+        "pinned_tweet_id": "2046435116369744346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008156536787628032/tGsnoMsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 369,
+          "like_count": 13047,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 345
+        },
+        "username": "NanaIOO7",
+        "verified": false
+      }
+    ]
+  }
+}

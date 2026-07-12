@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068991012152983553"
+      ],
+      "media_source_tweet_id": [
+        "2069014125888630842"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2069056078831350073",
+    "created_at": "2026-06-22T13:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069056078831350073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F7NTTbvrZj",
+          "end": 45,
+          "expanded_url": "https://x.com/anblk984/status/2069014125888630842/photo/1",
+          "media_key": "3_2068991012152983553",
+          "start": 22,
+          "url": "https://t.co/F7NTTbvrZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069056078831350073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069014125888630842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 当代恋爱关系😁 https://t.co/F7NTTbvrZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2068991012152983553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaIXRLawAE_knw.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068991012152983553"
+          ],
+          "media_source_tweet_id": [
+            "2069014125888630842"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2069056078831350073",
+        "created_at": "2026-06-22T13:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069056078831350073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7NTTbvrZj",
+              "end": 45,
+              "expanded_url": "https://x.com/anblk984/status/2069014125888630842/photo/1",
+              "media_key": "3_2068991012152983553",
+              "start": 22,
+              "url": "https://t.co/F7NTTbvrZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069056078831350073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069014125888630842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 当代恋爱关系😁 https://t.co/F7NTTbvrZj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068991012152983553"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2069014125888630842",
+        "created_at": "2026-06-22T11:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069014125888630842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7NTTbvrZj",
+              "end": 31,
+              "expanded_url": "https://x.com/anblk984/status/2069014125888630842/photo/1",
+              "media_key": "3_2068991012152983553",
+              "start": 8,
+              "url": "https://t.co/F7NTTbvrZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069014125888630842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 6490,
+          "like_count": 284,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "当代恋爱关系😁 https://t.co/F7NTTbvrZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 399,
+          "like_count": 2449,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15400,
+          "following_count": 1038,
+          "like_count": 123478,
+          "listed_count": 74,
+          "media_count": 3082,
+          "tweet_count": 29790
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

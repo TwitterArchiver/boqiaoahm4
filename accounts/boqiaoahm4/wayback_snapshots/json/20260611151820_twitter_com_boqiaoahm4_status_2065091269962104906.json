@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065091269962104906",
+    "created_at": "2026-06-11T15:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065091269962104906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2064987598742069696",
+          "start": 10,
+          "url": "https://t.co/OsZlG5oEx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065091269962104906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064987598742069696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对我未来对象就这样 https://t.co/OsZlG5oEx1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26029,
+        "height": 1280,
+        "media_key": "7_2064987374354898944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064987374354898944/pu/img/t-l1M1UAOjz4b8N5.jpg",
+        "public_metrics": {
+          "view_count": 2009
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064987374354898944/pu/vid/avc1/320x568/2xyA3tzlZfpsaZ2o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064987374354898944/pu/vid/avc1/480x852/jtZhaiHFNxpNLIhs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064987374354898944/pu/vid/avc1/720x1280/tCvU4L3QXfN-mSZG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064987374354898944/pu/pl/09H8Y_fOEQQ5SitK.m3u8?v=bb1"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065091269962104906",
+        "created_at": "2026-06-11T15:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065091269962104906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2064987598742069696",
+              "start": 10,
+              "url": "https://t.co/OsZlG5oEx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065091269962104906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064987598742069696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对我未来对象就这样 https://t.co/OsZlG5oEx1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064987374354898944"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2064987598742069696",
+        "created_at": "2026-06-11T08:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064987598742069696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ag4LaNRdy",
+              "end": 30,
+              "expanded_url": "https://x.com/ashasw114514/status/2064987598742069696/video/1",
+              "media_key": "7_2064987374354898944",
+              "start": 7,
+              "url": "https://t.co/8ag4LaNRdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064987598742069696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2966,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想被这样.. https://t.co/8ag4LaNRdy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 346,
+          "like_count": 1358,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1068
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3587,
+          "following_count": 3175,
+          "like_count": 7120,
+          "listed_count": 10,
+          "media_count": 591,
+          "tweet_count": 4902
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

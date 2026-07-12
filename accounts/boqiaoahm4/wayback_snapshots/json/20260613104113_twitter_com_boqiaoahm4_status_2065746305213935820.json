@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065746305213935820",
+    "created_at": "2026-06-13T10:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065746305213935820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tomorinao2022/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/tomorinao2022/status/2065239929442201885",
+          "start": 7,
+          "url": "https://t.co/JXTvZNiq8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065746305213935820",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065239929442201885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蕾塞你自由了 https://t.co/JXTvZNiq8H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2065239887381667840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKk0vEdaIAA1WEk.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065746305213935820",
+        "created_at": "2026-06-13T10:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065746305213935820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomorinao2022/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/tomorinao2022/status/2065239929442201885",
+              "start": 7,
+              "url": "https://t.co/JXTvZNiq8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065746305213935820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065239929442201885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蕾塞你自由了 https://t.co/JXTvZNiq8H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065239887381667840"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2065239929442201885",
+        "created_at": "2026-06-12T01:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065239929442201885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBm9cfjO6x",
+              "end": 39,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2065239929442201885/photo/1",
+              "media_key": "3_2065239887381667840",
+              "start": 16,
+              "url": "https://t.co/tBm9cfjO6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065239929442201885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 256105,
+          "like_count": 2338,
+          "quote_count": 19,
+          "reply_count": 266,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "21年这个脑子缺一块的女的是谁 https://t.co/tBm9cfjO6x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 356,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1166
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！",
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "1894341414131306854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16416,
+          "following_count": 534,
+          "like_count": 10594,
+          "listed_count": 59,
+          "media_count": 2406,
+          "tweet_count": 10161
+        },
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

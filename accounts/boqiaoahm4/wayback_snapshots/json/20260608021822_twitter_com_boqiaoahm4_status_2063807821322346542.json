@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063607102036439040"
+      ],
+      "media_source_tweet_id": [
+        "2063607115852488833"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063807821322346542",
+    "created_at": "2026-06-08T02:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063807821322346542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1990083055231631361",
+          "start": 3,
+          "username": "1willhateu4ever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DOdQAJ1H1s",
+          "end": 55,
+          "expanded_url": "https://x.com/1willhateu4ever/status/2063607115852488833/photo/1",
+          "media_key": "3_2063607102036439040",
+          "start": 32,
+          "url": "https://t.co/DOdQAJ1H1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063807821322346542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063607115852488833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1willhateu4ever: 这里到底发生了什么事 https://t.co/DOdQAJ1H1s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063607102036439040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNnudDa8AAcNhA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063607102036439040"
+          ],
+          "media_source_tweet_id": [
+            "2063607115852488833"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063807821322346542",
+        "created_at": "2026-06-08T02:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063807821322346542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1990083055231631361",
+              "start": 3,
+              "username": "1willhateu4ever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DOdQAJ1H1s",
+              "end": 55,
+              "expanded_url": "https://x.com/1willhateu4ever/status/2063607115852488833/photo/1",
+              "media_key": "3_2063607102036439040",
+              "start": 32,
+              "url": "https://t.co/DOdQAJ1H1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063807821322346542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063607115852488833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1willhateu4ever: 这里到底发生了什么事 https://t.co/DOdQAJ1H1s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063607102036439040"
+          ]
+        },
+        "author_id": "1990083055231631361",
+        "conversation_id": "2063607115852488833",
+        "created_at": "2026-06-07T13:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063607115852488833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DOdQAJ1H1s",
+              "end": 34,
+              "expanded_url": "https://x.com/1willhateu4ever/status/2063607115852488833/photo/1",
+              "media_key": "3_2063607102036439040",
+              "start": 11,
+              "url": "https://t.co/DOdQAJ1H1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063607115852488833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5097,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里到底发生了什么事 https://t.co/DOdQAJ1H1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 261,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 804
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "location": "多米力高威威维利星",
+        "name": "^ ^",
+        "pinned_tweet_id": "2062942397936570706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059004134586748928/iVOHh1md_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 37,
+          "like_count": 5785,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 3644
+        },
+        "username": "1willhateu4ever",
+        "verified": false
+      }
+    ]
+  }
+}

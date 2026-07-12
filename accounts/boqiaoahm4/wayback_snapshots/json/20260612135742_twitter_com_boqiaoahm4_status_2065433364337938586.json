@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2065430246376009863",
+    "created_at": "2026-06-12T13:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065433364337938586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063285995487834112",
+          "start": 0,
+          "username": "HarukoKazama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065433364337938586",
+    "in_reply_to_user_id": "2063285995487834112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065430246376009863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarukoKazama 萌🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065430217611497472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnh1v0XUAAA7GA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2065430246376009863",
+        "created_at": "2026-06-12T13:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065433364337938586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063285995487834112",
+              "start": 0,
+              "username": "HarukoKazama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065433364337938586",
+        "in_reply_to_user_id": "2063285995487834112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065430246376009863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarukoKazama 萌🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065430217611497472"
+          ]
+        },
+        "author_id": "2063285995487834112",
+        "conversation_id": "2065430246376009863",
+        "created_at": "2026-06-12T13:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065430246376009863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/So3BurT0bc",
+              "end": 23,
+              "expanded_url": "https://x.com/HarukoKazama/status/2065430246376009863/photo/1",
+              "media_key": "3_2065430217611497472",
+              "start": 0,
+              "url": "https://t.co/So3BurT0bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065430246376009863",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/So3BurT0bc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸请关注小号@okokok333444\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "okokok333444"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 77,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 54,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 351,
+          "like_count": 1452,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1089
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T15:46:06.000Z",
+        "description": "叫我鹤露吧\n发自己想发的 专注自己的唐逼生活\n这是我第三个号了再炸我就永远不玩推特了",
+        "id": "2063285995487834112",
+        "name": "鹤露HLu",
+        "pinned_tweet_id": "2063643842222391364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063628234990784512/nICaAXTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 42
+        },
+        "username": "HarukoKazama",
+        "verified": false
+      }
+    ]
+  }
+}

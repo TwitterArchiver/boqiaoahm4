@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063310146198000037",
+    "created_at": "2026-06-06T17:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063313414676500568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1283722369123487744",
+          "start": 0,
+          "username": "xiaoyimiao1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063313414676500568",
+    "in_reply_to_user_id": "1283722369123487744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063313298939064351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyimiao1314 怎么做才能被马斯克推流呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063310146198000037",
+        "created_at": "2026-06-06T17:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063313414676500568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1283722369123487744",
+              "start": 0,
+              "username": "xiaoyimiao1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063313414676500568",
+        "in_reply_to_user_id": "1283722369123487744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063313298939064351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyimiao1314 怎么做才能被马斯克推流呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283722369123487744",
+        "conversation_id": "2063310146198000037",
+        "created_at": "2026-06-06T17:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063313298939064351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063313298939064351",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063310146198000037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 怎么做才能被马斯克推流呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 215,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 721
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T11:17:24.000Z",
+        "description": "infp，想聊天的话可以DM（可互关。聊天请文明，色情禁止🚫，我是来看黄的，不是来当黄的）小号@HolyMiao7950",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "HolyMiao7950"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/xiaoyimiao1…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/xiaoyimiao1314/",
+                "start": 0,
+                "url": "https://t.co/udNatdLt1c"
+              }
+            ]
+          }
+        },
+        "id": "1283722369123487744",
+        "location": "山东省济南市",
+        "name": "錦依の柴郡（Cheshire）",
+        "pinned_tweet_id": "1704573364533346368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055340399171117056/p808wD-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 135,
+          "like_count": 2330,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/udNatdLt1c",
+        "username": "xiaoyimiao1314",
+        "verified": false
+      }
+    ]
+  }
+}

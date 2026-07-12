@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071611049523179779",
+    "created_at": "2026-06-29T15:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071611049523179779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kwjdxw/status/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/kwjdxw/status/2071331506719457771",
+          "start": 20,
+          "url": "https://t.co/YDS1a0csAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071611049523179779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071331506719457771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我每次看到这个表情都给我肚子要笑炸 https://t.co/YDS1a0csAm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "16_2071331381347565570",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HL7Y6r1XQAICe9z.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HL7Y6r1XQAICe9z.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071611049523179779",
+        "created_at": "2026-06-29T15:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071611049523179779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kwjdxw/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/kwjdxw/status/2071331506719457771",
+              "start": 20,
+              "url": "https://t.co/YDS1a0csAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071611049523179779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071331506719457771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我每次看到这个表情都给我肚子要笑炸 https://t.co/YDS1a0csAm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071331381347565570"
+          ]
+        },
+        "author_id": "1068330504913674241",
+        "conversation_id": "2071331506719457771",
+        "created_at": "2026-06-28T20:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071331506719457771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7l1s5Oz9L5",
+              "end": 89,
+              "expanded_url": "https://x.com/kwjdxw/status/2071331506719457771/photo/1",
+              "media_key": "16_2071331381347565570",
+              "start": 66,
+              "url": "https://t.co/7l1s5Oz9L5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071331506719457771",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 680,
+          "impression_count": 182839,
+          "like_count": 16428,
+          "quote_count": 281,
+          "reply_count": 60,
+          "retweet_count": 4482
+        },
+        "reply_settings": "everyone",
+        "text": "me sinto assim mandando mensagem pra quem não da a mínima pra mim https://t.co/7l1s5Oz9L5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 416,
+          "like_count": 2899,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-30T02:26:55.000Z",
+        "description": "@youonlyneedm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "youonlyneedm"
+              }
+            ]
+          }
+        },
+        "id": "1068330504913674241",
+        "name": "‏ؘ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068192695441313792/Ti2Cy4eu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 467,
+          "like_count": 42007,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 14178
+        },
+        "url": "",
+        "username": "kwjdxw",
+        "verified": false
+      }
+    ]
+  }
+}

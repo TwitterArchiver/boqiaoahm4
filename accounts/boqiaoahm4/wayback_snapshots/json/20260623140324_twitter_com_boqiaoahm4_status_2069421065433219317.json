@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2069421065433219317",
+    "created_at": "2026-06-23T14:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069421065433219317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026652417392332800",
+          "start": 3,
+          "username": "kyanuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069421065433219317",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4666
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069170003736146283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyanuro: si tuviera 7 vidas usaría 6 para suicidarme en público y traumatizar a la gente"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2069421065433219317",
+        "created_at": "2026-06-23T14:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069421065433219317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026652417392332800",
+              "start": 3,
+              "username": "kyanuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069421065433219317",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4666
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069170003736146283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyanuro: si tuviera 7 vidas usaría 6 para suicidarme en público y traumatizar a la gente"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026652417392332800",
+        "conversation_id": "2069170003736146283",
+        "created_at": "2026-06-22T21:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069170003736146283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069170003736146283",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 397,
+          "impression_count": 156075,
+          "like_count": 18229,
+          "quote_count": 117,
+          "reply_count": 30,
+          "retweet_count": 4666
+        },
+        "reply_settings": "everyone",
+        "text": "si tuviera 7 vidas usaría 6 para suicidarme en público y traumatizar a la gente"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 396,
+          "like_count": 2533,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T13:36:17.000Z",
+        "description": "dni OBESOS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/7R8XZ",
+                "end": 23,
+                "expanded_url": "https://boxd.it/7R8XZ",
+                "start": 0,
+                "url": "https://t.co/UfQap4Goiu"
+              }
+            ]
+          }
+        },
+        "id": "2026652417392332800",
+        "location": "´ཀ`   she   ||   murdertwt",
+        "name": "eri DEIDAD",
+        "pinned_tweet_id": "2066209572369453282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027127385338880001/IvMUTuhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 109,
+          "like_count": 4433,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/UfQap4Goiu",
+        "username": "kyanuro",
+        "verified": false
+      }
+    ]
+  }
+}

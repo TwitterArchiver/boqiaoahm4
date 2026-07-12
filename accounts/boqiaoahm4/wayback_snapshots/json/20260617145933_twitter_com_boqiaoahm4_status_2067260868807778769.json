@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067133654518902784"
+      ],
+      "media_source_tweet_id": [
+        "2067133660437037446"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2067260868807778769",
+    "created_at": "2026-06-17T14:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067260868807778769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678421943387664384",
+          "start": 3,
+          "username": "imnotseafish"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0OmLVzfhm0",
+          "end": 44,
+          "expanded_url": "https://x.com/imnotseafish/status/2067133660437037446/photo/1",
+          "media_key": "3_2067133654518902784",
+          "start": 21,
+          "url": "https://t.co/0OmLVzfhm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067260868807778769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067133660437037446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imnotseafish: 呜呜 https://t.co/0OmLVzfhm0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1073,
+        "media_key": "3_2067133654518902784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_vG0zasAAqv4s.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067133654518902784"
+          ],
+          "media_source_tweet_id": [
+            "2067133660437037446"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2067260868807778769",
+        "created_at": "2026-06-17T14:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067260868807778769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678421943387664384",
+              "start": 3,
+              "username": "imnotseafish"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OmLVzfhm0",
+              "end": 44,
+              "expanded_url": "https://x.com/imnotseafish/status/2067133660437037446/photo/1",
+              "media_key": "3_2067133654518902784",
+              "start": 21,
+              "url": "https://t.co/0OmLVzfhm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067260868807778769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067133660437037446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imnotseafish: 呜呜 https://t.co/0OmLVzfhm0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067133654518902784"
+          ]
+        },
+        "author_id": "1678421943387664384",
+        "conversation_id": "2067133660437037446",
+        "created_at": "2026-06-17T06:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067133660437037446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OmLVzfhm0",
+              "end": 26,
+              "expanded_url": "https://x.com/imnotseafish/status/2067133660437037446/photo/1",
+              "media_key": "3_2067133654518902784",
+              "start": 3,
+              "url": "https://t.co/0OmLVzfhm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067133660437037446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 562,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜 https://t.co/0OmLVzfhm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 383,
+          "like_count": 2090,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T15:12:40.000Z",
+        "description": "useless",
+        "id": "1678421943387664384",
+        "location": "海洋馆？",
+        "name": "🐟",
+        "pinned_tweet_id": "1692413384959111319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858100921135415296/crGTHjdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 543,
+          "like_count": 27172,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 1421
+        },
+        "username": "imnotseafish",
+        "verified": false
+      }
+    ]
+  }
+}

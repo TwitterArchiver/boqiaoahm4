@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2071901946165047349",
+    "created_at": "2026-06-30T10:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071903121731895356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1954426904712536064",
+          "start": 0,
+          "username": "_14_ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071903121731895356",
+    "in_reply_to_user_id": "1954426904712536064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071901946165047349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_14_ii 超萌…."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15046,
+        "height": 1920,
+        "media_key": "13_2071901880163110913",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071901880163110913/img/glih32hTxF5oVs0D.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071901880163110913/vid/avc1/720x1280/WW0OBIQAdV2rpww0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071901880163110913/vid/avc1/480x852/6RAAUE-_Q93yl1Il.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071901880163110913/pl/SDE1GJ-pJPBDnUWV.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071901880163110913/vid/avc1/1080x1920/abXYbmdkio_fpXpL.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071901880163110913/vid/avc1/320x568/1kv7ER60SkqVNEgE.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2071901946165047349",
+        "created_at": "2026-06-30T10:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071903121731895356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1954426904712536064",
+              "start": 0,
+              "username": "_14_ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071903121731895356",
+        "in_reply_to_user_id": "1954426904712536064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071901946165047349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_14_ii 超萌…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071901880163110913"
+          ]
+        },
+        "author_id": "1954426904712536064",
+        "conversation_id": "2071901946165047349",
+        "created_at": "2026-06-30T10:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071901946165047349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "地雷系"
+            },
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "Jiraikei"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "病みかわ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oY6sJNtTDb",
+              "end": 51,
+              "expanded_url": "https://x.com/_14_ii/status/2071901946165047349/video/1",
+              "media_key": "13_2071901880163110913",
+              "start": 28,
+              "url": "https://t.co/oY6sJNtTDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071901946165047349",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系\n#地雷系女子\n#Jiraikei\n#病みかわ https://t.co/oY6sJNtTDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 414,
+          "like_count": 2965,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T06:17:59.000Z",
+        "description": "丘比特的力氣太小 箭只穿透了我一個人的心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_14_ii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_14_ii",
+                "start": 0,
+                "url": "https://t.co/JTbL0TBwP6"
+              }
+            ]
+          }
+        },
+        "id": "1954426904712536064",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為可能是青少年",
+        "pinned_tweet_id": "2071589556420595998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063762948808720384/Qur0YtjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 138,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/JTbL0TBwP6",
+        "username": "_14_ii",
+        "verified": true
+      }
+    ]
+  }
+}

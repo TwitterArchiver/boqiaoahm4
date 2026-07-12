@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2057430595643560334",
+    "created_at": "2026-05-21T11:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057430595643560334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057430595643560334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057250330468102209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Miiharukawa: 拥抱就是很爽啊\n被抱住的瞬间就是很爽啊\n被圈在怀里听心跳好爽\n难过时被用力抱紧好爽\n撒娇时埋进怀里蹭蹭好爽\n安静地被抱着发呆好爽\n走累了靠进对方怀里好爽\n委屈巴巴缩进怀里好爽\n下巴轻轻抵着对方的肩膀，连呼吸都被对方的气息包裹\n\n这个世上就没有比…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2057430595643560334",
+        "created_at": "2026-05-21T11:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057430595643560334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057430595643560334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057250330468102209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Miiharukawa: 拥抱就是很爽啊\n被抱住的瞬间就是很爽啊\n被圈在怀里听心跳好爽\n难过时被用力抱紧好爽\n撒娇时埋进怀里蹭蹭好爽\n安静地被抱着发呆好爽\n走累了靠进对方怀里好爽\n委屈巴巴缩进怀里好爽\n下巴轻轻抵着对方的肩膀，连呼吸都被对方的气息包裹\n\n这个世上就没有比…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2057250330468102209",
+        "created_at": "2026-05-21T00:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057250330468102209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057250330468102209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 11933,
+          "like_count": 542,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 99
+        },
+        "reply_settings": "following",
+        "text": "拥抱就是很爽啊\n被抱住的瞬间就是很爽啊\n被圈在怀里听心跳好爽\n难过时被用力抱紧好爽\n撒娇时埋进怀里蹭蹭好爽\n安静地被抱着发呆好爽\n走累了靠进对方怀里好爽\n委屈巴巴缩进怀里好爽\n下巴轻轻抵着对方的肩膀，连呼吸都被对方的气息包裹\n\n这个世上就没有比拥抱更柏拉图的动作了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "别对我发脾气 我 很脆弱",
+        "id": "2057425772198215680",
+        "name": "熵增",
+        "pinned_tweet_id": "2057427103348621718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 221,
+          "like_count": 7900,
+          "listed_count": 6,
+          "media_count": 323,
+          "tweet_count": 3059
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

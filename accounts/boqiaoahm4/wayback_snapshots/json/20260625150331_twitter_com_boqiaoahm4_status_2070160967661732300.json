@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2070146192777064592",
+    "created_at": "2026-06-25T15:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070160967661732300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045929868031086592",
+          "start": 0,
+          "username": "IcyRoll777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070160967661732300",
+    "in_reply_to_user_id": "2045929868031086592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070146192777064592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IcyRoll777 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2070146192777064592",
+        "created_at": "2026-06-25T15:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070160967661732300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045929868031086592",
+              "start": 0,
+              "username": "IcyRoll777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070160967661732300",
+        "in_reply_to_user_id": "2045929868031086592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070146192777064592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IcyRoll777 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045929868031086592",
+        "conversation_id": "2070146192777064592",
+        "created_at": "2026-06-25T14:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070146192777064592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070146192777064592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想要爬起来抽他个一盆子血有人支持我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 401,
+          "like_count": 2630,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1594
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T18:23:44.000Z",
+        "description": "冰儿二号机，\n本体传送门@MosaicIceRoll，\n\n被贱人陷害的时候会来这里( ･᷄ὢ･᷅ )",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "MosaicIceRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ice.mocaic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ice.mocaic",
+                "start": 0,
+                "url": "https://t.co/FTD3LM1Y2T"
+              }
+            ]
+          }
+        },
+        "id": "2045929868031086592",
+        "location": "核子熔炉",
+        "name": "∠( :3 」∠)＿Paradise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060287222331707393/lqaU7YsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 114,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/FTD3LM1Y2T",
+        "username": "IcyRoll777",
+        "verified": false
+      }
+    ]
+  }
+}

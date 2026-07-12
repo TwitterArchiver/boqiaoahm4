@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2075263540789932058",
+    "created_at": "2026-07-10T00:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T01:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075372541364085110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873501865113178112",
+          "start": 0,
+          "username": "liu68435"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075372541364085110",
+    "in_reply_to_user_id": "1873501865113178112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075356042507202956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu68435 宝宝…谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2075263540789932058",
+        "created_at": "2026-07-10T00:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T01:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075372541364085110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873501865113178112",
+              "start": 0,
+              "username": "liu68435"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075372541364085110",
+        "in_reply_to_user_id": "1873501865113178112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075356042507202956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu68435 宝宝…谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873501865113178112",
+        "conversation_id": "2075263540789932058",
+        "created_at": "2026-07-09T23:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075356042507202956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075356042507202956",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075263540789932058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 我会一直一直陪着炸玉酱直到结局的(*^▽^*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 433,
+          "like_count": 3629,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2221
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T22:50:45.000Z",
+        "description": "希望认识各种各样的人，全群体欢迎(=・ω・=)，都会回fo的，没有的话可以私信我，欢迎聊天，|ω・）\\\\日本語勉強中、DM○，フォロバ100%",
+        "id": "1873501865113178112",
+        "name": "真白熙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003963434812190720/Z2iu7Ir8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 683,
+          "like_count": 10018,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "liu68435",
+        "verified": false
+      }
+    ]
+  }
+}

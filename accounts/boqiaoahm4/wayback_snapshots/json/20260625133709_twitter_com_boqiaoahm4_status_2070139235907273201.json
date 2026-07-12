@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2070137449993666950",
+    "created_at": "2026-06-25T13:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070139235907273201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1848095615399682048",
+          "start": 0,
+          "username": "xuwniv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070139235907273201",
+    "in_reply_to_user_id": "1848095615399682048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070137449993666950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuwniv 我靠笑死我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070137441064030210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqbCNrbkAI9U73.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2070137441026203648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqbCNiaYAAbRC9.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2070137449993666950",
+        "created_at": "2026-06-25T13:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070139235907273201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1848095615399682048",
+              "start": 0,
+              "username": "xuwniv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070139235907273201",
+        "in_reply_to_user_id": "1848095615399682048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070137449993666950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuwniv 我靠笑死我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070137441064030210",
+            "3_2070137441026203648"
+          ]
+        },
+        "author_id": "1848095615399682048",
+        "conversation_id": "2070137449993666950",
+        "created_at": "2026-06-25T13:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070137449993666950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgrYTVF5Or",
+              "end": 39,
+              "expanded_url": "https://x.com/xuwniv/status/2070137449993666950/photo/1",
+              "media_key": "3_2070137441064030210",
+              "start": 16,
+              "url": "https://t.co/tgrYTVF5Or"
+            },
+            {
+              "display_url": "pic.x.com/tgrYTVF5Or",
+              "end": 39,
+              "expanded_url": "https://x.com/xuwniv/status/2070137449993666950/photo/1",
+              "media_key": "3_2070137441026203648",
+              "start": 16,
+              "url": "https://t.co/tgrYTVF5Or"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070137449993666950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崩老头把号崩掉了 哎呀无语死了 https://t.co/tgrYTVF5Or"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 401,
+          "like_count": 2617,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1587
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T20:15:52.000Z",
+        "description": "重抑重焦丨08丨INFP丨OD丨自残\n互fo看到就回没回私信我呀 我很好相处´ₒ⦁⩊⦁ₒ`",
+        "id": "1848095615399682048",
+        "location": "老公大逼里",
+        "name": "reincarnation",
+        "pinned_tweet_id": "2063351872191406400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067522412527472640/RWclJJ-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 437,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 838
+        },
+        "url": "",
+        "username": "xuwniv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063299133558120448"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2063299220585459965",
+    "created_at": "2026-06-06T16:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063299220585459965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EALgPVOhFT",
+          "end": 46,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2063299220585459965/video/1",
+          "media_key": "13_2063299133558120448",
+          "start": 23,
+          "url": "https://t.co/EALgPVOhFT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063299220585459965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚发的视频太几把丑了然后 我重新p了一个 https://t.co/EALgPVOhFT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14833,
+        "height": 1280,
+        "media_key": "13_2063299133558120448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063299133558120448/img/rfyGHHBe66YGTXRe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063299133558120448/vid/avc1/320x628/Ka3oMhEsLYJe-aqQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063299133558120448/vid/avc1/480x942/TsjqfCvDwYUR3eCN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063299133558120448/vid/avc1/652x1280/KBAFhEhfJ_OOXCF_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063299133558120448/pl/CsffWSg3Gh6t4gGV.m3u8"
+          }
+        ],
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063299133558120448"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2063299220585459965",
+        "created_at": "2026-06-06T16:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063299220585459965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EALgPVOhFT",
+              "end": 46,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2063299220585459965/video/1",
+              "media_key": "13_2063299133558120448",
+              "start": 23,
+              "url": "https://t.co/EALgPVOhFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063299220585459965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发的视频太几把丑了然后 我重新p了一个 https://t.co/EALgPVOhFT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 215,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 691
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

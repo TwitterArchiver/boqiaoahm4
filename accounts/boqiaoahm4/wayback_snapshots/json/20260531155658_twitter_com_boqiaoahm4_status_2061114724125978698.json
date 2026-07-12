@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2061114724125978698",
+    "created_at": "2026-05-31T15:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061114724125978698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051451517224329216",
+          "start": 3,
+          "username": "citousuario"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061114724125978698",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060467717862543825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @citousuario: VOCÊS JÁ FICARAM tão chateados ao ponto de terem até preguiça de falar\nsobre, por que sabem que não vai mudar nada e só vã…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2061114724125978698",
+        "created_at": "2026-05-31T15:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061114724125978698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051451517224329216",
+              "start": 3,
+              "username": "citousuario"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061114724125978698",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060467717862543825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @citousuario: VOCÊS JÁ FICARAM tão chateados ao ponto de terem até preguiça de falar\nsobre, por que sabem que não vai mudar nada e só vã…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051451517224329216",
+        "conversation_id": "2060467717862543825",
+        "created_at": "2026-05-29T21:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060467717862543825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060467717862543825",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 606,
+          "impression_count": 218629,
+          "like_count": 15935,
+          "quote_count": 412,
+          "reply_count": 202,
+          "retweet_count": 5476
+        },
+        "reply_settings": "everyone",
+        "text": "VOCÊS JÁ FICARAM tão chateados ao ponto de terem até preguiça de falar\nsobre, por que sabem que não vai mudar nada e só vão ficar mais cansados???????????????"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 134,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 405
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T23:59:13.000Z",
+        "description": "Saber que os temporais são temporários é o que me faz desistir de desistir 🫀",
+        "id": "2051451517224329216",
+        "name": "usuário",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "citousuario",
+        "verified": false
+      }
+    ]
+  }
+}

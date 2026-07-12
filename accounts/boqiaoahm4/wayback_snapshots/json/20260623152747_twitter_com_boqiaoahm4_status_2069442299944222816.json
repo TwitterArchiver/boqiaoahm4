@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069439551928782848"
+      ],
+      "media_source_tweet_id": [
+        "2069440039982075943"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2069442299944222816",
+    "created_at": "2026-06-23T15:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069442299944222816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2060205001385943043",
+          "start": 3,
+          "username": "fDebbiePortfu76"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wgIm9aOntL",
+          "end": 136,
+          "expanded_url": "https://x.com/fDebbiePortfu76/status/2069440039982075943/photo/1",
+          "media_key": "3_2069439551928782848",
+          "start": 113,
+          "url": "https://t.co/wgIm9aOntL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069442299944222816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069440039982075943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fDebbiePortfu76: 这里是鳞溯7.0\n我有重度抑郁 /焦虑/精分等多种疾病 暂时放弃治疗\n前世被奸人所害，励志找回所有互fo 互转互fo请私信\n我接定制 私信问价\n🚪52，不开放朋友圈但是消息看到就会回 https://t.co/wgIm9aOntL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069439551928782848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLggTuDb0AAlkNI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069439551928782848"
+          ],
+          "media_source_tweet_id": [
+            "2069440039982075943"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2069442299944222816",
+        "created_at": "2026-06-23T15:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069442299944222816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2060205001385943043",
+              "start": 3,
+              "username": "fDebbiePortfu76"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgIm9aOntL",
+              "end": 136,
+              "expanded_url": "https://x.com/fDebbiePortfu76/status/2069440039982075943/photo/1",
+              "media_key": "3_2069439551928782848",
+              "start": 113,
+              "url": "https://t.co/wgIm9aOntL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069442299944222816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069440039982075943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fDebbiePortfu76: 这里是鳞溯7.0\n我有重度抑郁 /焦虑/精分等多种疾病 暂时放弃治疗\n前世被奸人所害，励志找回所有互fo 互转互fo请私信\n我接定制 私信问价\n🚪52，不开放朋友圈但是消息看到就会回 https://t.co/wgIm9aOntL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069439551928782848"
+          ]
+        },
+        "author_id": "2060205001385943043",
+        "conversation_id": "2069440039982075943",
+        "created_at": "2026-06-23T15:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069440039982075943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgIm9aOntL",
+              "end": 115,
+              "expanded_url": "https://x.com/fDebbiePortfu76/status/2069440039982075943/photo/1",
+              "media_key": "3_2069439551928782848",
+              "start": 92,
+              "url": "https://t.co/wgIm9aOntL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069440039982075943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里是鳞溯7.0\n我有重度抑郁 /焦虑/精分等多种疾病 暂时放弃治疗\n前世被奸人所害，励志找回所有互fo 互转互fo请私信\n我接定制 私信问价\n🚪52，不开放朋友圈但是消息看到就会回 https://t.co/wgIm9aOntL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 398,
+          "like_count": 2542,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1520
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T03:43:35.000Z",
+        "description": "我是鳞溯，这里是重生7.0，前世又被奸人所害所以转生！我o 割，有精神疾病，接sk定制，🚪52不开放朋友圈但是消息都会回",
+        "id": "2060205001385943043",
+        "location": "Kyoto ",
+        "name": "三朔7.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069438344342446080/aHpBVXCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "fDebbiePortfu76",
+        "verified": false
+      }
+    ]
+  }
+}

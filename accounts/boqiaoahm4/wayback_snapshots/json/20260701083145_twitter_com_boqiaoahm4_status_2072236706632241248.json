@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2072236706632241248",
+    "created_at": "2026-07-01T08:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072236706632241248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938169060803465216",
+          "start": 3,
+          "username": "rhettasi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072236706632241248",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2382
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072023432686923935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rhettasi: cómo se siente que nadie te elija ni amistosamente ni amorosamente ni físicamente ni académicamente ni afectivamente ni senti…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2072023426349322240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFOVAXW0AAZTW9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2072236706632241248",
+        "created_at": "2026-07-01T08:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072236706632241248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938169060803465216",
+              "start": 3,
+              "username": "rhettasi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072236706632241248",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2382
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072023432686923935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rhettasi: cómo se siente que nadie te elija ni amistosamente ni amorosamente ni físicamente ni académicamente ni afectivamente ni senti…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072023426349322240"
+          ]
+        },
+        "author_id": "1938169060803465216",
+        "conversation_id": "2072023432686923935",
+        "created_at": "2026-06-30T18:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072023432686923935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wU71nGccZx",
+              "end": 213,
+              "expanded_url": "https://x.com/rhettasi/status/2072023432686923935/photo/1",
+              "media_key": "3_2072023426349322240",
+              "start": 190,
+              "url": "https://t.co/wU71nGccZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072023432686923935",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 448,
+          "impression_count": 56852,
+          "like_count": 6938,
+          "quote_count": 76,
+          "reply_count": 16,
+          "retweet_count": 2382
+        },
+        "reply_settings": "everyone",
+        "text": "cómo se siente que nadie te elija ni amistosamente ni amorosamente ni físicamente ni académicamente ni afectivamente ni sentimentalmente ni personalmente ni reciprocamente ni intimamente ni https://t.co/wU71nGccZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 423,
+          "like_count": 3045,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T09:35:03.000Z",
+        "description": "to the summer and back\n˚₊‧꒰ა 𓂋 ໒꒱ ‧₊°",
+        "id": "1938169060803465216",
+        "location": "she/her",
+        "name": "rhettasi",
+        "pinned_tweet_id": "2068803401945657608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051432193889574912/ODaL_USX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 60,
+          "like_count": 12937,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 3622
+        },
+        "url": "",
+        "username": "rhettasi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058438950147256320",
+        "3_2058438950138904576"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2058438959961907591",
+    "created_at": "2026-05-24T06:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058438959961907591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024482757133684737",
+          "start": 3,
+          "username": "GuQing0121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAZ2kzkIVr",
+          "end": 47,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2058438959961907591/photo/1",
+          "media_key": "3_2058438950147256320",
+          "start": 24,
+          "url": "https://t.co/wAZ2kzkIVr"
+        },
+        {
+          "display_url": "pic.x.com/wAZ2kzkIVr",
+          "end": 47,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2058438959961907591/photo/1",
+          "media_key": "3_2058438950138904576",
+          "start": 24,
+          "url": "https://t.co/wAZ2kzkIVr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058438959961907591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱来自@GuQing0121 🥹非常感动的…. https://t.co/wAZ2kzkIVr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2058438950147256320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJELUa9a8AAyWXo.jpg",
+        "width": 828
+      },
+      {
+        "height": 717,
+        "media_key": "3_2058438950138904576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJELUa7bgAAMxLh.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058438950147256320",
+            "3_2058438950138904576"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2058438959961907591",
+        "created_at": "2026-05-24T06:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058438959961907591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024482757133684737",
+              "start": 3,
+              "username": "GuQing0121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAZ2kzkIVr",
+              "end": 47,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2058438959961907591/photo/1",
+              "media_key": "3_2058438950147256320",
+              "start": 24,
+              "url": "https://t.co/wAZ2kzkIVr"
+            },
+            {
+              "display_url": "pic.x.com/wAZ2kzkIVr",
+              "end": 47,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2058438959961907591/photo/1",
+              "media_key": "3_2058438950138904576",
+              "start": 24,
+              "url": "https://t.co/wAZ2kzkIVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058438959961907591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱来自@GuQing0121 🥹非常感动的…. https://t.co/wAZ2kzkIVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "别对我发脾气 我 很脆弱",
+        "id": "2057425772198215680",
+        "name": "熵增",
+        "pinned_tweet_id": "2057427103348621718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 7,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T13:54:55.000Z",
+        "description": "=故青🪴/♒/️🇨🇳\nENFP/重焦治療中….\n七海建人全肯定/\n日常廢話負能黑泥吐露中….\n會單fo感興趣的人/你態度=我態度\n交友歡迎、小窗開放、歡迎聊天💬",
+        "id": "2024482757133684737",
+        "location": "🚪20",
+        "name": "*青藤誓^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024560211097505793/sZlFv9BD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 42,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 418
+        },
+        "username": "GuQing0121",
+        "verified": false
+      }
+    ]
+  }
+}
