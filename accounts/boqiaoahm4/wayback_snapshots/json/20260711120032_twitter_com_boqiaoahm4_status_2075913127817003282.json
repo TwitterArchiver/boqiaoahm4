@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075308351521792000"
+      ],
+      "media_source_tweet_id": [
+        "2075308360975736846"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2075913127817003282",
+    "created_at": "2026-07-11T12:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075913127817003282"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 50,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 70,
+          "start": 63,
+          "tag": "承認欲求の塊"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "病み垢"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906989460405035008",
+          "start": 3,
+          "username": "eulerfurai04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OEWWStUgGp",
+          "end": 100,
+          "expanded_url": "https://x.com/eulerfurai04/status/2075308360975736846/photo/1",
+          "media_key": "3_2075308351521792000",
+          "start": 77,
+          "url": "https://t.co/OEWWStUgGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075913127817003282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075308360975736846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eulerfurai04: 你的幸福就是我的幸福。\n正经受冰川时代的死目莉互关寻回中……\n⁠#病み垢さんと繋がりたい\n#承認欲求の塊\n #病み垢 https://t.co/OEWWStUgGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075308351521792000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMz580PboAAJJDm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075308351521792000"
+          ],
+          "media_source_tweet_id": [
+            "2075308360975736846"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2075913127817003282",
+        "created_at": "2026-07-11T12:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075913127817003282"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 70,
+              "start": 63,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "病み垢"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906989460405035008",
+              "start": 3,
+              "username": "eulerfurai04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEWWStUgGp",
+              "end": 100,
+              "expanded_url": "https://x.com/eulerfurai04/status/2075308360975736846/photo/1",
+              "media_key": "3_2075308351521792000",
+              "start": 77,
+              "url": "https://t.co/OEWWStUgGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075913127817003282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075308360975736846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eulerfurai04: 你的幸福就是我的幸福。\n正经受冰川时代的死目莉互关寻回中……\n⁠#病み垢さんと繋がりたい\n#承認欲求の塊\n #病み垢 https://t.co/OEWWStUgGp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075308351521792000"
+          ]
+        },
+        "author_id": "1906989460405035008",
+        "conversation_id": "2075308360975736846",
+        "created_at": "2026-07-09T19:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075308360975736846"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "病み垢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OEWWStUgGp",
+              "end": 82,
+              "expanded_url": "https://x.com/eulerfurai04/status/2075308360975736846/photo/1",
+              "media_key": "3_2075308351521792000",
+              "start": 59,
+              "url": "https://t.co/OEWWStUgGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075308360975736846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1553,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你的幸福就是我的幸福。\n正经受冰川时代的死目莉互关寻回中……\n⁠#病み垢さんと繋がりたい\n#承認欲求の塊\n #病み垢 https://t.co/OEWWStUgGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 436,
+          "like_count": 3711,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2246
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T08:38:29.000Z",
+        "description": "为什么就3.0了呢我也不知道。\n＝死目莉@DrankGhostU 是我\n双相情感障碍/重焦/adhd/💊🔪🩸/病み垢\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸😺😈❤️‍🩹⁉️…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "DrankGhostU"
+              }
+            ]
+          }
+        },
+        "id": "1906989460405035008",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075282840787533825/3PiGZLdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 30,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "eulerfurai04",
+        "verified": false
+      }
+    ]
+  }
+}

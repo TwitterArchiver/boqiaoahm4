@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075615721325797376"
+      ],
+      "media_source_tweet_id": [
+        "2075615776120119516"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2076290258141143102",
+    "created_at": "2026-07-12T12:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076290258141143102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1900658427497447424",
+          "start": 3,
+          "username": "cosasdech1cass"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5CWoCpXsrg",
+          "end": 90,
+          "expanded_url": "https://x.com/cosasdech1cass/status/2075615776120119516/video/1",
+          "media_key": "13_2075615721325797376",
+          "start": 67,
+          "url": "https://t.co/5CWoCpXsrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076290258141143102",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5429
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075615776120119516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cosasdech1cass: puedo ir a tu casa y quedarme así todo el día? https://t.co/5CWoCpXsrg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11795,
+        "height": 712,
+        "media_key": "13_2075615721325797376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075615721325797376/img/Sit2vTv5qbKBVBMs.jpg",
+        "public_metrics": {
+          "view_count": 333923
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075615721325797376/vid/avc1/272x270/0IHf1JKNUMaKX4IX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075615721325797376/vid/avc1/364x360/uy_f9GjhEU6yjiVc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075615721325797376/vid/avc1/720x712/qD6AkKCUoSKvsQ90.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075615721325797376/pl/-DAhDs_Bn6J6yoDk.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075615721325797376"
+          ],
+          "media_source_tweet_id": [
+            "2075615776120119516"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2076290258141143102",
+        "created_at": "2026-07-12T12:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076290258141143102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1900658427497447424",
+              "start": 3,
+              "username": "cosasdech1cass"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CWoCpXsrg",
+              "end": 90,
+              "expanded_url": "https://x.com/cosasdech1cass/status/2075615776120119516/video/1",
+              "media_key": "13_2075615721325797376",
+              "start": 67,
+              "url": "https://t.co/5CWoCpXsrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076290258141143102",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5429
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075615776120119516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cosasdech1cass: puedo ir a tu casa y quedarme así todo el día? https://t.co/5CWoCpXsrg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075615721325797376"
+          ]
+        },
+        "author_id": "1900658427497447424",
+        "conversation_id": "2075615776120119516",
+        "created_at": "2026-07-10T16:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075615776120119516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CWoCpXsrg",
+              "end": 70,
+              "expanded_url": "https://x.com/cosasdech1cass/status/2075615776120119516/video/1",
+              "media_key": "13_2075615721325797376",
+              "start": 47,
+              "url": "https://t.co/5CWoCpXsrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075615776120119516",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3469,
+          "impression_count": 1334614,
+          "like_count": 44678,
+          "quote_count": 537,
+          "reply_count": 231,
+          "retweet_count": 5429
+        },
+        "reply_settings": "everyone",
+        "text": "puedo ir a tu casa y quedarme así todo el día? https://t.co/5CWoCpXsrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 441,
+          "like_count": 3831,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T21:21:04.000Z",
+        "description": "trucos, tutoriales y cosas de chicas. Sígueme 👛💍",
+        "id": "1900658427497447424",
+        "name": "flor 𓆩♡𓆪",
+        "pinned_tweet_id": "1992251542783902010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917993446373015552/_1tJYuUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 20,
+          "like_count": 16404,
+          "listed_count": 1,
+          "media_count": 695,
+          "tweet_count": 2462
+        },
+        "url": "",
+        "username": "cosasdech1cass",
+        "verified": false
+      }
+    ]
+  }
+}

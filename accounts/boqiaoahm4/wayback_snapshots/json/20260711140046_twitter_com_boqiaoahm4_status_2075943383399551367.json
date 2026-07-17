@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075943149818748928"
+      ],
+      "media_source_tweet_id": [
+        "2075943166046577095"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2075943383399551367",
+    "created_at": "2026-07-11T14:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075943383399551367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2063574393201311745",
+          "start": 3,
+          "username": "zhoushashaff9n"
+        },
+        {
+          "end": 50,
+          "id": "2057425772198215680",
+          "start": 39,
+          "username": "boqiaoahm4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CvPmVARSI",
+          "end": 74,
+          "expanded_url": "https://x.com/zhoushashaff9n/status/2075943166046577095/photo/1",
+          "media_key": "3_2075943149818748928",
+          "start": 51,
+          "url": "https://t.co/0CvPmVARSI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075943383399551367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075943166046577095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhoushashaff9n: 我们玩迷你世界恐怖地图玩了一个多小时🆘@boqiaoahm4 https://t.co/0CvPmVARSI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075943149818748928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM87S8LaIAA_yIJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075943149818748928"
+          ],
+          "media_source_tweet_id": [
+            "2075943166046577095"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2075943383399551367",
+        "created_at": "2026-07-11T14:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075943383399551367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2063574393201311745",
+              "start": 3,
+              "username": "zhoushashaff9n"
+            },
+            {
+              "end": 50,
+              "id": "2057425772198215680",
+              "start": 39,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CvPmVARSI",
+              "end": 74,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2075943166046577095/photo/1",
+              "media_key": "3_2075943149818748928",
+              "start": 51,
+              "url": "https://t.co/0CvPmVARSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075943383399551367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075943166046577095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhoushashaff9n: 我们玩迷你世界恐怖地图玩了一个多小时🆘@boqiaoahm4 https://t.co/0CvPmVARSI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075943149818748928"
+          ]
+        },
+        "author_id": "2063574393201311745",
+        "conversation_id": "2075943166046577095",
+        "created_at": "2026-07-11T13:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075943166046577095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "2057425772198215680",
+              "start": 19,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CvPmVARSI",
+              "end": 54,
+              "expanded_url": "https://x.com/zhoushashaff9n/status/2075943166046577095/photo/1",
+              "media_key": "3_2075943149818748928",
+              "start": 31,
+              "url": "https://t.co/0CvPmVARSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075943166046577095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们玩迷你世界恐怖地图玩了一个多小时🆘@boqiaoahm4 https://t.co/0CvPmVARSI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 436,
+          "like_count": 3721,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2249
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:52:00.000Z",
+        "description": "sasioverlxrd",
+        "id": "2063574393201311745",
+        "name": "當不了你的天使該怎麼說謊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074152551415676928/thEGnRK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 2,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "zhoushashaff9n",
+        "verified": false
+      }
+    ]
+  }
+}

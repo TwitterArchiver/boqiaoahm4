@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2076275255904252307",
+    "created_at": "2026-07-12T12:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076276800410591257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076276800410591257",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076275255904252307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 世界第一可爱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2076275228192411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBpUchaEAAASR_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2076275255904252307",
+        "created_at": "2026-07-12T12:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076276800410591257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076276800410591257",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076275255904252307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 世界第一可爱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076275228192411648"
+          ]
+        },
+        "author_id": "1733157188057853952",
+        "conversation_id": "2076275255904252307",
+        "created_at": "2026-07-12T11:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076275255904252307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "りりむとおえかき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nholbbiGoT",
+              "end": 40,
+              "expanded_url": "https://x.com/nigich436594/status/2076275255904252307/photo/1",
+              "media_key": "3_2076275228192411648",
+              "start": 17,
+              "url": "https://t.co/nholbbiGoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076275255904252307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界第一可爱 #りりむとおえかき https://t.co/nholbbiGoT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 439,
+          "like_count": 3796,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2278
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜165 79｜直fo就是喜欢你吖｜(｡･ω･｡)",
+        "id": "1733157188057853952",
+        "location": "🚪77➕好友聊天",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2076079236104716790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074231379144110080/_9X6ROhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 254,
+          "like_count": 2410,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 948
+        },
+        "url": "",
+        "username": "nigich436594",
+        "verified": false
+      }
+    ]
+  }
+}

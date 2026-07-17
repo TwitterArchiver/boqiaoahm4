@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2075970397636633038",
+    "created_at": "2026-07-11T15:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075972794027032776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040055666799443968",
+          "start": 0,
+          "username": "MeguToge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075972794027032776",
+    "in_reply_to_user_id": "2040055666799443968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075970397636633038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeguToge 我也"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2075970390497857536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9UEjnakAA4WuL.jpg",
+        "width": 851
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2075970397636633038",
+        "created_at": "2026-07-11T15:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075972794027032776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040055666799443968",
+              "start": 0,
+              "username": "MeguToge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075972794027032776",
+        "in_reply_to_user_id": "2040055666799443968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075970397636633038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeguToge 我也"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075970390497857536"
+          ]
+        },
+        "author_id": "2040055666799443968",
+        "conversation_id": "2075970397636633038",
+        "created_at": "2026-07-11T15:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075970397636633038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmAVR2oQt2",
+              "end": 43,
+              "expanded_url": "https://x.com/MeguToge/status/2075970397636633038/photo/1",
+              "media_key": "3_2075970390497857536",
+              "start": 20,
+              "url": "https://t.co/VmAVR2oQt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075970397636633038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前歌手喜欢把血弄本子上收藏着 凉席 https://t.co/VmAVR2oQt2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 436,
+          "like_count": 3733,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2253
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:18:22.000Z",
+        "description": "你好我是零零 精神疾病有\n戒割中 情绪不稳定",
+        "id": "2040055666799443968",
+        "name": "澪朽",
+        "pinned_tweet_id": "2074792018325508555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072217024085024768/mdMOZJLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 83,
+          "like_count": 1852,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "MeguToge",
+        "verified": false
+      }
+    ]
+  }
+}

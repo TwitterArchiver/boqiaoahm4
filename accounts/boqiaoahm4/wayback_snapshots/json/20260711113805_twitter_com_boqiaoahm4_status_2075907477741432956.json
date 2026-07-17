@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2075896918446944557",
+    "created_at": "2026-07-11T11:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075907477741432956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797273760325877760",
+          "start": 0,
+          "username": "xyv__3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075907477741432956",
+    "in_reply_to_user_id": "1797273760325877760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075896918446944557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyv__3 今天都过关了啊 我的还没 燥候！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2075896918446944557",
+        "created_at": "2026-07-11T11:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075907477741432956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797273760325877760",
+              "start": 0,
+              "username": "xyv__3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075907477741432956",
+        "in_reply_to_user_id": "1797273760325877760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075896918446944557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyv__3 今天都过关了啊 我的还没 燥候！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797273760325877760",
+        "conversation_id": "2075896918446944557",
+        "created_at": "2026-07-11T10:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075896918446944557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075896918446944557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报，我的白兔和yyy过关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 434,
+          "like_count": 3695,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:27:20.000Z",
+        "description": "世界大爆炸\n可以叫我小鱼🐟07-双相-药物滥用-量产&地雷\n欢迎大家找我聊天\n碎碎念，啥都发\n戒割半年，此账号极少发od相关，或许有概率可以发现我的二重身…",
+        "id": "1797273760325877760",
+        "location": "不收🚪不加联系方式",
+        "name": "3600斤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 57,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "xyv__3",
+        "verified": false
+      }
+    ]
+  }
+}
