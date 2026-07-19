@@ -1,19 +1,20 @@
 {
   "name": "炸玉/二代目",
   "username": "@boqiaoahm4",
-  "bio": "薄巧/炸玉 防炸@okokok333444 查成分回fo",
+  "bio": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
   "location": "你低头看看",
-  "link": "ngl.link/boboboqiao",
+  "link": "https://ngl.link/boboboqiao",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2058902425382326345",
   "bio_entities": {
     "mentions": [
       {
-        "end": 18,
-        "start": 5,
-        "username": "dzzzzz467732"
+        "end": 22,
+        "start": 9,
+        "username": "okokok333444"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg"
 }
