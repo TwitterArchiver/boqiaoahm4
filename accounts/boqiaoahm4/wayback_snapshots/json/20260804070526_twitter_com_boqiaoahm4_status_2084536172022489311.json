@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084527510042411240",
+    "created_at": "2026-08-04T07:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084536172022489311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1722904163476979712",
+          "start": 0,
+          "username": "tom415362445683"
+        },
+        {
+          "end": 22,
+          "id": "1720665183188922368",
+          "start": 17,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084536172022489311",
+    "in_reply_to_user_id": "1722904163476979712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084534556263424413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom415362445683 @grok 拉了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084527510042411240",
+        "created_at": "2026-08-04T07:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084536172022489311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1722904163476979712",
+              "start": 0,
+              "username": "tom415362445683"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084536172022489311",
+        "in_reply_to_user_id": "1722904163476979712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084534556263424413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom415362445683 @grok 拉了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722904163476979712",
+        "conversation_id": "2084527510042411240",
+        "created_at": "2026-08-04T06:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084534556263424413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 17,
+              "id": "2057425772198215680",
+              "start": 6,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084534556263424413",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084527757124419949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @boqiaoahm4 这期神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 474,
+          "like_count": 5117,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2547
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T09:09:27.000Z",
+        "description": "天空的湛藍要怎樣才能傳達",
+        "id": "1722904163476979712",
+        "location": "你家床底下",
+        "name": "もペもペ",
+        "pinned_tweet_id": "2025596071217656109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051340340049965056/5L_eG8J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 91,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "tom415362445683",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8907412,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7263,
+          "media_count": 9217681,
+          "tweet_count": 133851564
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083527614040289561",
+    "created_at": "2026-08-01T12:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083528957836800080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039172080336334849",
+          "start": 0,
+          "username": "Oxycontin0226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083528957836800080",
+    "in_reply_to_user_id": "2039172080336334849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083527614040289561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oxycontin0226 你真是太美了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3668,
+        "height": 1280,
+        "media_key": "13_2083527557027110912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083527557027110912/img/z4QeLZo5MJ5MrYU6.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083527557027110912/vid/avc1/320x568/2vbU3QPlrE0ka7V8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083527557027110912/vid/avc1/480x852/HWGK-dEIP__w3x_E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083527557027110912/vid/avc1/720x1280/cv_nybFDQ_puHWC6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083527557027110912/pl/BEozvoYkzI0FdV_w.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083527614040289561",
+        "created_at": "2026-08-01T12:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083528957836800080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039172080336334849",
+              "start": 0,
+              "username": "Oxycontin0226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083528957836800080",
+        "in_reply_to_user_id": "2039172080336334849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083527614040289561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oxycontin0226 你真是太美了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083527557027110912"
+          ]
+        },
+        "author_id": "2039172080336334849",
+        "conversation_id": "2083527614040289561",
+        "created_at": "2026-08-01T12:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083527614040289561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vc4MUxsUmt",
+              "end": 25,
+              "expanded_url": "https://x.com/Oxycontin0226/status/2083527614040289561/video/1",
+              "media_key": "13_2083527557027110912",
+              "start": 2,
+              "url": "https://t.co/vc4MUxsUmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083527614040289561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/vc4MUxsUmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 448,
+          "like_count": 4541,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T02:45:42.000Z",
+        "description": "真心为你@chanel10790",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "chanel10790"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soaunt.com",
+                "end": 23,
+                "expanded_url": "http://www.soaunt.com",
+                "start": 0,
+                "url": "https://t.co/XOiMhWSjOl"
+              }
+            ]
+          }
+        },
+        "id": "2039172080336334849",
+        "location": "墓地",
+        "name": "Rei",
+        "pinned_tweet_id": "2078523995008229613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078526597594812417/NU_GNsEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 571,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/XOiMhWSjOl",
+        "username": "Oxycontin0226",
+        "verified": false
+      }
+    ]
+  }
+}

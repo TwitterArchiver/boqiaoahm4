@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084584186460197186",
+    "created_at": "2026-08-04T10:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084591343528235151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083759498066534400",
+          "start": 0,
+          "username": "Ririnkachan0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084591343528235151",
+    "in_reply_to_user_id": "2083759498066534400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084590984516800982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririnkachan0808 卧槽我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084584186460197186",
+        "created_at": "2026-08-04T10:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084591343528235151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083759498066534400",
+              "start": 0,
+              "username": "Ririnkachan0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084591343528235151",
+        "in_reply_to_user_id": "2083759498066534400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084590984516800982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririnkachan0808 卧槽我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083759498066534400",
+        "conversation_id": "2084584186460197186",
+        "created_at": "2026-08-04T10:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084590984516800982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084590984516800982",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084584186460197186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 卧槽妈咪来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 477,
+          "like_count": 5150,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🎶🩶🤍\n另一个我@Ririnnnkanya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "Ririnnnkanya"
+              }
+            ]
+          }
+        },
+        "id": "2083759498066534400",
+        "name": "Ririnkachanwww",
+        "pinned_tweet_id": "2084186952501436516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083895695275409408/Ds3LksM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 168,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "Ririnkachan0808",
+        "verified": false
+      }
+    ]
+  }
+}

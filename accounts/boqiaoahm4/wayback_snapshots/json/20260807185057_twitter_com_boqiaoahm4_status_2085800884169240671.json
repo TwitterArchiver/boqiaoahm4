@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085784621447606311",
+    "created_at": "2026-08-07T18:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085800884169240671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956007129451782145",
+          "start": 0,
+          "username": "s0559403fhbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085800884169240671",
+    "in_reply_to_user_id": "1956007129451782145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085789128550219837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s0559403fhbb 好舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085784621447606311",
+        "created_at": "2026-08-07T18:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085800884169240671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956007129451782145",
+              "start": 0,
+              "username": "s0559403fhbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085800884169240671",
+        "in_reply_to_user_id": "1956007129451782145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085789128550219837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s0559403fhbb 好舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956007129451782145",
+        "conversation_id": "2085784621447606311",
+        "created_at": "2026-08-07T18:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085789128550219837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085789128550219837",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085784621447606311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 坐轮椅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 518,
+          "like_count": 5683,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T14:57:10.000Z",
+        "description": "",
+        "id": "1956007129451782145",
+        "name": "Maxadi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085798223218974721/qTnBAe1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "s0559403fhbb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085751946863092045",
+    "created_at": "2026-08-07T18:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085799856938131702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880803334405435393",
+          "start": 0,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085799856938131702",
+    "in_reply_to_user_id": "1880803334405435393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085794986398974085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantmaoshenshi 仙贝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085751946863092045",
+        "created_at": "2026-08-07T18:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085799856938131702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085799856938131702",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085794986398974085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi 仙贝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880803334405435393",
+        "conversation_id": "2085751946863092045",
+        "created_at": "2026-08-07T18:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085794986398974085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085794986398974085",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085751946863092045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 你可以叫我一句前輩嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 518,
+          "like_count": 5679,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 2759
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹",
+        "id": "1880803334405435393",
+        "location": "中北海 🚪114514",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081997738003300352/-VJPrMj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 1020,
+          "like_count": 12155,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 8583
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

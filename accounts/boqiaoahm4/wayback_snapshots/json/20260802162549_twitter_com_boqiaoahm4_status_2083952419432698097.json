@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083952419432698097",
+    "created_at": "2026-08-02T16:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083952419432698097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1905871653340602368",
+          "start": 3,
+          "username": "BryanBall75081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083952419432698097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083949804066111595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BryanBall75081: 翩翩给公子请安~之前的号叫万穗爷，id忘啦我想找回前世卢关！属性06女大 155 57kg 平时主玩饿殍，哀鸿等旮旯game捏，全结局努力ing之前还被认识的南梁带入坑了坦克世界和战雷喵\n坐标10两银子（10米）\n52🚪好友位，聊什么都可…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1324,
+        "media_key": "3_2083949688533970944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOutM1LacAALfBe.jpg",
+        "width": 946
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083949700944990208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOutNjabkAAYif1.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 15061,
+        "height": 1024,
+        "media_key": "13_2083949731924086785",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083949731924086785/img/kvz8mwvAd42L7MCu.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083949731924086785/vid/avc1/320x568/dyWV6WGiMG0tzkaS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083949731924086785/vid/avc1/480x852/xGgUkv-kDLDKRFP1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083949731924086785/vid/avc1/576x1024/FEop6bgI_OqctW7f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083949731924086785/pl/fvnzEUHaqZkzx1G_.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2083949786152173568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOutSg1aAAAsxVL.jpg",
+        "width": 2056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083952419432698097",
+        "created_at": "2026-08-02T16:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083952419432698097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1905871653340602368",
+              "start": 3,
+              "username": "BryanBall75081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083952419432698097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083949804066111595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BryanBall75081: 翩翩给公子请安~之前的号叫万穗爷，id忘啦我想找回前世卢关！属性06女大 155 57kg 平时主玩饿殍，哀鸿等旮旯game捏，全结局努力ing之前还被认识的南梁带入坑了坦克世界和战雷喵\n坐标10两银子（10米）\n52🚪好友位，聊什么都可…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083949688533970944",
+            "3_2083949700944990208",
+            "13_2083949731924086785",
+            "3_2083949786152173568"
+          ]
+        },
+        "author_id": "1905871653340602368",
+        "conversation_id": "2083949804066111595",
+        "created_at": "2026-08-02T16:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083949804066111595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0aEbeDrxZw",
+              "end": 188,
+              "expanded_url": "https://x.com/BryanBall75081/status/2083949804066111595/video/1",
+              "media_key": "3_2083949688533970944",
+              "start": 165,
+              "url": "https://t.co/0aEbeDrxZw"
+            },
+            {
+              "display_url": "pic.x.com/0aEbeDrxZw",
+              "end": 188,
+              "expanded_url": "https://x.com/BryanBall75081/status/2083949804066111595/video/1",
+              "media_key": "3_2083949700944990208",
+              "start": 165,
+              "url": "https://t.co/0aEbeDrxZw"
+            },
+            {
+              "display_url": "pic.x.com/0aEbeDrxZw",
+              "end": 188,
+              "expanded_url": "https://x.com/BryanBall75081/status/2083949804066111595/video/1",
+              "media_key": "13_2083949731924086785",
+              "start": 165,
+              "url": "https://t.co/0aEbeDrxZw"
+            },
+            {
+              "display_url": "pic.x.com/0aEbeDrxZw",
+              "end": 188,
+              "expanded_url": "https://x.com/BryanBall75081/status/2083949804066111595/video/1",
+              "media_key": "3_2083949786152173568",
+              "start": 165,
+              "url": "https://t.co/0aEbeDrxZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083949804066111595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "翩翩给公子请安~之前的号叫万穗爷，id忘啦我想找回前世卢关！属性06女大 155 57kg 平时主玩饿殍，哀鸿等旮旯game捏，全结局努力ing之前还被认识的南梁带入坑了坦克世界和战雷喵\n坐标10两银子（10米）\n52🚪好友位，聊什么都可以的\n78🚪有fuli图\n178🚪有fuli图和视频捏🥵\n线下礼貌过门询价哦~\n欢迎互转~ https://t.co/0aEbeDrxZw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 468,
+          "like_count": 4847,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2455
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T06:36:33.000Z",
+        "description": "小女翩翩给公子请安啦~前世500fo被奸人所害喵现已转生推油寻回中！这个号好贵的这一世请对我好点^_^\n🚪52喵",
+        "id": "1905871653340602368",
+        "location": "10大洋（10米）",
+        "name": "翩翩2.0（推友寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083467578723409920/YdxfWQfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 17,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "BryanBall75081",
+        "verified": false
+      }
+    ]
+  }
+}

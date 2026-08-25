@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084232470749446211",
+    "created_at": "2026-08-03T14:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084280355406971002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        },
+        {
+          "end": 26,
+          "id": "2082124926375649280",
+          "start": 15,
+          "username": "Yuki281331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084280355406971002",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084276469858206055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 @Yuki281331 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084232470749446211",
+        "created_at": "2026-08-03T14:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084280355406971002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 26,
+              "id": "2082124926375649280",
+              "start": 15,
+              "username": "Yuki281331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084280355406971002",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084276469858206055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 @Yuki281331 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2084232470749446211",
+        "created_at": "2026-08-03T13:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084276469858206055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2082124926375649280",
+              "start": 0,
+              "username": "Yuki281331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084276469858206055",
+        "in_reply_to_user_id": "2082124926375649280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084274990631768164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki281331 两条数位板数据线"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 477,
+          "like_count": 5038,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2530
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 459,
+          "like_count": 11813,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 2740
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n会慢慢回fo，怕频繁被ban\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "pinned_tweet_id": "2083472052636594342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 211,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

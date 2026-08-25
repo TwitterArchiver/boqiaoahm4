@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083668443669356544"
+      ],
+      "media_source_tweet_id": [
+        "2083668450547990593"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083812745691222110",
+    "created_at": "2026-08-02T07:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083812745691222110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2026321384042004480",
+          "start": 3,
+          "username": "jiu79171"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n8LxFzNXxi",
+          "end": 140,
+          "expanded_url": "https://x.com/jiu79171/status/2083668450547990593/photo/1",
+          "media_key": "3_2083668443669356544",
+          "start": 117,
+          "url": "https://t.co/n8LxFzNXxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083812745691222110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083668450547990593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiu79171: 50fo抽奖\n发了一晚上癫发现50fo了，抽两个30r小红包给你们买烟吧！\n没想靠这个涨关注，所以转发评论点赞即可。已截屏前50fo并且会上调这些人的中奖概率。最后会通过ai抽奖。\n截止到八月九日晚九点。 https://t.co/n8LxFzNXxi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2083668443669356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqtaOaaYAA-0OI.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083668443669356544"
+          ]
+        },
+        "author_id": "2026321384042004480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083668450547990593",
+        "created_at": "2026-08-01T21:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083668450547990593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8LxFzNXxi",
+              "end": 126,
+              "expanded_url": "https://x.com/jiu79171/status/2083668450547990593/photo/1",
+              "media_key": "3_2083668443669356544",
+              "start": 103,
+              "url": "https://t.co/n8LxFzNXxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083668450547990593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 723,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "50fo抽奖\n发了一晚上癫发现50fo了，抽两个30r小红包给你们买烟吧！\n没想靠这个涨关注，所以转发评论点赞即可。已截屏前50fo并且会上调这些人的中奖概率。最后会通过ai抽奖。\n截止到八月九日晚九点。 https://t.co/n8LxFzNXxi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083668443669356544"
+          ],
+          "media_source_tweet_id": [
+            "2083668450547990593"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083812745691222110",
+        "created_at": "2026-08-02T07:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083812745691222110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2026321384042004480",
+              "start": 3,
+              "username": "jiu79171"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8LxFzNXxi",
+              "end": 140,
+              "expanded_url": "https://x.com/jiu79171/status/2083668450547990593/photo/1",
+              "media_key": "3_2083668443669356544",
+              "start": 117,
+              "url": "https://t.co/n8LxFzNXxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083812745691222110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083668450547990593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiu79171: 50fo抽奖\n发了一晚上癫发现50fo了，抽两个30r小红包给你们买烟吧！\n没想靠这个涨关注，所以转发评论点赞即可。已截屏前50fo并且会上调这些人的中奖概率。最后会通过ai抽奖。\n截止到八月九日晚九点。 https://t.co/n8LxFzNXxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 465,
+          "like_count": 4708,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2405
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T15:40:52.000Z",
+        "description": "二号机@buzhidao2738\n可以叫我不知道｜割o一体机，但都不频繁，已被现生绑架状态🩸💊\n支持互fo｜聊天大欢迎｜形象切换频繁之人⛓️\n无固定人设，可以把我当成刚从棺材里爬出来的千年老干尸⚰️｜至于性别和性取向嘛…其实我是水母，我不需要考虑这些🪼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "buzhidao2738"
+              }
+            ]
+          }
+        },
+        "id": "2026321384042004480",
+        "name": "不知道",
+        "pinned_tweet_id": "2041766291791569150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026321804248444928/fooAhUCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 24,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "jiu79171",
+        "verified": false
+      }
+    ]
+  }
+}

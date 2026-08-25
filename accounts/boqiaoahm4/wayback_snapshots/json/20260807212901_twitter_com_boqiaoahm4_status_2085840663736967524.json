@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085840663736967524",
+    "created_at": "2026-08-07T21:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T22:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085840663736967524"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085840663736967524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关系让我好痛苦我一想到计划这个词就开始跳海不停跳海直到砸死一只海马为止第一次听到海马是在幼儿园看的科普短片一直重复回想回到幼儿园小学也行小学有很多虐待我的人好可怕我一想到幸福这个词脑袋浮现的居然是她们这真的不对劲这是什么好可怕时间停下吧停下来所有人都会开心的被推着走我想到在轮下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085840663736967524",
+        "created_at": "2026-08-07T21:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085840663736967524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085840663736967524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关系让我好痛苦我一想到计划这个词就开始跳海不停跳海直到砸死一只海马为止第一次听到海马是在幼儿园看的科普短片一直重复回想回到幼儿园小学也行小学有很多虐待我的人好可怕我一想到幸福这个词脑袋浮现的居然是她们这真的不对劲这是什么好可怕时间停下吧停下来所有人都会开心的被推着走我想到在轮下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 519,
+          "like_count": 5704,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2779
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

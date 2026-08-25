@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085058221270876628",
+    "created_at": "2026-08-05T19:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085089979253027301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858102501381414912",
+          "start": 0,
+          "username": "zaofushijian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085089979253027301",
+    "in_reply_to_user_id": "1858102501381414912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085058221270876628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaofushijian 😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085058221270876628",
+        "created_at": "2026-08-05T19:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085089979253027301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858102501381414912",
+              "start": 0,
+              "username": "zaofushijian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085089979253027301",
+        "in_reply_to_user_id": "1858102501381414912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085058221270876628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaofushijian 😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858102501381414912",
+        "conversation_id": "2085058221270876628",
+        "created_at": "2026-08-05T17:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085058221270876628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boqiaoahm4/sta…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/boqiaoahm4/status/2085056601736761568",
+              "start": 133,
+              "url": "https://t.co/gmhYB5gN2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085058221270876628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085056601736761568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手，不好意思刚才腾不出手， https://t.co/gmhYB5gN2a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 495,
+          "like_count": 5438,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2667
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T10:59:04.000Z",
+        "description": "是个男的\n宙道分身@shuaidaowushang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "shuaidaowushang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zaofushijian",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zaofushijian",
+                "start": 0,
+                "url": "https://t.co/ebFKJdXhsi"
+              }
+            ]
+          }
+        },
+        "id": "1858102501381414912",
+        "name": "天地一家大爱盟盟主🍥",
+        "pinned_tweet_id": "2073282433576050821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032824581589970948/U7rV0Nbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 219,
+          "like_count": 453,
+          "listed_count": 3,
+          "media_count": 1621,
+          "tweet_count": 9720
+        },
+        "url": "https://t.co/ebFKJdXhsi",
+        "username": "zaofushijian",
+        "verified": false
+      }
+    ]
+  }
+}

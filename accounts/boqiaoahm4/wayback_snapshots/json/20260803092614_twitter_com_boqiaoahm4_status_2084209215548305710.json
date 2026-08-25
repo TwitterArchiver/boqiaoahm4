@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084202192777711867",
+    "created_at": "2026-08-03T09:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084209215548305710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1846525424714891264",
+          "start": 0,
+          "username": "Jfishyuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084209215548305710",
+    "in_reply_to_user_id": "1846525424714891264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084203230788010415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jfishyuyu 红包里面塞伟哥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084202192777711867",
+        "created_at": "2026-08-03T09:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084209215548305710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846525424714891264",
+              "start": 0,
+              "username": "Jfishyuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084209215548305710",
+        "in_reply_to_user_id": "1846525424714891264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084203230788010415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jfishyuyu 红包里面塞伟哥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846525424714891264",
+        "conversation_id": "2084202192777711867",
+        "created_at": "2026-08-03T09:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084203230788010415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084203230788010415",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084202192777711867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 抢了可以勃起吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 476,
+          "like_count": 4961,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2490
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T12:16:03.000Z",
+        "description": "叫我洋芋就好啦\n二号@JfishyuyuTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "JfishyuyuTvT"
+              }
+            ]
+          }
+        },
+        "id": "1846525424714891264",
+        "location": "你的记忆",
+        "name": "眠眠芋",
+        "pinned_tweet_id": "2071854652384010731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052414104074149888/hwFHGdhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 96,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "Jfishyuyu",
+        "verified": false
+      }
+    ]
+  }
+}

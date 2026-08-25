@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084625968858300416",
+        "3_2084625968803745792"
+      ],
+      "media_source_tweet_id": [
+        "2084625974327697697",
+        "2084625974327697697"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085661003040317758",
+    "created_at": "2026-08-07T09:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T10:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085661003040317758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2084239787612135424",
+          "start": 3,
+          "username": "lulu_aug24"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6i3NgRVTrQ",
+          "end": 65,
+          "expanded_url": "https://x.com/lulu_aug24/status/2084625974327697697/photo/1",
+          "media_key": "3_2084625968858300416",
+          "start": 42,
+          "url": "https://t.co/6i3NgRVTrQ"
+        },
+        {
+          "display_url": "pic.x.com/6i3NgRVTrQ",
+          "end": 65,
+          "expanded_url": "https://x.com/lulu_aug24/status/2084625974327697697/photo/1",
+          "media_key": "3_2084625968803745792",
+          "start": 42,
+          "url": "https://t.co/6i3NgRVTrQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085661003040317758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084625974327697697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lulu_aug24: 重生之痛失前世大号的鹿子努力找回属于她的爸爸活人生 https://t.co/6i3NgRVTrQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_2084625968858300416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4URhtagAAZOdQ.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084625968803745792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4URhgaEAAt3pl.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084625968858300416",
+            "3_2084625968803745792"
+          ]
+        },
+        "author_id": "2084239787612135424",
+        "conversation_id": "2084625974327697697",
+        "created_at": "2026-08-04T13:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084625974327697697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6i3NgRVTrQ",
+              "end": 49,
+              "expanded_url": "https://x.com/lulu_aug24/status/2084625974327697697/photo/1",
+              "media_key": "3_2084625968858300416",
+              "start": 26,
+              "url": "https://t.co/6i3NgRVTrQ"
+            },
+            {
+              "display_url": "pic.x.com/6i3NgRVTrQ",
+              "end": 49,
+              "expanded_url": "https://x.com/lulu_aug24/status/2084625974327697697/photo/1",
+              "media_key": "3_2084625968803745792",
+              "start": 26,
+              "url": "https://t.co/6i3NgRVTrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084625974327697697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 410,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "重生之痛失前世大号的鹿子努力找回属于她的爸爸活人生 https://t.co/6i3NgRVTrQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084625968858300416",
+            "3_2084625968803745792"
+          ],
+          "media_source_tweet_id": [
+            "2084625974327697697",
+            "2084625974327697697"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085661003040317758",
+        "created_at": "2026-08-07T09:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085661003040317758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2084239787612135424",
+              "start": 3,
+              "username": "lulu_aug24"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6i3NgRVTrQ",
+              "end": 65,
+              "expanded_url": "https://x.com/lulu_aug24/status/2084625974327697697/photo/1",
+              "media_key": "3_2084625968858300416",
+              "start": 42,
+              "url": "https://t.co/6i3NgRVTrQ"
+            },
+            {
+              "display_url": "pic.x.com/6i3NgRVTrQ",
+              "end": 65,
+              "expanded_url": "https://x.com/lulu_aug24/status/2084625974327697697/photo/1",
+              "media_key": "3_2084625968803745792",
+              "start": 42,
+              "url": "https://t.co/6i3NgRVTrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085661003040317758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084625974327697697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lulu_aug24: 重生之痛失前世大号的鹿子努力找回属于她的爸爸活人生 https://t.co/6i3NgRVTrQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 513,
+          "like_count": 5620,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 2733
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-03T11:29:27.000Z",
+        "description": "鹿稚的第n个号 希望爱降临到我身上",
+        "id": "2084239787612135424",
+        "location": "上海",
+        "name": "鹿稚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084240277896888320/8JneVOcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 12,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "lulu_aug24",
+        "verified": false
+      }
+    ]
+  }
+}

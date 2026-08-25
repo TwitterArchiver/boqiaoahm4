@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2066100929594798270",
+    "created_at": "2026-08-06T14:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085374422891069461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998820105627770880",
+          "start": 0,
+          "username": "TenpennyL62429"
+        },
+        {
+          "end": 24,
+          "id": "2065372497403674624",
+          "start": 16,
+          "username": "Huhio3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085374422891069461",
+    "in_reply_to_user_id": "1998820105627770880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085373479592095929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TenpennyL62429 @Huhio3i 太好乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2066100929594798270",
+        "created_at": "2026-08-06T14:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085374422891069461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998820105627770880",
+              "start": 0,
+              "username": "TenpennyL62429"
+            },
+            {
+              "end": 24,
+              "id": "2065372497403674624",
+              "start": 16,
+              "username": "Huhio3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085374422891069461",
+        "in_reply_to_user_id": "1998820105627770880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085373479592095929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TenpennyL62429 @Huhio3i 太好乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998820105627770880",
+        "conversation_id": "2066100929594798270",
+        "created_at": "2026-08-06T14:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085373479592095929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2065372497403674624",
+              "start": 0,
+              "username": "Huhio3i"
+            },
+            {
+              "end": 20,
+              "id": "2057425772198215680",
+              "start": 9,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085373479592095929",
+        "in_reply_to_user_id": "2065372497403674624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066113274584924261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhio3i @boqiaoahm4 你們倆和我都是互fo耶(≧▽≦)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 507,
+          "like_count": 5564,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2706
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T18:20:45.000Z",
+        "description": "本賬號是 @Mr.湯普尼 （@GEACPS1940629）的小號，會發一些歷史老照片，感興趣的話就點個關注吧🥰\n\n提問箱：https://t.co/mjqSr7Cft4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 5,
+                "username": "Mr"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "GEACPS1940629"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 84,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 61,
+                "url": "https://t.co/mjqSr7Cft4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://telegram.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/KpamqcpugN"
+              }
+            ]
+          }
+        },
+        "id": "1998820105627770880",
+        "name": "Mr.湯普尼▐┛（二代目）",
+        "pinned_tweet_id": "2043540051993436175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998820195599790082/UtF-9mcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 5212,
+          "like_count": 43093,
+          "listed_count": 0,
+          "media_count": 1222,
+          "tweet_count": 3344
+        },
+        "url": "https://t.co/KpamqcpugN",
+        "username": "TenpennyL62429",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T09:57:06.000Z",
+        "description": "＝hh | 一号机@Huhiosc3x 被封了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2065372497403674624",
+        "name": "Huhio2.0",
+        "pinned_tweet_id": "2084933457319547111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084950581089808384/ZE5QvUQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 85,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "Huhio3i",
+        "verified": false
+      }
+    ]
+  }
+}

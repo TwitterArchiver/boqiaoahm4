@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083697657789481019",
+    "created_at": "2026-08-02T07:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083810863069491282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083810863069491282",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083697657789481019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 挑战在主页找到一张不漏沟不擦边的照片 挑战失败"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083697657789481019",
+        "created_at": "2026-08-02T07:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083810863069491282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083810863069491282",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083697657789481019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 挑战在主页找到一张不漏沟不擦边的照片 挑战失败"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2083697657789481019",
+        "created_at": "2026-08-01T23:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083697657789481019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/innocentb1tch_…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/innocentb1tch_/status/2083436811217690764",
+              "start": 65,
+              "url": "https://t.co/wUgtVRKjoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083697657789481019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2343,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个人在没有做任何伤天害理的事情的情况下自我了结，其他人怀念他，这也有错吗？就算自残，就算od，和他人缘好朋友们喜爱他并不冲突。 https://t.co/wUgtVRKjoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 464,
+          "like_count": 4696,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2404
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 241,
+          "like_count": 1867,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1135
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

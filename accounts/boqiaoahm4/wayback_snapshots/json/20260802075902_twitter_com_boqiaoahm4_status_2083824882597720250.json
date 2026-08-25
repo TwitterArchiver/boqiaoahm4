@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082404112382218240",
+        "3_2082404112847732736",
+        "3_2082404112348704768",
+        "3_2082404112357081088"
+      ],
+      "media_source_tweet_id": [
+        "2082404128203096160",
+        "2082404128203096160",
+        "2082404128203096160",
+        "2082404128203096160"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083824882597720250",
+    "created_at": "2026-08-02T07:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083824882597720250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1773143737423847424",
+          "start": 3,
+          "username": "Fanqian77v"
+        },
+        {
+          "end": 32,
+          "id": "1780886139131621376",
+          "start": 23,
+          "username": "NyA_0081"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3sTRDnNaJH",
+          "end": 110,
+          "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+          "media_key": "3_2082404112382218240",
+          "start": 87,
+          "url": "https://t.co/3sTRDnNaJH"
+        },
+        {
+          "display_url": "pic.x.com/3sTRDnNaJH",
+          "end": 110,
+          "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+          "media_key": "3_2082404112847732736",
+          "start": 87,
+          "url": "https://t.co/3sTRDnNaJH"
+        },
+        {
+          "display_url": "pic.x.com/3sTRDnNaJH",
+          "end": 110,
+          "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+          "media_key": "3_2082404112348704768",
+          "start": 87,
+          "url": "https://t.co/3sTRDnNaJH"
+        },
+        {
+          "display_url": "pic.x.com/3sTRDnNaJH",
+          "end": 110,
+          "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+          "media_key": "3_2082404112357081088",
+          "start": 87,
+          "url": "https://t.co/3sTRDnNaJH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083824882597720250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082404128203096160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fanqian77v: 我是小Q\n妻子@NyA_0081 \n此账号含有碎碎念/绘画/od/ed等内容\n想要认识更多朋友请帮忙转发&gt;&lt;\n谢谢大家的支持ww https://t.co/3sTRDnNaJH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082404112382218240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYvgdVa0AATA2l.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082404112847732736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYvgfEaAAA5rom.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082404112348704768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYvgdNbcAAAl2h.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2082404112357081088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYvgdPbQAAqIMl.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082404112382218240",
+            "3_2082404112847732736",
+            "3_2082404112348704768",
+            "3_2082404112357081088"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2082404128203096160",
+        "created_at": "2026-07-29T09:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082404128203096160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1780886139131621376",
+              "start": 7,
+              "username": "NyA_0081"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sTRDnNaJH",
+              "end": 94,
+              "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+              "media_key": "3_2082404112382218240",
+              "start": 71,
+              "url": "https://t.co/3sTRDnNaJH"
+            },
+            {
+              "display_url": "pic.x.com/3sTRDnNaJH",
+              "end": 94,
+              "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+              "media_key": "3_2082404112847732736",
+              "start": 71,
+              "url": "https://t.co/3sTRDnNaJH"
+            },
+            {
+              "display_url": "pic.x.com/3sTRDnNaJH",
+              "end": 94,
+              "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+              "media_key": "3_2082404112348704768",
+              "start": 71,
+              "url": "https://t.co/3sTRDnNaJH"
+            },
+            {
+              "display_url": "pic.x.com/3sTRDnNaJH",
+              "end": 94,
+              "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+              "media_key": "3_2082404112357081088",
+              "start": 71,
+              "url": "https://t.co/3sTRDnNaJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082404128203096160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1278,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我是小Q\n妻子@NyA_0081 \n此账号含有碎碎念/绘画/od/ed等内容\n想要认识更多朋友请帮忙转发&gt;&lt;\n谢谢大家的支持ww https://t.co/3sTRDnNaJH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082404112382218240",
+            "3_2082404112847732736",
+            "3_2082404112348704768",
+            "3_2082404112357081088"
+          ],
+          "media_source_tweet_id": [
+            "2082404128203096160",
+            "2082404128203096160",
+            "2082404128203096160",
+            "2082404128203096160"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083824882597720250",
+        "created_at": "2026-08-02T07:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083824882597720250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1773143737423847424",
+              "start": 3,
+              "username": "Fanqian77v"
+            },
+            {
+              "end": 32,
+              "id": "1780886139131621376",
+              "start": 23,
+              "username": "NyA_0081"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sTRDnNaJH",
+              "end": 110,
+              "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+              "media_key": "3_2082404112382218240",
+              "start": 87,
+              "url": "https://t.co/3sTRDnNaJH"
+            },
+            {
+              "display_url": "pic.x.com/3sTRDnNaJH",
+              "end": 110,
+              "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+              "media_key": "3_2082404112847732736",
+              "start": 87,
+              "url": "https://t.co/3sTRDnNaJH"
+            },
+            {
+              "display_url": "pic.x.com/3sTRDnNaJH",
+              "end": 110,
+              "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+              "media_key": "3_2082404112348704768",
+              "start": 87,
+              "url": "https://t.co/3sTRDnNaJH"
+            },
+            {
+              "display_url": "pic.x.com/3sTRDnNaJH",
+              "end": 110,
+              "expanded_url": "https://x.com/Fanqian77v/status/2082404128203096160/photo/1",
+              "media_key": "3_2082404112357081088",
+              "start": 87,
+              "url": "https://t.co/3sTRDnNaJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083824882597720250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082404128203096160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fanqian77v: 我是小Q\n妻子@NyA_0081 \n此账号含有碎碎念/绘画/od/ed等内容\n想要认识更多朋友请帮忙转发&gt;&lt;\n谢谢大家的支持ww https://t.co/3sTRDnNaJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 465,
+          "like_count": 4727,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2409
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 118,
+          "like_count": 1192,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T09:09:39.000Z",
+        "description": "查成分回关",
+        "id": "1780886139131621376",
+        "name": "銀花",
+        "pinned_tweet_id": "2082468910117670952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082467795217121281/0Z4g6-_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 62,
+          "like_count": 335,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "NyA_0081",
+        "verified": false
+      }
+    ]
+  }
+}

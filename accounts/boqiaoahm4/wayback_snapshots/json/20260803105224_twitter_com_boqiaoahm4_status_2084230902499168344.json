@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084221958510752160",
+    "created_at": "2026-08-03T10:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084230902499168344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084230902499168344",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084221958510752160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_2084221925514207232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOykzG9a4AABCAv.png",
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084221958510752160",
+        "created_at": "2026-08-03T10:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084230902499168344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084230902499168344",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084221958510752160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084221925514207232"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2084221958510752160",
+        "created_at": "2026-08-03T10:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084221958510752160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2vPn8YZRr",
+              "end": 44,
+              "expanded_url": "https://x.com/bisco91395061/status/2084221958510752160/photo/1",
+              "media_key": "3_2084221925514207232",
+              "start": 21,
+              "url": "https://t.co/J2vPn8YZRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084221958510752160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没办法和你解释，因为我只是一个菜菜坚果 https://t.co/J2vPn8YZRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 478,
+          "like_count": 4995,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2509
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 459,
+          "like_count": 11806,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 2730
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

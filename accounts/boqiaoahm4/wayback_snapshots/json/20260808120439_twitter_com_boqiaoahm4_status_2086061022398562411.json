@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2086026694910177677",
+    "created_at": "2026-08-08T12:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T13:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086061022398562411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685531585905565696",
+          "start": 0,
+          "username": "dong_tian80303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086061022398562411",
+    "in_reply_to_user_id": "1685531585905565696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086056072843084052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dong_tian80303 搞搞我的小啾啾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 334,
+        "media_key": "3_2086056067591729152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMo8OpacAAQQau.jpg",
+        "width": 345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2086026694910177677",
+        "created_at": "2026-08-08T12:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086061022398562411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685531585905565696",
+              "start": 0,
+              "username": "dong_tian80303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086061022398562411",
+        "in_reply_to_user_id": "1685531585905565696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086056072843084052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dong_tian80303 搞搞我的小啾啾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086056067591729152"
+          ]
+        },
+        "author_id": "1685531585905565696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086026694910177677",
+        "created_at": "2026-08-08T11:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086056072843084052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYu4IXaIWz",
+              "end": 35,
+              "expanded_url": "https://x.com/dong_tian80303/status/2086056072843084052/photo/1",
+              "media_key": "3_2086056067591729152",
+              "start": 12,
+              "url": "https://t.co/tYu4IXaIWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086056072843084052",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086026694910177677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 https://t.co/tYu4IXaIWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 527,
+          "like_count": 5783,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 2792
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T06:03:50.000Z",
+        "description": "门槛0.52",
+        "id": "1685531585905565696",
+        "location": "无",
+        "name": "无",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082380730345361408/iy4R6mhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 139,
+          "like_count": 1272,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "dong_tian80303",
+        "verified": false
+      }
+    ]
+  }
+}

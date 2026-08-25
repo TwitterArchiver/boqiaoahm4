@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085423867690893461",
+    "created_at": "2026-08-07T06:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085617997067297042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084973651229626368",
+          "start": 0,
+          "username": "Yuki132831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085617997067297042",
+    "in_reply_to_user_id": "2084973651229626368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085423867690893461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki132831 我想哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085423867690893461",
+        "created_at": "2026-08-07T06:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085617997067297042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084973651229626368",
+              "start": 0,
+              "username": "Yuki132831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085617997067297042",
+        "in_reply_to_user_id": "2084973651229626368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085423867690893461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki132831 我想哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084973651229626368",
+        "conversation_id": "2085423867690893461",
+        "created_at": "2026-08-06T17:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085423867690893461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085423867690893461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1076,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr的耐受真的好恐怖啊太快了，为啥会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 513,
+          "like_count": 5618,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-05T12:04:41.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n防炸回fo较慢对不起\n前世@Yuki312813 @Yuki281331 \n备用@Yuki283113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "Yuki312813"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Yuki281331"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Yuki283113"
+              }
+            ]
+          }
+        },
+        "id": "2084973651229626368",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想吐了。3.0。",
+        "pinned_tweet_id": "2084982871211585741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 171,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "Yuki132831",
+        "verified": false
+      }
+    ]
+  }
+}

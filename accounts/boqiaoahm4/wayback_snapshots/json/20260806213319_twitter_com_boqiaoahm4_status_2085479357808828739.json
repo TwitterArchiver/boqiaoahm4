@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085479357808828739",
+    "created_at": "2026-08-06T21:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T22:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085479357808828739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085479357808828739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083730052878123308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: ₍^⩌⩊⩌ ^₎⟆泥嚎請叫我芊芊？！\n11年hk順女現役中學生isfp-t是個貓孝女\n有精神病 壞習慣全沾（目移）\n正在努力變得健全！！\n特別脆弱不會罵人所以不喜歡吵架 也害怕被討厭qwq\n如果可以請在條件允許的情況下投喂芊芊吧？！（你能拿著…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2083730037124313088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrlbb6bMAAFK1H.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2083730046506934272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrlb-3aoAAztBj.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085479357808828739",
+        "created_at": "2026-08-06T21:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T22:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085479357808828739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085479357808828739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083730052878123308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: ₍^⩌⩊⩌ ^₎⟆泥嚎請叫我芊芊？！\n11年hk順女現役中學生isfp-t是個貓孝女\n有精神病 壞習慣全沾（目移）\n正在努力變得健全！！\n特別脆弱不會罵人所以不喜歡吵架 也害怕被討厭qwq\n如果可以請在條件允許的情況下投喂芊芊吧？！（你能拿著…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083730037124313088",
+            "3_2083730046506934272"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2083730052878123308",
+        "created_at": "2026-08-02T01:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083730052878123308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J78MQ1pnoH",
+              "end": 176,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083730052878123308/photo/1",
+              "media_key": "3_2083730037124313088",
+              "start": 153,
+              "url": "https://t.co/J78MQ1pnoH"
+            },
+            {
+              "display_url": "pic.x.com/J78MQ1pnoH",
+              "end": 176,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2083730052878123308/photo/1",
+              "media_key": "3_2083730046506934272",
+              "start": 153,
+              "url": "https://t.co/J78MQ1pnoH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083730052878123308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 18055,
+          "like_count": 169,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "₍^⩌⩊⩌ ^₎⟆泥嚎請叫我芊芊？！\n11年hk順女現役中學生isfp-t是個貓孝女\n有精神病 壞習慣全沾（目移）\n正在努力變得健全！！\n特別脆弱不會罵人所以不喜歡吵架 也害怕被討厭qwq\n如果可以請在條件允許的情況下投喂芊芊吧？！（你能拿著支付憑證向芊芊要一些小塗鴉（沒有支付憑證也可以啦\n謝謝泥喵？！ https://t.co/J78MQ1pnoH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 508,
+          "like_count": 5603,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 2726
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 61,
+          "like_count": 3067,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

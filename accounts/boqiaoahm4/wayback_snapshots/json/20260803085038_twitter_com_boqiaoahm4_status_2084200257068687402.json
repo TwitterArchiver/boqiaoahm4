@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084200257068687402",
+    "created_at": "2026-08-03T08:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084200257068687402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2083759498066534400",
+          "start": 3,
+          "username": "Ririnkachan0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084200257068687402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084186952501436516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ririnkachan0808: =ririnka（莉琳卡）2011.8.8🤍🩶🎶\n生理女 心理女 一切性向友好💞\n\n有心理相关疾病 一个没头脑的弱智小学生\n\n唯一属性 东方project伊吹萃香梦女\n\n此账号可能包含的内容：\n负能 血图 鬼图 梦向产出\n\n直fo会回…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084200257068687402",
+        "created_at": "2026-08-03T08:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084200257068687402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2083759498066534400",
+              "start": 3,
+              "username": "Ririnkachan0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084200257068687402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084186952501436516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ririnkachan0808: =ririnka（莉琳卡）2011.8.8🤍🩶🎶\n生理女 心理女 一切性向友好💞\n\n有心理相关疾病 一个没头脑的弱智小学生\n\n唯一属性 东方project伊吹萃香梦女\n\n此账号可能包含的内容：\n负能 血图 鬼图 梦向产出\n\n直fo会回…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083759498066534400",
+        "conversation_id": "2084186952501436516",
+        "created_at": "2026-08-03T07:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084186952501436516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084186952501436516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "=ririnka（莉琳卡）2011.8.8🤍🩶🎶\n生理女 心理女 一切性向友好💞\n\n有心理相关疾病 一个没头脑的弱智小学生\n\n唯一属性 东方project伊吹萃香梦女\n\n此账号可能包含的内容：\n负能 血图 鬼图 梦向产出\n\n直fo会回 互fo欢迎🙇‍♀️🙇‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 476,
+          "like_count": 4941,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2483
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🎶🩶🤍",
+        "id": "2083759498066534400",
+        "name": "Ririnkachanwww",
+        "pinned_tweet_id": "2084186952501436516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083895695275409408/Ds3LksM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 111,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "Ririnkachan0808",
+        "verified": false
+      }
+    ]
+  }
+}

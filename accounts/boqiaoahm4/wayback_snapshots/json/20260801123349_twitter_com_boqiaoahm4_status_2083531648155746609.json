@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083530983706644968",
+    "created_at": "2026-08-01T12:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083531648155746609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781745564738281472",
+          "start": 0,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083531648155746609",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083530983706644968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stolly21_TG 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2083530965654376448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOowX85bEAAuu_H.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083530983706644968",
+        "created_at": "2026-08-01T12:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083531648155746609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083531648155746609",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083530983706644968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083530965654376448"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2083530983706644968",
+        "created_at": "2026-08-01T12:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083530983706644968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "fypシ"
+            },
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "jiraikei"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "量產"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRBM3pP4HS",
+              "end": 58,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2083530983706644968/photo/1",
+              "media_key": "3_2083530965654376448",
+              "start": 35,
+              "url": "https://t.co/PRBM3pP4HS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083530983706644968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "行了 是妈的错 #自撮り界隈 #fypシ #jiraikei #量產 https://t.co/PRBM3pP4HS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 448,
+          "like_count": 4554,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2357
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、鼻吸130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2081013860522148111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 264,
+          "like_count": 1762,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

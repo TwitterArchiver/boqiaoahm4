@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084228659662176564",
+    "created_at": "2026-08-03T11:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084246020293267737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1624202040489701377",
+          "start": 0,
+          "username": "XUHT_0512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084246020293267737",
+    "in_reply_to_user_id": "1624202040489701377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084245832723996753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUHT_0512 对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084228659662176564",
+        "created_at": "2026-08-03T11:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084246020293267737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1624202040489701377",
+              "start": 0,
+              "username": "XUHT_0512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084246020293267737",
+        "in_reply_to_user_id": "1624202040489701377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084245832723996753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUHT_0512 对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624202040489701377",
+        "conversation_id": "2084228659662176564",
+        "created_at": "2026-08-03T11:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084245832723996753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084245832723996753",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084228659662176564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 惨惨…你这是去了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 478,
+          "like_count": 5005,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T00:22:06.000Z",
+        "description": "天蝎座 enfp 二次元 欧美向\n生理男 性别男",
+        "id": "1624202040489701377",
+        "location": "外太空",
+        "name": "小馄饨",
+        "pinned_tweet_id": "2083865079934828884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083520375670046720/wt40Goa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 287,
+          "like_count": 2130,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 3123
+        },
+        "url": "",
+        "username": "XUHT_0512",
+        "verified": false
+      }
+    ]
+  }
+}

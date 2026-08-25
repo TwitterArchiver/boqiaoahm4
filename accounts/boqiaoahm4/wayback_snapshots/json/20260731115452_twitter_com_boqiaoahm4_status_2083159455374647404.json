@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083157722825183366",
+    "created_at": "2026-07-31T11:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083159455374647404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753310011034660864",
+          "start": 0,
+          "username": "wy6309431084097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083159455374647404",
+    "in_reply_to_user_id": "1753310011034660864",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083158175260508576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wy6309431084097 ivl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083157722825183366",
+        "created_at": "2026-07-31T11:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083159455374647404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753310011034660864",
+              "start": 0,
+              "username": "wy6309431084097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083159455374647404",
+        "in_reply_to_user_id": "1753310011034660864",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083158175260508576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wy6309431084097 ivl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753310011034660864",
+        "conversation_id": "2083157722825183366",
+        "created_at": "2026-07-31T11:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083158175260508576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083158175260508576",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083157722825183366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 啥比赛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 443,
+          "like_count": 4358,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T06:51:07.000Z",
+        "description": "嘿嘿",
+        "id": "1753310011034660864",
+        "location": "武汉",
+        "name": "源稚生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003558286163865600/fzZNbM8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 180,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "wy6309431084097",
+        "verified": false
+      }
+    ]
+  }
+}

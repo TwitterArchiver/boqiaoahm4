@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083503223537840128"
+      ],
+      "media_source_tweet_id": [
+        "2083503232459174093"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083506699751841970",
+    "created_at": "2026-08-01T10:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083506699751841970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013233628847980544",
+          "start": 3,
+          "username": "Asukai_Yuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nnyJyv3O1O",
+          "end": 51,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2083503232459174093/photo/1",
+          "media_key": "3_2083503223537840128",
+          "start": 28,
+          "url": "https://t.co/nnyJyv3O1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083506699751841970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083503232459174093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asukai_Yuki: ↑欢迎互关互转交友～ https://t.co/nnyJyv3O1O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083503223537840128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoXJJdasAAat1J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083503223537840128"
+          ]
+        },
+        "author_id": "2013233628847980544",
+        "conversation_id": "2083503232459174093",
+        "created_at": "2026-08-01T10:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083503232459174093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nnyJyv3O1O",
+              "end": 34,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083503232459174093/photo/1",
+              "media_key": "3_2083503223537840128",
+              "start": 11,
+              "url": "https://t.co/nnyJyv3O1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083503232459174093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "↑欢迎互关互转交友～ https://t.co/nnyJyv3O1O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083503223537840128"
+          ],
+          "media_source_tweet_id": [
+            "2083503232459174093"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083506699751841970",
+        "created_at": "2026-08-01T10:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083506699751841970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013233628847980544",
+              "start": 3,
+              "username": "Asukai_Yuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nnyJyv3O1O",
+              "end": 51,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083503232459174093/photo/1",
+              "media_key": "3_2083503223537840128",
+              "start": 28,
+              "url": "https://t.co/nnyJyv3O1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083506699751841970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083503232459174093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asukai_Yuki: ↑欢迎互关互转交友～ https://t.co/nnyJyv3O1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 447,
+          "like_count": 4528,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希/yuki | 🏳️‍⚧️🏳️‍🌈enby | 餐券女 | 天真的和感伤的吉他手 | 红色担当❤️ | 滚男oc | re0，昴公但是i昴草昴\n\n前世 @SUNSET_ROCK_\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVk9i"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "纯绿🚪52/99/150",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2083503232459174093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 252,
+          "like_count": 399,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 3232
+        },
+        "url": "https://t.co/1wmN2eVk9i",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

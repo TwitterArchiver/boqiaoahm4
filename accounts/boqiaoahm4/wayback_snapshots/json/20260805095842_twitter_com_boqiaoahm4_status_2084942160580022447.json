@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084659379371171841"
+      ],
+      "media_source_tweet_id": [
+        "2084659381950709838"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084942160580022447",
+    "created_at": "2026-08-05T09:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084942160580022447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1816056567009271812",
+          "start": 3,
+          "username": "xuanqi913254"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U9WLKUhT1b",
+          "end": 41,
+          "expanded_url": "https://x.com/xuanqi913254/status/2084659381950709838/photo/1",
+          "media_key": "3_2084659379371171841",
+          "start": 18,
+          "url": "https://t.co/U9WLKUhT1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084942160580022447",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084659381950709838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuanqi913254: https://t.co/U9WLKUhT1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 833,
+        "media_key": "3_2084659379371171841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4yqRka4AEP3c9.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084659379371171841"
+          ]
+        },
+        "author_id": "1816056567009271812",
+        "conversation_id": "2084659381950709838",
+        "created_at": "2026-08-04T15:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084659381950709838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9WLKUhT1b",
+              "end": 23,
+              "expanded_url": "https://x.com/xuanqi913254/status/2084659381950709838/photo/1",
+              "media_key": "3_2084659379371171841",
+              "start": 0,
+              "url": "https://t.co/U9WLKUhT1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084659381950709838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20369,
+          "like_count": 964,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/U9WLKUhT1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084659379371171841"
+          ],
+          "media_source_tweet_id": [
+            "2084659381950709838"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084942160580022447",
+        "created_at": "2026-08-05T09:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084942160580022447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1816056567009271812",
+              "start": 3,
+              "username": "xuanqi913254"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9WLKUhT1b",
+              "end": 41,
+              "expanded_url": "https://x.com/xuanqi913254/status/2084659381950709838/photo/1",
+              "media_key": "3_2084659379371171841",
+              "start": 18,
+              "url": "https://t.co/U9WLKUhT1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084942160580022447",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084659381950709838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuanqi913254: https://t.co/U9WLKUhT1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 484,
+          "like_count": 5327,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2624
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T10:23:32.000Z",
+        "description": "₍˄·͈༝·͈˄₎ฅ˒˒每天都好饿\nenfp双鱼",
+        "id": "1816056567009271812",
+        "name": "轻轻松松",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044097710404579329/UgokwSwF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 77,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "xuanqi913254",
+        "verified": false
+      }
+    ]
+  }
+}

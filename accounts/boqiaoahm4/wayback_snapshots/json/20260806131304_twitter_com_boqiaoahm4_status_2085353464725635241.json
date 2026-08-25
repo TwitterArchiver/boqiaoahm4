@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085272511319838720"
+      ],
+      "media_source_tweet_id": [
+        "2085272662696448292"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085353464725635241",
+    "created_at": "2026-08-06T13:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085353464725635241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047894021457211393",
+          "start": 3,
+          "username": "FanQie_QianQian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OYykoPGjRu",
+          "end": 80,
+          "expanded_url": "https://x.com/FanQie_QianQian/status/2085272662696448292/photo/1",
+          "media_key": "3_2085272511319838720",
+          "start": 57,
+          "url": "https://t.co/OYykoPGjRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085353464725635241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085272662696448292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FanQie_QianQian: 哭了，，这么逆天的东西还有谁想得出来😍😍😍😡😡😡🐱🐱🐱💞💞💞🥵🥵🥵🍆🍆 https://t.co/OYykoPGjRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085272511319838720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBgTQEbEAApCEO.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085272511319838720"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2085272662696448292",
+        "created_at": "2026-08-06T07:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085272662696448292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYykoPGjRu",
+              "end": 59,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2085272662696448292/photo/1",
+              "media_key": "3_2085272511319838720",
+              "start": 36,
+              "url": "https://t.co/OYykoPGjRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085272662696448292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 851,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哭了，，这么逆天的东西还有谁想得出来😍😍😍😡😡😡🐱🐱🐱💞💞💞🥵🥵🥵🍆🍆 https://t.co/OYykoPGjRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085272511319838720"
+          ],
+          "media_source_tweet_id": [
+            "2085272662696448292"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085353464725635241",
+        "created_at": "2026-08-06T13:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085353464725635241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047894021457211393",
+              "start": 3,
+              "username": "FanQie_QianQian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYykoPGjRu",
+              "end": 80,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2085272662696448292/photo/1",
+              "media_key": "3_2085272511319838720",
+              "start": 57,
+              "url": "https://t.co/OYykoPGjRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085353464725635241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085272662696448292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FanQie_QianQian: 哭了，，这么逆天的东西还有谁想得出来😍😍😍😡😡😡🐱🐱🐱💞💞💞🥵🥵🥵🍆🍆 https://t.co/OYykoPGjRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 506,
+          "like_count": 5553,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2702
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀侄子@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "location": "你看看你身后",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 77,
+          "like_count": 5901,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

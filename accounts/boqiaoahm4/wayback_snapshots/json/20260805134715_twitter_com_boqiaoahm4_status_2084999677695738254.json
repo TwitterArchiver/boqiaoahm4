@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084945454324937027",
+    "created_at": "2026-08-05T13:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084999677695738254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "417165222",
+          "start": 0,
+          "username": "neginegi555"
+        },
+        {
+          "end": 23,
+          "id": "1276148275175755776",
+          "start": 13,
+          "username": "Haokuno_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084999677695738254",
+    "in_reply_to_user_id": "417165222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084992373042655269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neginegi555 @Haokuno_0 我刚洗完。已经死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084945454324937027",
+        "created_at": "2026-08-05T13:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084999677695738254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "417165222",
+              "start": 0,
+              "username": "neginegi555"
+            },
+            {
+              "end": 23,
+              "id": "1276148275175755776",
+              "start": 13,
+              "username": "Haokuno_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084999677695738254",
+        "in_reply_to_user_id": "417165222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084992373042655269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neginegi555 @Haokuno_0 我刚洗完。已经死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "417165222",
+        "conversation_id": "2084945454324937027",
+        "created_at": "2026-08-05T13:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084992373042655269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            },
+            {
+              "end": 22,
+              "id": "2057425772198215680",
+              "start": 11,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084992373042655269",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084954257598599609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 @boqiaoahm4 洗一个头，少半条命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 488,
+          "like_count": 5375,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2639
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-20T16:21:07.000Z",
+        "description": "Ascetic/ロリィタ、生粋なAtelier BOZ信者/機器保守系/レトロPC＆コンソール色々所有/プロの通訳🇯🇵🇨🇳/IHIレベルの重加工  欲しい物https://t.co/77Lf8ktueT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/3Qf51",
+                "end": 101,
+                "expanded_url": "https://x.gd/3Qf51",
+                "start": 78,
+                "url": "https://t.co/77Lf8ktueT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neginegi555",
+                "end": 23,
+                "expanded_url": "https://lit.link/neginegi555",
+                "start": 0,
+                "url": "https://t.co/8EFYvOChfP"
+              }
+            ]
+          }
+        },
+        "id": "417165222",
+        "location": "ブラウン管の妖精(耐圧200VAC)",
+        "name": "鴨川ネギ (⃔ *`꒳´ * )⃕↝🖤",
+        "pinned_tweet_id": "2073094025075404877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990001618348281857/Xy4_081k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 775,
+          "like_count": 16997,
+          "listed_count": 25,
+          "media_count": 3449,
+          "tweet_count": 11021
+        },
+        "url": "https://t.co/8EFYvOChfP",
+        "username": "neginegi555",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "07 ENFP-T\n@Yeyuxiao_0\nfo你就是对你感兴趣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Yeyuxiao_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Yeyuxiaoxiao",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/Yeyuxiaoxiao",
+                "start": 0,
+                "url": "https://t.co/d0TPy59UeT"
+              }
+            ]
+          }
+        },
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2034294107699302775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065429984706256897/ba0I-yOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 120,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/d0TPy59UeT",
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

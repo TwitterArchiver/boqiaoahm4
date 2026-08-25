@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077734461324873729"
+      ],
+      "media_source_tweet_id": [
+        "2077734478622191629"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078012938074698202",
+    "created_at": "2026-07-17T07:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078012938074698202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1208815997815160832",
+          "start": 3,
+          "username": "caomeirousong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SyOtG3g0Im",
+          "end": 50,
+          "expanded_url": "https://x.com/caomeirousong/status/2077734478622191629/photo/1",
+          "media_key": "3_2077734461324873729",
+          "start": 27,
+          "url": "https://t.co/SyOtG3g0Im"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078012938074698202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077734478622191629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caomeirousong: 萌啊 好耶！！ https://t.co/SyOtG3g0Im"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_2077734461324873729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWYe_jbUAEeprv.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077734461324873729"
+          ]
+        },
+        "author_id": "1208815997815160832",
+        "conversation_id": "2077734478622191629",
+        "created_at": "2026-07-16T12:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077734478622191629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyOtG3g0Im",
+              "end": 31,
+              "expanded_url": "https://x.com/caomeirousong/status/2077734478622191629/photo/1",
+              "media_key": "3_2077734461324873729",
+              "start": 8,
+              "url": "https://t.co/SyOtG3g0Im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077734478622191629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1640,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "萌啊 好耶！！ https://t.co/SyOtG3g0Im"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077734461324873729"
+          ],
+          "media_source_tweet_id": [
+            "2077734478622191629"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078012938074698202",
+        "created_at": "2026-07-17T07:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078012938074698202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1208815997815160832",
+              "start": 3,
+              "username": "caomeirousong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyOtG3g0Im",
+              "end": 50,
+              "expanded_url": "https://x.com/caomeirousong/status/2077734478622191629/photo/1",
+              "media_key": "3_2077734461324873729",
+              "start": 27,
+              "url": "https://t.co/SyOtG3g0Im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078012938074698202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077734478622191629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caomeirousong: 萌啊 好耶！！ https://t.co/SyOtG3g0Im"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 451,
+          "like_count": 4088,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-22T18:26:24.000Z",
+        "description": "中文 EN INA 日本語 ok | 第五人格 鸣潮 IDV WuWa | Watch idv comp | Heavy RT+ casual translations for fun | 莫问前程莫回首 巍然驻守誓骄阳 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caomeirousong.straw.page",
+                "end": 23,
+                "expanded_url": "https://caomeirousong.straw.page",
+                "start": 0,
+                "url": "https://t.co/XpFAmc1crI"
+              }
+            ]
+          }
+        },
+        "id": "1208815997815160832",
+        "name": "🍓",
+        "pinned_tweet_id": "2071517225757102581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071892139106062337/mejBK4Qi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 1078,
+          "like_count": 16823,
+          "listed_count": 0,
+          "media_count": 963,
+          "tweet_count": 4576
+        },
+        "url": "https://t.co/XpFAmc1crI",
+        "username": "caomeirousong",
+        "verified": false
+      }
+    ]
+  }
+}

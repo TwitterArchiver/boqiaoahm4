@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078411525669466281",
+    "created_at": "2026-07-18T17:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078529786469896392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914766734420279296",
+          "start": 0,
+          "username": "yangtao1729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078529786469896392",
+    "in_reply_to_user_id": "1914766734420279296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078524424970748165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangtao1729 （拾取"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078411525669466281",
+        "created_at": "2026-07-18T17:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078529786469896392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914766734420279296",
+              "start": 0,
+              "username": "yangtao1729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078529786469896392",
+        "in_reply_to_user_id": "1914766734420279296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078524424970748165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangtao1729 （拾取"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914766734420279296",
+        "conversation_id": "2078411525669466281",
+        "created_at": "2026-07-18T16:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078524424970748165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078524424970748165",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078411525669466281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 🥺（不死图腾）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 445,
+          "like_count": 4293,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T19:42:30.000Z",
+        "description": "♂男        永远的@XiShangguan    \n                               我是坏人 。我好像不太会介绍自己呢                                      我大哥@yangtao1708 @yangtao0111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "XiShangguan"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "yangtao1708"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "yangtao0111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangtao1729",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangtao1729",
+                "start": 0,
+                "url": "https://t.co/MjsQHi05n5"
+              }
+            ]
+          }
+        },
+        "id": "1914766734420279296",
+        "location": "下界",
+        "name": "白骑士与刺玫瑰",
+        "pinned_tweet_id": "2073826544494244162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 281,
+          "like_count": 21816,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 10434
+        },
+        "url": "https://t.co/MjsQHi05n5",
+        "username": "yangtao1729",
+        "verified": false
+      }
+    ]
+  }
+}

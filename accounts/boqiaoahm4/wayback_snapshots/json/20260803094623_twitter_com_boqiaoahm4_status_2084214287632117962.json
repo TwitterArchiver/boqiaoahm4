@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084214287632117962",
+    "created_at": "2026-08-03T09:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084214287632117962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wowyouzhi/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/wowyouzhi/status/2084199831237808186",
+          "start": 11,
+          "url": "https://t.co/PD4oB3hlpf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084214287632117962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084199831237808186",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是全世界最幸运的人 https://t.co/PD4oB3hlpf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_2084199824036114432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyQsoiasAAgL7S.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084214287632117962",
+        "created_at": "2026-08-03T09:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084214287632117962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wowyouzhi/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/wowyouzhi/status/2084199831237808186",
+              "start": 11,
+              "url": "https://t.co/PD4oB3hlpf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084214287632117962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084199831237808186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是全世界最幸运的人 https://t.co/PD4oB3hlpf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084199824036114432"
+          ]
+        },
+        "author_id": "1881351051988934656",
+        "conversation_id": "2084199831237808186",
+        "created_at": "2026-08-03T08:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084199831237808186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NJHYdeJ0OW",
+              "end": 29,
+              "expanded_url": "https://x.com/wowyouzhi/status/2084199831237808186/photo/1",
+              "media_key": "3_2084199824036114432",
+              "start": 6,
+              "url": "https://t.co/NJHYdeJ0OW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084199831237808186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "柠檬水开了 https://t.co/NJHYdeJ0OW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 476,
+          "like_count": 4974,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2498
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T14:40:38.000Z",
+        "description": "只是一具尸体。一个乐子餐券逼 od 自傷 喜欢直fo。只回关同类会查成分。非常焦虑。",
+        "id": "1881351051988934656",
+        "name": "与诗。 月",
+        "pinned_tweet_id": "2059998950590202264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015855876062814208/oFfueUcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 125,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "wowyouzhi",
+        "verified": false
+      }
+    ]
+  }
+}

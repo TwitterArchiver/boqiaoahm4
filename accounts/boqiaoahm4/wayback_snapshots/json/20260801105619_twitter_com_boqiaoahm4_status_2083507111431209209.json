@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083496176469590016",
+        "3_2083496176473849856",
+        "3_2083496176486395905",
+        "3_2083496176473776128"
+      ],
+      "media_source_tweet_id": [
+        "2083496195906027882",
+        "2083496195906027882",
+        "2083496195906027882",
+        "2083496195906027882"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083507111431209209",
+    "created_at": "2026-08-01T10:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083507111431209209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063285995487834112",
+          "start": 3,
+          "username": "HarukoKazama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DnfiHJsBgg",
+          "end": 105,
+          "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+          "media_key": "3_2083496176469590016",
+          "start": 82,
+          "url": "https://t.co/DnfiHJsBgg"
+        },
+        {
+          "display_url": "pic.x.com/DnfiHJsBgg",
+          "end": 105,
+          "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+          "media_key": "3_2083496176473849856",
+          "start": 82,
+          "url": "https://t.co/DnfiHJsBgg"
+        },
+        {
+          "display_url": "pic.x.com/DnfiHJsBgg",
+          "end": 105,
+          "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+          "media_key": "3_2083496176486395905",
+          "start": 82,
+          "url": "https://t.co/DnfiHJsBgg"
+        },
+        {
+          "display_url": "pic.x.com/DnfiHJsBgg",
+          "end": 105,
+          "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+          "media_key": "3_2083496176473776128",
+          "start": 82,
+          "url": "https://t.co/DnfiHJsBgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083507111431209209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083496195906027882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HarukoKazama: about me\n=鹤露\n10-06-03\n在我的账号你会看到：\n意义不明的自拍 大量的负能 乞讨\n让我们一起愉快地玩耍吧：) https://t.co/DnfiHJsBgg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2083496176469590016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoQu9FawAAKNRf.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083496176473849856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoQu9GbwAAlmd4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2083496176486395905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoQu9JbMAERBAV.jpg",
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083496176473776128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoQu9GaoAAmHrS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083496176469590016",
+            "3_2083496176473849856",
+            "3_2083496176486395905",
+            "3_2083496176473776128"
+          ]
+        },
+        "author_id": "2063285995487834112",
+        "conversation_id": "2083496195906027882",
+        "created_at": "2026-08-01T10:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083496195906027882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnfiHJsBgg",
+              "end": 87,
+              "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+              "media_key": "3_2083496176469590016",
+              "start": 64,
+              "url": "https://t.co/DnfiHJsBgg"
+            },
+            {
+              "display_url": "pic.x.com/DnfiHJsBgg",
+              "end": 87,
+              "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+              "media_key": "3_2083496176473849856",
+              "start": 64,
+              "url": "https://t.co/DnfiHJsBgg"
+            },
+            {
+              "display_url": "pic.x.com/DnfiHJsBgg",
+              "end": 87,
+              "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+              "media_key": "3_2083496176486395905",
+              "start": 64,
+              "url": "https://t.co/DnfiHJsBgg"
+            },
+            {
+              "display_url": "pic.x.com/DnfiHJsBgg",
+              "end": 87,
+              "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+              "media_key": "3_2083496176473776128",
+              "start": 64,
+              "url": "https://t.co/DnfiHJsBgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083496195906027882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "about me\n=鹤露\n10-06-03\n在我的账号你会看到：\n意义不明的自拍 大量的负能 乞讨\n让我们一起愉快地玩耍吧：) https://t.co/DnfiHJsBgg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083496176469590016",
+            "3_2083496176473849856",
+            "3_2083496176486395905",
+            "3_2083496176473776128"
+          ],
+          "media_source_tweet_id": [
+            "2083496195906027882",
+            "2083496195906027882",
+            "2083496195906027882",
+            "2083496195906027882"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083507111431209209",
+        "created_at": "2026-08-01T10:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083507111431209209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063285995487834112",
+              "start": 3,
+              "username": "HarukoKazama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnfiHJsBgg",
+              "end": 105,
+              "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+              "media_key": "3_2083496176469590016",
+              "start": 82,
+              "url": "https://t.co/DnfiHJsBgg"
+            },
+            {
+              "display_url": "pic.x.com/DnfiHJsBgg",
+              "end": 105,
+              "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+              "media_key": "3_2083496176473849856",
+              "start": 82,
+              "url": "https://t.co/DnfiHJsBgg"
+            },
+            {
+              "display_url": "pic.x.com/DnfiHJsBgg",
+              "end": 105,
+              "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+              "media_key": "3_2083496176486395905",
+              "start": 82,
+              "url": "https://t.co/DnfiHJsBgg"
+            },
+            {
+              "display_url": "pic.x.com/DnfiHJsBgg",
+              "end": 105,
+              "expanded_url": "https://x.com/HarukoKazama/status/2083496195906027882/photo/1",
+              "media_key": "3_2083496176473776128",
+              "start": 82,
+              "url": "https://t.co/DnfiHJsBgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083507111431209209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083496195906027882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HarukoKazama: about me\n=鹤露\n10-06-03\n在我的账号你会看到：\n意义不明的自拍 大量的负能 乞讨\n让我们一起愉快地玩耍吧：) https://t.co/DnfiHJsBgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 447,
+          "like_count": 4531,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2340
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T15:46:06.000Z",
+        "description": "叫我鹤露吧\n发自己想发的 专注自己的唐逼生活\n这是我第三个号了再炸我就永远不玩推特了",
+        "id": "2063285995487834112",
+        "name": "鹤露HLu",
+        "pinned_tweet_id": "2083496195906027882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063628234990784512/nICaAXTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "HarukoKazama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085056601736761568",
+    "created_at": "2026-08-05T18:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085068472934084734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055365812660133888",
+          "start": 0,
+          "username": "toskamxkl8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085068472934084734",
+    "in_reply_to_user_id": "2055365812660133888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085060168362995912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toskamxkl8964 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085056601736761568",
+        "created_at": "2026-08-05T18:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085068472934084734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055365812660133888",
+              "start": 0,
+              "username": "toskamxkl8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085068472934084734",
+        "in_reply_to_user_id": "2055365812660133888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085060168362995912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toskamxkl8964 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2085056601736761568",
+        "created_at": "2026-08-05T17:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085060168362995912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085060168362995912",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085056601736761568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 刚刚在干什么自己心里清楚😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 495,
+          "like_count": 5418,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2655
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 133,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false
+      }
+    ]
+  }
+}

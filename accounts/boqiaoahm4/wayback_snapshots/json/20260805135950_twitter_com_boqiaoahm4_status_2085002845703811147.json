@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084960975468548583",
+    "created_at": "2026-08-05T13:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085002845703811147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653810564857049107",
+          "start": 0,
+          "username": "anke98105278135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085002845703811147",
+    "in_reply_to_user_id": "1653810564857049107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085000209176862934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anke98105278135 我吃着不会这两个联用超鸡巴爽我自己体感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084960975468548583",
+        "created_at": "2026-08-05T13:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085002845703811147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653810564857049107",
+              "start": 0,
+              "username": "anke98105278135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085002845703811147",
+        "in_reply_to_user_id": "1653810564857049107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085000209176862934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anke98105278135 我吃着不会这两个联用超鸡巴爽我自己体感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653810564857049107",
+        "conversation_id": "2084960975468548583",
+        "created_at": "2026-08-05T13:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085000209176862934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085000209176862934",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085000034110890049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 话说pr和ym会相冲吗，，，ym窒息感好爽，，😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 488,
+          "like_count": 5375,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T17:16:21.000Z",
+        "description": "ok//只是一个无性别的草履虫智障儿童",
+        "id": "1653810564857049107",
+        "name": "usaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081690854909988864/vDVmEhZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 658,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "anke98105278135",
+        "verified": false
+      }
+    ]
+  }
+}

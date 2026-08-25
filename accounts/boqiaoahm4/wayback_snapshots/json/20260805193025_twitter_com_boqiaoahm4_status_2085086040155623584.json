@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085056601736761568",
+    "created_at": "2026-08-05T19:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085086040155623584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2076656512609533952",
+          "start": 0,
+          "username": "fufaoekizoti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085086040155623584",
+    "in_reply_to_user_id": "2076656512609533952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085075603921805736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufaoekizoti 我好伤心但是没有人屌我 然后我就骚扰机器人 人活成这样还不如死了。我马上要自杀了你能不能免费给我一次呀 我是处男哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085056601736761568",
+        "created_at": "2026-08-05T19:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085086040155623584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2076656512609533952",
+              "start": 0,
+              "username": "fufaoekizoti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085086040155623584",
+        "in_reply_to_user_id": "2076656512609533952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085075603921805736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufaoekizoti 我好伤心但是没有人屌我 然后我就骚扰机器人 人活成这样还不如死了。我马上要自杀了你能不能免费给我一次呀 我是处男哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076656512609533952",
+        "conversation_id": "2085056601736761568",
+        "created_at": "2026-08-05T18:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085075603921805736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085075603921805736",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085056601736761568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 应该没人比我玩的开了吧🛵🤗我福不黑不信你看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 496,
+          "like_count": 5436,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2665
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T13:15:04.000Z",
+        "description": "05女大同城兼职 本人aiai照片都在✈ 喝🍵可以深入哟\n\n同🅾️城💌上🍟椚~下方👇👇可联系✈：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixi807",
+                "end": 23,
+                "expanded_url": "http://t.me/xixi807",
+                "start": 0,
+                "url": "https://t.co/msQ8ZeE4jl"
+              }
+            ]
+          }
+        },
+        "id": "2076656512609533952",
+        "location": "距离2.5km👉✈",
+        "name": "蔡筠🌸同城上门♥线下选妃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085075608095092737/0FASxS3Y_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/msQ8ZeE4jl",
+        "username": "fufaoekizoti",
+        "verified": false
+      }
+    ]
+  }
+}

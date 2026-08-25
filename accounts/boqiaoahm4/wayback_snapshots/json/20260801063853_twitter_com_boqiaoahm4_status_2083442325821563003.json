@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083273907759616485",
+    "created_at": "2026-08-01T06:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083442325821563003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929070811241132032",
+          "start": 0,
+          "username": "GGGisena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083442325821563003",
+    "in_reply_to_user_id": "1929070811241132032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083273907759616485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGGisena 好帅\\(//∇//)\\"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083273898343448576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlGkqiawAAwVym.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083273907759616485",
+        "created_at": "2026-08-01T06:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083442325821563003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929070811241132032",
+              "start": 0,
+              "username": "GGGisena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083442325821563003",
+        "in_reply_to_user_id": "1929070811241132032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083273907759616485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGGisena 好帅\\(//∇//)\\"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083273898343448576"
+          ]
+        },
+        "author_id": "1929070811241132032",
+        "conversation_id": "2083273907759616485",
+        "created_at": "2026-07-31T19:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083273907759616485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0ZxwE8j36",
+              "end": 28,
+              "expanded_url": "https://x.com/GGGisena/status/2083273907759616485/photo/1",
+              "media_key": "3_2083273898343448576",
+              "start": 5,
+              "url": "https://t.co/v0ZxwE8j36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083273907759616485",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "meee https://t.co/v0ZxwE8j36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 449,
+          "like_count": 4432,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2322
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T07:01:45.000Z",
+        "description": "ElleNg｜11年｜同类直fo｜餐卷｜o割🚬｜我宝贝@ekj5615",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "ekj5615"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EllasSpace",
+                "end": 23,
+                "expanded_url": "https://t.me/EllasSpace",
+                "start": 0,
+                "url": "https://t.co/WJ0xroFVDc"
+              }
+            ]
+          }
+        },
+        "id": "1929070811241132032",
+        "location": "my home",
+        "name": "Ellaaa",
+        "pinned_tweet_id": "2062946570027536455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023700218359808/8hKMQX9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 204,
+          "like_count": 667,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/WJ0xroFVDc",
+        "username": "GGGisena",
+        "verified": false
+      }
+    ]
+  }
+}

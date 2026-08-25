@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084584186460197186",
+    "created_at": "2026-08-04T10:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084586411454603690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "877473366684221440",
+          "start": 0,
+          "username": "083001c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084586411454603690",
+    "in_reply_to_user_id": "877473366684221440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084584705454997920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@083001c1 喜欢你🥺！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084584186460197186",
+        "created_at": "2026-08-04T10:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084586411454603690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "877473366684221440",
+              "start": 0,
+              "username": "083001c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084586411454603690",
+        "in_reply_to_user_id": "877473366684221440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084584705454997920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@083001c1 喜欢你🥺！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "877473366684221440",
+        "conversation_id": "2084584186460197186",
+        "created_at": "2026-08-04T10:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084584705454997920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084584705454997920",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084584186460197186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 477,
+          "like_count": 5149,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-21T10:28:48.000Z",
+        "description": "💊/🔪/同类互fo(:3っ )っ\n可以叫我奥七\n\n*私信功能无法使用，联系可评论区问我邮箱\n防炸小号@KrishnaBha9e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "KrishnaBha9e"
+              }
+            ]
+          }
+        },
+        "id": "877473366684221440",
+        "name": "O seven (3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083290018194558976/iHyUhoSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 82,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "083001c1",
+        "verified": false
+      }
+    ]
+  }
+}

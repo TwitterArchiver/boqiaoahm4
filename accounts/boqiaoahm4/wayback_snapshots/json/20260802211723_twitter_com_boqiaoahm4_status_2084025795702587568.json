@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084025347285430543",
+    "created_at": "2026-08-02T21:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T22:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084025795702587568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083759498066534400",
+          "start": 0,
+          "username": "Ririnkachan0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084025795702587568",
+    "in_reply_to_user_id": "2083759498066534400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084025672163594660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririnkachan0808 开次开次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084025347285430543",
+        "created_at": "2026-08-02T21:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084025795702587568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083759498066534400",
+              "start": 0,
+              "username": "Ririnkachan0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084025795702587568",
+        "in_reply_to_user_id": "2083759498066534400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084025672163594660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririnkachan0808 开次开次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083759498066534400",
+        "conversation_id": "2084025347285430543",
+        "created_at": "2026-08-02T21:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084025672163594660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084025672163594660",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084025347285430543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 爽爽爽呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 475,
+          "like_count": 4882,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🎶🩶🤍",
+        "id": "2083759498066534400",
+        "name": "Ririnkachanwww",
+        "pinned_tweet_id": "2084023425446928452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083895695275409408/Ds3LksM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 88,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Ririnkachan0808",
+        "verified": false
+      }
+    ]
+  }
+}

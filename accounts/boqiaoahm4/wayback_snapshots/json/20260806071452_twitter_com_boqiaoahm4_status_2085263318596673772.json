@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085263318596673772",
+    "created_at": "2026-08-06T07:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085263318596673772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2085173242814451712",
+          "start": 3,
+          "username": "yuda4_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085263318596673772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085175227345240083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuda4_8964: 我的号好像又挂了  不能关注不能点赞不能发帖  但是我能转帖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085263318596673772",
+        "created_at": "2026-08-06T07:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085263318596673772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2085173242814451712",
+              "start": 3,
+              "username": "yuda4_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085263318596673772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085175227345240083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuda4_8964: 我的号好像又挂了  不能关注不能点赞不能发帖  但是我能转帖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085173242814451712",
+        "conversation_id": "2085175227345240083",
+        "created_at": "2026-08-06T01:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085175227345240083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085175227345240083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我的号好像又挂了  不能关注不能点赞不能发帖  但是我能转帖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 501,
+          "like_count": 5460,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2672
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-06T01:20:17.000Z",
+        "description": "欧金金：@yuda3_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "yuda3_8964"
+              }
+            ]
+          }
+        },
+        "id": "2085173242814451712",
+        "location": "太平洋",
+        "name": "𝖞𝖚𝖉𝖆،梦想死了🏴‍☠️四代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085174857097150464/Dke2R4rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "yuda4_8964",
+        "verified": false
+      }
+    ]
+  }
+}

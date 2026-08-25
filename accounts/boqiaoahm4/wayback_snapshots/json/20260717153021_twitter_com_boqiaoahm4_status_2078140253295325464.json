@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078140243249872896"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078140253295325464",
+    "created_at": "2026-07-17T15:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078140253295325464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lzAD4CBDzA",
+          "end": 29,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2078140253295325464/photo/1",
+          "media_key": "3_2078140243249872896",
+          "start": 6,
+          "url": "https://t.co/lzAD4CBDzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078140253295325464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舒服者耍起 https://t.co/lzAD4CBDzA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078140243249872896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcJinBaQAABsrI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078140243249872896"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078140253295325464",
+        "created_at": "2026-07-17T15:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078140253295325464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzAD4CBDzA",
+              "end": 29,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2078140253295325464/photo/1",
+              "media_key": "3_2078140243249872896",
+              "start": 6,
+              "url": "https://t.co/lzAD4CBDzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078140253295325464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舒服者耍起 https://t.co/lzAD4CBDzA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 450,
+          "like_count": 4141,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2221
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

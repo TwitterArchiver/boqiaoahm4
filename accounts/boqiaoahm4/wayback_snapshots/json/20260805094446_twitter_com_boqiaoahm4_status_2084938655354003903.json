@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2084879441411620864"
+      ],
+      "media_source_tweet_id": [
+        "2084879464182501831"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084938655354003903",
+    "created_at": "2026-08-05T09:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084938655354003903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1445485597259304961",
+          "start": 3,
+          "username": "kwangyawalking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wqzn3XoSbx",
+          "end": 60,
+          "expanded_url": "https://x.com/kwangyawalking/status/2084879464182501831/video/1",
+          "media_key": "7_2084879441411620864",
+          "start": 37,
+          "url": "https://t.co/wqzn3XoSbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084938655354003903",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3640
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084879464182501831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kwangyawalking: 집갈때 다이소에서 줄넘기 사감 https://t.co/wqzn3XoSbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13033,
+        "height": 852,
+        "media_key": "7_2084879441411620864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084879441411620864/pu/img/3Si8HyEVf91drOR6.jpg",
+        "public_metrics": {
+          "view_count": 100281
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084879441411620864/pu/vid/avc1/320x378/mB42LsVEVifGj492.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084879441411620864/pu/vid/avc1/480x568/X8ScQJX5mqDwdB1R.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084879441411620864/pu/vid/avc1/720x852/Kkwpmpncepi2QpBR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084879441411620864/pu/pl/Ecu63f8H5-V278Mv.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084879441411620864"
+          ]
+        },
+        "author_id": "1445485597259304961",
+        "conversation_id": "2084879464182501831",
+        "created_at": "2026-08-05T05:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084879464182501831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqzn3XoSbx",
+              "end": 40,
+              "expanded_url": "https://x.com/kwangyawalking/status/2084879464182501831/video/1",
+              "media_key": "7_2084879441411620864",
+              "start": 17,
+              "url": "https://t.co/wqzn3XoSbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084879464182501831",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 948,
+          "impression_count": 263997,
+          "like_count": 7328,
+          "quote_count": 315,
+          "reply_count": 3,
+          "retweet_count": 3640
+        },
+        "reply_settings": "everyone",
+        "text": "집갈때 다이소에서 줄넘기 사감 https://t.co/wqzn3XoSbx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084879441411620864"
+          ],
+          "media_source_tweet_id": [
+            "2084879464182501831"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084938655354003903",
+        "created_at": "2026-08-05T09:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084938655354003903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1445485597259304961",
+              "start": 3,
+              "username": "kwangyawalking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqzn3XoSbx",
+              "end": 60,
+              "expanded_url": "https://x.com/kwangyawalking/status/2084879464182501831/video/1",
+              "media_key": "7_2084879441411620864",
+              "start": 37,
+              "url": "https://t.co/wqzn3XoSbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084938655354003903",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3640
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084879464182501831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kwangyawalking: 집갈때 다이소에서 줄넘기 사감 https://t.co/wqzn3XoSbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 484,
+          "like_count": 5307,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2617
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T20:26:46.000Z",
+        "description": "내게 허락된 건 힘겹기만한 거친 잼젠이라해도",
+        "id": "1445485597259304961",
+        "location": "나뭇잎마을",
+        "name": "닌자밥팅",
+        "pinned_tweet_id": "1677351198909931521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970880718734569472/z1I0TJWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19612,
+          "following_count": 190,
+          "like_count": 6847,
+          "listed_count": 9,
+          "media_count": 10349,
+          "tweet_count": 16084
+        },
+        "url": "",
+        "username": "kwangyawalking",
+        "verified": false
+      }
+    ]
+  }
+}

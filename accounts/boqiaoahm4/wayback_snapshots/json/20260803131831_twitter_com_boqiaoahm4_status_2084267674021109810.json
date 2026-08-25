@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084231710766727429",
+    "created_at": "2026-08-03T13:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084267674021109810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1976887419841695744",
+          "start": 0,
+          "username": "Kage_QwQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084267674021109810",
+    "in_reply_to_user_id": "1976887419841695744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084267485122224455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kage_QwQ_ 好哦！(｡ì _ í｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084231710766727429",
+        "created_at": "2026-08-03T13:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084267674021109810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1976887419841695744",
+              "start": 0,
+              "username": "Kage_QwQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084267674021109810",
+        "in_reply_to_user_id": "1976887419841695744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084267485122224455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kage_QwQ_ 好哦！(｡ì _ í｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976887419841695744",
+        "conversation_id": "2084231710766727429",
+        "created_at": "2026-08-03T13:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084267485122224455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084267485122224455",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084231710766727429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 好勇敢呀，我看到就偷偷翻白眼，我可害怕遇到超雄给我打一顿我操，，当年看到唐山烧烤店打人事件给我留下点阴影吧..嗯总之宝宝记得保护好自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 478,
+          "like_count": 5026,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2526
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T05:48:06.000Z",
+        "description": "Two other mes： @Epekeina_  @MomijiQAQ\n#shtwt\n💚🚪188",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "Epekeina_"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "MomijiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1976887419841695744",
+        "location": "⚰️",
+        "name": "Kage",
+        "pinned_tweet_id": "2080850389365391373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976887511948632064/s-ZYyZW7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 89,
+          "like_count": 1429,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "Kage_QwQ_",
+        "verified": false
+      }
+    ]
+  }
+}

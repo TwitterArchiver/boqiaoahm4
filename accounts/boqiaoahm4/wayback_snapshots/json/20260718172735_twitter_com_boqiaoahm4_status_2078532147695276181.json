@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078532147695276181",
+    "created_at": "2026-07-18T17:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078532147695276181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913397698490957824",
+          "start": 3,
+          "username": "77rxmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078532147695276181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078455883999404208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77rxmb: 我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078532147695276181",
+        "created_at": "2026-07-18T17:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078532147695276181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913397698490957824",
+              "start": 3,
+              "username": "77rxmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078532147695276181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078455883999404208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77rxmb: 我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913397698490957824",
+        "conversation_id": "2078455883999404208",
+        "created_at": "2026-07-18T12:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078455883999404208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078455883999404208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9117,
+          "like_count": 268,
+          "quote_count": 2,
+          "reply_count": 75,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 445,
+          "like_count": 4305,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T01:02:23.000Z",
+        "description": "x",
+        "id": "1913397698490957824",
+        "location": "中国",
+        "name": "7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075225046457757696/fKg3IzQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 2,
+          "like_count": 479,
+          "listed_count": 9,
+          "media_count": 24,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "77rxmb",
+        "verified": false
+      }
+    ]
+  }
+}

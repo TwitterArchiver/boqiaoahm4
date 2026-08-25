@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083079464154779831",
+    "created_at": "2026-08-01T05:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083418819901681958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056401506791026689",
+          "start": 0,
+          "username": "entivv14xiRcrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083418819901681958",
+    "in_reply_to_user_id": "2056401506791026689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083363449661227094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@entivv14xiRcrd 法克"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083079464154779831",
+        "created_at": "2026-08-01T05:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083418819901681958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056401506791026689",
+              "start": 0,
+              "username": "entivv14xiRcrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083418819901681958",
+        "in_reply_to_user_id": "2056401506791026689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083363449661227094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@entivv14xiRcrd 法克"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056401506791026689",
+        "conversation_id": "2083079464154779831",
+        "created_at": "2026-08-01T01:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083363449661227094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083363449661227094",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083079464154779831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 我的法克"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 444,
+          "like_count": 4403,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2312
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T15:49:48.000Z",
+        "description": "我喜欢温柔的人 同类来和我互fo呀\n🐼我喜欢熊猫～\n来匿名提问我👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entivv14xirxrd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/entivv14xirxrd",
+                "start": 0,
+                "url": "https://t.co/xm6SjMmQ1w"
+              }
+            ]
+          }
+        },
+        "id": "2056401506791026689",
+        "location": "春",
+        "name": "なみだ",
+        "pinned_tweet_id": "2081402299138642347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081919388576256000/ZAVQZjaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 82,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/xm6SjMmQ1w",
+        "username": "entivv14xiRcrd",
+        "verified": false
+      }
+    ]
+  }
+}

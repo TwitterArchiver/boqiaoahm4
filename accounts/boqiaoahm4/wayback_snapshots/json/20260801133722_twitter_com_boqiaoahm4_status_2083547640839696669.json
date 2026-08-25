@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083547640839696669",
+    "created_at": "2026-08-01T13:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083547640839696669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738601198507487232",
+          "start": 3,
+          "username": "Fantaytut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083547640839696669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083175891052442087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Fantaytut: 我不是故意出轨的，我只是需要陪伴，但你总是不理我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083547640839696669",
+        "created_at": "2026-08-01T13:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083547640839696669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738601198507487232",
+              "start": 3,
+              "username": "Fantaytut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083547640839696669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083175891052442087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Fantaytut: 我不是故意出轨的，我只是需要陪伴，但你总是不理我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738601198507487232",
+        "conversation_id": "2083175891052442087",
+        "created_at": "2026-07-31T13:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083175891052442087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083175891052442087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17030,
+          "like_count": 397,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我不是故意出轨的，我只是需要陪伴，但你总是不理我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 448,
+          "like_count": 4571,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2362
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T16:43:34.000Z",
+        "description": "不加v",
+        "id": "1738601198507487232",
+        "name": "Fantay",
+        "pinned_tweet_id": "2070582810612564430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068569995076845568/HcfevrfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 27,
+          "like_count": 4414,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Fantaytut",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078512537952465348",
+    "created_at": "2026-07-18T16:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T17:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078519361107841475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883935469865766912",
+          "start": 0,
+          "username": "qiouqiou0114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078519361107841475",
+    "in_reply_to_user_id": "1883935469865766912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078512537952465348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiouqiou0114 摸摸呀🫳🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078512537952465348",
+        "created_at": "2026-07-18T16:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078519361107841475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883935469865766912",
+              "start": 0,
+              "username": "qiouqiou0114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078519361107841475",
+        "in_reply_to_user_id": "1883935469865766912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078512537952465348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiouqiou0114 摸摸呀🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883935469865766912",
+        "conversation_id": "2078512537952465348",
+        "created_at": "2026-07-18T16:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078512537952465348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078512537952465348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉该去检查身体了，每次有内脏痛到超过我的阈值让我感受到痛肯定是出毛病了呃呃呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 445,
+          "like_count": 4287,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2260
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T17:50:00.000Z",
+        "description": "现使用 @qiouqiou9297 084信徒，有少量割，也有正常，04逐渐大龄，板绘、漆艺、花丝修行中，无性别主义，欢迎扩列交友，但精虫上脑直男勿扰，郁后空洞期中，正在慢慢探寻自己的生存意义，努力活下去，活着就是胜利。。吧？\n有不开心欢迎找我聊天哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "qiouqiou9297"
+              }
+            ]
+          }
+        },
+        "id": "1883935469865766912",
+        "location": "厦门",
+        "name": "qiou",
+        "pinned_tweet_id": "2063676988519505986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883939791844388864/QUH5p0DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 124,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "qiouqiou0114",
+        "verified": false
+      }
+    ]
+  }
+}

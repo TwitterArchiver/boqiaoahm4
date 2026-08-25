@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083533998823977337",
+    "created_at": "2026-08-01T13:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083543886895734796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753310011034660864",
+          "start": 0,
+          "username": "wy6309431084097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083543886895734796",
+    "in_reply_to_user_id": "1753310011034660864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083540333242294366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wy6309431084097 闪光少女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083533998823977337",
+        "created_at": "2026-08-01T13:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083543886895734796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753310011034660864",
+              "start": 0,
+              "username": "wy6309431084097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083543886895734796",
+        "in_reply_to_user_id": "1753310011034660864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083540333242294366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wy6309431084097 闪光少女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753310011034660864",
+        "conversation_id": "2083533998823977337",
+        "created_at": "2026-08-01T13:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083540333242294366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083540333242294366",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083533998823977337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 哪家呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 448,
+          "like_count": 4567,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2360
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T06:51:07.000Z",
+        "description": "嘿嘿",
+        "id": "1753310011034660864",
+        "location": "武汉",
+        "name": "源稚生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003558286163865600/fzZNbM8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 183,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "wy6309431084097",
+        "verified": false
+      }
+    ]
+  }
+}

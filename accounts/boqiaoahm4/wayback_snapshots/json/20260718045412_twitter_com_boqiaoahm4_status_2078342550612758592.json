@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078136963065065472"
+      ],
+      "media_source_tweet_id": [
+        "2078136965481058770"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078342550612758592",
+    "created_at": "2026-07-18T04:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078342550612758592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1942290752241033218",
+          "start": 3,
+          "username": "Kuku71394Kuku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0MC1cjLPkp",
+          "end": 42,
+          "expanded_url": "https://x.com/Kuku71394Kuku/status/2078136965481058770/photo/1",
+          "media_key": "3_2078136963065065472",
+          "start": 19,
+          "url": "https://t.co/0MC1cjLPkp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078342550612758592",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078136965481058770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Kuku71394Kuku: https://t.co/0MC1cjLPkp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_2078136963065065472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcGjrYaMAAhyYb.jpg",
+        "width": 399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078136963065065472"
+          ]
+        },
+        "author_id": "1942290752241033218",
+        "conversation_id": "2078136965481058770",
+        "created_at": "2026-07-17T15:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078136965481058770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MC1cjLPkp",
+              "end": 23,
+              "expanded_url": "https://x.com/Kuku71394Kuku/status/2078136965481058770/photo/1",
+              "media_key": "3_2078136963065065472",
+              "start": 0,
+              "url": "https://t.co/0MC1cjLPkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078136965481058770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 625,
+          "impression_count": 57245,
+          "like_count": 4328,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 331
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/0MC1cjLPkp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078136963065065472"
+          ],
+          "media_source_tweet_id": [
+            "2078136965481058770"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078342550612758592",
+        "created_at": "2026-07-18T04:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078342550612758592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1942290752241033218",
+              "start": 3,
+              "username": "Kuku71394Kuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0MC1cjLPkp",
+              "end": 42,
+              "expanded_url": "https://x.com/Kuku71394Kuku/status/2078136965481058770/photo/1",
+              "media_key": "3_2078136963065065472",
+              "start": 19,
+              "url": "https://t.co/0MC1cjLPkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078342550612758592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078136965481058770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Kuku71394Kuku: https://t.co/0MC1cjLPkp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 447,
+          "like_count": 4199,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T18:33:11.000Z",
+        "description": "不太方便回评论抱歉   我使用机翻\n所有行为只是自娱自乐，低浮上，画自己想画的东西\n因为雷古太可爱了所以感觉一切都很美好\n我就是个画同人的\n让你感觉的不舒服请直接屏蔽我",
+        "id": "1942290752241033218",
+        "name": "嘿嘿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077064154813505536/PuJ0H3t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3401,
+          "following_count": 44,
+          "like_count": 5090,
+          "listed_count": 6,
+          "media_count": 48,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "Kuku71394Kuku",
+        "verified": false
+      }
+    ]
+  }
+}

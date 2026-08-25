@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084231848352456713",
+    "created_at": "2026-08-03T11:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084246090036252753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730251057316737024",
+          "start": 0,
+          "username": "SRamirez66171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084246090036252753",
+    "in_reply_to_user_id": "1730251057316737024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084231848352456713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SRamirez66171 日益壮大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2084231790278103040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOytxUEaUAAuVWM.png",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084231848352456713",
+        "created_at": "2026-08-03T11:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084246090036252753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730251057316737024",
+              "start": 0,
+              "username": "SRamirez66171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084246090036252753",
+        "in_reply_to_user_id": "1730251057316737024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084231848352456713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SRamirez66171 日益壮大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084231790278103040"
+          ]
+        },
+        "author_id": "1730251057316737024",
+        "conversation_id": "2084231848352456713",
+        "created_at": "2026-08-03T10:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084231848352456713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MftuJFqob6",
+              "end": 34,
+              "expanded_url": "https://x.com/SRamirez66171/status/2084231848352456713/photo/1",
+              "media_key": "3_2084231790278103040",
+              "start": 11,
+              "url": "https://t.co/MftuJFqob6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084231848352456713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日推特违禁词已更新 https://t.co/MftuJFqob6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 478,
+          "like_count": 5006,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083454884255297692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 213,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

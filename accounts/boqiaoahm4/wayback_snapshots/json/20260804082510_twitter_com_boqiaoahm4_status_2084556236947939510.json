@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084552652634128472",
+    "created_at": "2026-08-04T08:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084556236947939510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856662470146039808",
+          "start": 0,
+          "username": "misono_sho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084556236947939510",
+    "in_reply_to_user_id": "1856662470146039808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084554744383799380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misono_sho 确实诶我觉得好多冰淇淋蛋糕都是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084552652634128472",
+        "created_at": "2026-08-04T08:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084556236947939510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856662470146039808",
+              "start": 0,
+              "username": "misono_sho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084556236947939510",
+        "in_reply_to_user_id": "1856662470146039808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084554744383799380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misono_sho 确实诶我觉得好多冰淇淋蛋糕都是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856662470146039808",
+        "conversation_id": "2084552652634128472",
+        "created_at": "2026-08-04T08:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084554744383799380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084554744383799380",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084553413501804795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 很可爱的冰淇淋蛋糕，但是我是味觉出问题了吧我尝了每一个味都一毛一样，我的发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 475,
+          "like_count": 5131,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2553
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T11:37:14.000Z",
+        "description": "=笙  试图成为健全逼ing\n日本語は翻訳の方使うので\n変なところ申し訳ありません\nフォロバします\nFF歓迎\nDMいいよ\n累到不是色情消息不想回 \n是色情消息也不一定回的程度了\n無言フォロー・無言いいね失礼いたします",
+        "id": "1856662470146039808",
+        "location": "Japan",
+        "name": "美園笙",
+        "pinned_tweet_id": "2037728140387287240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081492982302429184/qZYGJvA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 129,
+          "like_count": 23810,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1583
+        },
+        "url": "",
+        "username": "misono_sho",
+        "verified": false
+      }
+    ]
+  }
+}

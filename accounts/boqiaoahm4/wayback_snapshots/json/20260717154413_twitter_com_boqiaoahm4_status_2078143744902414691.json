@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078141109772136530",
+    "created_at": "2026-07-17T15:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078143744902414691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164441995298742272",
+          "start": 0,
+          "username": "ligeee0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078143744902414691",
+    "in_reply_to_user_id": "1164441995298742272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078141109772136530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ligeee0 76元无门槛！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078141098602733568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcKUZdbIAADoGd.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078141109772136530",
+        "created_at": "2026-07-17T15:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078143744902414691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164441995298742272",
+              "start": 0,
+              "username": "ligeee0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078143744902414691",
+        "in_reply_to_user_id": "1164441995298742272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078141109772136530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ligeee0 76元无门槛！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078141098602733568"
+          ]
+        },
+        "author_id": "1164441995298742272",
+        "conversation_id": "2078141109772136530",
+        "created_at": "2026-07-17T15:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078141109772136530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTXOk8nmzT",
+              "end": 45,
+              "expanded_url": "https://x.com/ligeee0/status/2078141109772136530/photo/1",
+              "media_key": "3_2078141098602733568",
+              "start": 22,
+              "url": "https://t.co/lTXOk8nmzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078141109772136530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等了一个月的香港直邮卡带果然是假发货哈哈哈 https://t.co/lTXOk8nmzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 450,
+          "like_count": 4146,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2222
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T07:39:50.000Z",
+        "description": "mtx | 无证 | hrt2026.5.12 | 社恐 | pjsk | 单机 steam: 399821423 ns: SW-6027-9776-6595 | 成分复杂 | 不键政 | 同类互fo",
+        "id": "1164441995298742272",
+        "name": "fexc45",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076710620087623683/KPwC6LEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 479,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "ligeee0",
+        "verified": false
+      }
+    ]
+  }
+}

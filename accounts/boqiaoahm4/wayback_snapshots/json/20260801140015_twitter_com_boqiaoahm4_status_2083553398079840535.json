@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083530508563267837",
+    "created_at": "2026-08-01T14:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083553398079840535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "877473366684221440",
+          "start": 0,
+          "username": "083001c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083553398079840535",
+    "in_reply_to_user_id": "877473366684221440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083553063407878266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@083001c1 金币金币"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083530508563267837",
+        "created_at": "2026-08-01T14:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083553398079840535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "877473366684221440",
+              "start": 0,
+              "username": "083001c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083553398079840535",
+        "in_reply_to_user_id": "877473366684221440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083553063407878266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@083001c1 金币金币"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "877473366684221440",
+        "conversation_id": "2083530508563267837",
+        "created_at": "2026-08-01T13:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083553063407878266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083553063407878266",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083530508563267837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 嘎——达～嘎↘达↘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 448,
+          "like_count": 4578,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2367
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-21T10:28:48.000Z",
+        "description": "💊/🔪同类互fo喵(:3っ )っ\nmsk赢了我以后将把x当墙内软件发\n*无法使用私信功能",
+        "id": "877473366684221440",
+        "name": "O seven (3.0卢关寻回中)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083290018194558976/iHyUhoSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 43,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "083001c1",
+        "verified": false
+      }
+    ]
+  }
+}

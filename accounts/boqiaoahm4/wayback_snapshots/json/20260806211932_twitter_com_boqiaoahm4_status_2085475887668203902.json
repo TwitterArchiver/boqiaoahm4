@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085475887668203902",
+    "created_at": "2026-08-06T21:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T22:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085475887668203902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1953859279003561984",
+          "start": 3,
+          "username": "lingyugeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085475887668203902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085414700431655349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingyugeng: 以后恋爱冷暴力我就割，分手我就割，骂我我就割，说我我就割，不理我我就割，不亲我我就割，出门不牵我手我就割割割！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085475887668203902",
+        "created_at": "2026-08-06T21:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T22:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085475887668203902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953859279003561984",
+              "start": 3,
+              "username": "lingyugeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085475887668203902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085414700431655349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingyugeng: 以后恋爱冷暴力我就割，分手我就割，骂我我就割，说我我就割，不理我我就割，不亲我我就割，出门不牵我手我就割割割！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953859279003561984",
+        "conversation_id": "2085414700431655349",
+        "created_at": "2026-08-06T17:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085414700431655349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085414700431655349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后恋爱冷暴力我就割，分手我就割，骂我我就割，说我我就割，不理我我就割，不亲我我就割，出门不牵我手我就割割割！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 508,
+          "like_count": 5596,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 2723
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T16:42:26.000Z",
+        "description": "安徽/男/命比愈美苦三分/交友/线下过🚪88",
+        "id": "1953859279003561984",
+        "name": "泡面和猫",
+        "pinned_tweet_id": "2084255894066565468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078552560940843008/3eFcKlQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 100,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 844
+        },
+        "url": "",
+        "username": "lingyugeng",
+        "verified": false
+      }
+    ]
+  }
+}

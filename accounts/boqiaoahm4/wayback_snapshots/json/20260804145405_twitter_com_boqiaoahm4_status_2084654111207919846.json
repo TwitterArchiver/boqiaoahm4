@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084651449552978207",
+    "created_at": "2026-08-04T14:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084654111207919846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620279272467476481",
+          "start": 0,
+          "username": "jackeynight1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084654111207919846",
+    "in_reply_to_user_id": "1620279272467476481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084653538966458416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackeynight1 它怎么耷拉着脸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2084653500135559168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4tUDta0AAivZW.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084651449552978207",
+        "created_at": "2026-08-04T14:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084654111207919846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620279272467476481",
+              "start": 0,
+              "username": "jackeynight1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084654111207919846",
+        "in_reply_to_user_id": "1620279272467476481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084653538966458416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackeynight1 它怎么耷拉着脸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084653500135559168"
+          ]
+        },
+        "author_id": "1620279272467476481",
+        "conversation_id": "2084651449552978207",
+        "created_at": "2026-08-04T14:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084653538966458416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yv1a5RJwvM",
+              "end": 40,
+              "expanded_url": "https://x.com/jackeynight1/status/2084653538966458416/photo/1",
+              "media_key": "3_2084653500135559168",
+              "start": 17,
+              "url": "https://t.co/yv1a5RJwvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084653538966458416",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084651449552978207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 可爱团子 https://t.co/yv1a5RJwvM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 485,
+          "like_count": 5211,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T04:35:09.000Z",
+        "description": "这个人很懒所以几乎没有留下什么介绍...⭕dm＃惰天使＃od＃自伤 cn夕颜",
+        "id": "1620279272467476481",
+        "location": "❤️你的心里❤️",
+        "name": "夕颜",
+        "pinned_tweet_id": "1861772867106636056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998729382849032194/g1FkyEWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 512,
+          "like_count": 16981,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 9005
+        },
+        "url": "",
+        "username": "jackeynight1",
+        "verified": false
+      }
+    ]
+  }
+}

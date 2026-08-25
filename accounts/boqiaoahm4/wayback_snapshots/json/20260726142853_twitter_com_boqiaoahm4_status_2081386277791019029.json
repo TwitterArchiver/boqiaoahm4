@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2081295493708292419",
+    "created_at": "2026-07-26T14:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081386277791019029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055987687723839488",
+          "start": 0,
+          "username": "okokok333444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081386277791019029",
+    "in_reply_to_user_id": "2055987687723839488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081295493708292419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okokok333444 你去死吧你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2081295493708292419",
+        "created_at": "2026-07-26T14:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081386277791019029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055987687723839488",
+              "start": 0,
+              "username": "okokok333444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081386277791019029",
+        "in_reply_to_user_id": "2055987687723839488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081295493708292419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okokok333444 你去死吧你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055987687723839488",
+        "conversation_id": "2081295493708292419",
+        "created_at": "2026-07-26T08:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081295493708292419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081295493708292419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "检测到被拉黑立刻发一堆司马文案截图装深情⚠️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 446,
+          "like_count": 4317,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:27:00.000Z",
+        "description": "糖逼一个\n@boqiaoahm4\n杯子@zhoushashaff9n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "boqiaoahm4"
+              },
+              {
+                "end": 34,
+                "start": 19,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          }
+        },
+        "id": "2055987687723839488",
+        "name": "火乍玉",
+        "pinned_tweet_id": "2055989929193435641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055989447267864576/Zi8zfiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 118,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "okokok333444",
+        "verified": false
+      }
+    ]
+  }
+}

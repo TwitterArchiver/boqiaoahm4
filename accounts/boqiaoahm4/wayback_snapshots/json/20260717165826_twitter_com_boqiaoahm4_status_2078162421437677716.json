@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078156877255602386",
+    "created_at": "2026-07-17T16:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078162421437677716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856662470146039808",
+          "start": 0,
+          "username": "misono_sho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078162421437677716",
+    "in_reply_to_user_id": "1856662470146039808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078156877255602386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misono_sho 好萌好萌好萌我飞了🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13653,
+        "height": 704,
+        "media_key": "7_2078156867898081280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078156867898081280/pu/img/w-looiCSSn1sD25L.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078156867898081280/pu/vid/avc1/306x270/mrmIgf9_J79SwwOj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078156867898081280/pu/vid/avc1/408x360/QnKwanpyXUUIvRVR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078156867898081280/pu/vid/avc1/800x704/tXRMxKxIvsgpoYDN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078156867898081280/pu/pl/8uCqjPSaq9PHnQJI.m3u8?tag=12"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078156877255602386",
+        "created_at": "2026-07-17T16:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078162421437677716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856662470146039808",
+              "start": 0,
+              "username": "misono_sho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078162421437677716",
+        "in_reply_to_user_id": "1856662470146039808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078156877255602386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misono_sho 好萌好萌好萌我飞了🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078156867898081280"
+          ]
+        },
+        "author_id": "1856662470146039808",
+        "conversation_id": "2078156877255602386",
+        "created_at": "2026-07-17T16:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078156877255602386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3d8OitQMi",
+              "end": 30,
+              "expanded_url": "https://x.com/misono_sho/status/2078156877255602386/video/1",
+              "media_key": "7_2078156867898081280",
+              "start": 7,
+              "url": "https://t.co/G3d8OitQMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078156877255602386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个更萌一点 https://t.co/G3d8OitQMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 450,
+          "like_count": 4154,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2225
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T11:37:14.000Z",
+        "description": "=笙  试图成为健全逼ing\n日本語は翻訳の方使うので\n変なところ申し訳ありません\n互fo欢迎\nDM可以\n精力低，回的慢见谅\n無言フォロー・無言いいね失礼いたします",
+        "id": "1856662470146039808",
+        "location": "Japan",
+        "name": "美園笙",
+        "pinned_tweet_id": "2037728140387287240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071796407099621376/5GGIEVxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 129,
+          "like_count": 20832,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1171
+        },
+        "url": "",
+        "username": "misono_sho",
+        "verified": false
+      }
+    ]
+  }
+}

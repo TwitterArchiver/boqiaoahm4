@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078226904088531044",
+    "created_at": "2026-07-17T21:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T22:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078228535471386727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078228535471386727",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078226904088531044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 完全本人呀…真可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 612,
+        "media_key": "3_2078226898313003008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdYWmSbwAAWi5q.jpg",
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078226904088531044",
+        "created_at": "2026-07-17T21:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T22:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078228535471386727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078228535471386727",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078226904088531044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 完全本人呀…真可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078226898313003008"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2078226904088531044",
+        "created_at": "2026-07-17T21:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T22:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078226904088531044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdcPXm85rF",
+              "end": 47,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2078226904088531044/photo/1",
+              "media_key": "3_2078226898313003008",
+              "start": 24,
+              "url": "https://t.co/BdcPXm85rF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078226904088531044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好朋友画的我😭😭😭😭😭😭好可爱我发出来给大家看 https://t.co/BdcPXm85rF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 448,
+          "like_count": 4193,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2242
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "叫我筷子就可以了(:3っ )っ\nOD丨Vocaloid丨音游丨顺女 LGBTQ+friendly\n不卖药 只看互关私信 我很穷欢迎投喂\n不喜欢的直接b 查成分同类回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "pinned_tweet_id": "2077686522225270845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 767,
+          "like_count": 30047,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 5896
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": true
+      }
+    ]
+  }
+}

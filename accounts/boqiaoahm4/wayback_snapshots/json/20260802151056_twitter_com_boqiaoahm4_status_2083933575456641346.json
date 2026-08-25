@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2083909909096386937",
+    "created_at": "2026-08-02T15:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083933575456641346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888239230020661248",
+          "start": 0,
+          "username": "MEASUREMEN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083933575456641346",
+    "in_reply_to_user_id": "1888239230020661248",
+    "lang": "lt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083932044334403797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEASUREMEN7 sukisukidaisuki"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2083909909096386937",
+        "created_at": "2026-08-02T15:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083933575456641346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083933575456641346",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083932044334403797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 sukisukidaisuki"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2083909909096386937",
+        "created_at": "2026-08-02T15:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083932044334403797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083932044334403797",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083909909096386937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 sukisukidaisuki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 467,
+          "like_count": 4839,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "讨厌自己",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 194,
+          "like_count": 28320,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 5645
+        },
+        "url": "",
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

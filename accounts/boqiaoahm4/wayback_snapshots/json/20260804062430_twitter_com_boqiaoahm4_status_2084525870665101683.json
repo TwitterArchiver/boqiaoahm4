@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084460831950160369",
+    "created_at": "2026-08-04T06:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084525870665101683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084525870665101683",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084525662220734499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 感觉很润"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084460831950160369",
+        "created_at": "2026-08-04T06:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084525870665101683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084525870665101683",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084525662220734499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 感觉很润"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "2084460831950160369",
+        "created_at": "2026-08-04T06:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084525662220734499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084525662220734499",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084524935402377324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 481,
+          "like_count": 5099,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2541
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的公路车手\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\nmaster @8964yekatinez    哦尼酱@silentbleeding1     里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "8964yekatinez"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2079482546564526504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 1600,
+          "like_count": 125275,
+          "listed_count": 8,
+          "media_count": 2179,
+          "tweet_count": 20709
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

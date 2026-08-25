@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050220344603197440"
+      ],
+      "media_source_tweet_id": [
+        "2050220452543693064"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078416491419222352",
+    "created_at": "2026-07-18T09:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078416491419222352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504614847337619458",
+          "start": 3,
+          "username": "andresmiguer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s7rj9RZsYl",
+          "end": 130,
+          "expanded_url": "https://x.com/puppiesDoglover/status/2050220452543693064/video/1",
+          "media_key": "7_2050220344603197440",
+          "start": 107,
+          "url": "https://t.co/s7rj9RZsYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078416491419222352",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2354
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078270632739893396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @andresmiguer: cuando la persona que me gusta me envía fotos de lo que está haciendo sin yo pedírselas  https://t.co/s7rj9RZsYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14907,
+        "height": 480,
+        "media_key": "7_2050220344603197440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050220344603197440/pu/img/GPjVuiO2KoZSdkJA.jpg",
+        "public_metrics": {
+          "view_count": 1845603
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050220344603197440/pu/vid/avc1/320x320/XOXxpr7zvDUyny2h.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050220344603197440/pu/vid/avc1/480x480/fc01sbaSL5FCWZmp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050220344603197440/pu/pl/RFTxJVswjS7Kth79.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050220344603197440"
+          ]
+        },
+        "author_id": "1547066276836585473",
+        "conversation_id": "2050220452543693064",
+        "created_at": "2026-05-01T14:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050220452543693064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8U7A6JNYd",
+              "end": 23,
+              "expanded_url": "https://x.com/puppiesDoglover/status/2050220452543693064/video/1",
+              "media_key": "7_2050220344603197440",
+              "start": 0,
+              "url": "https://t.co/O8U7A6JNYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050220452543693064",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2203,
+          "impression_count": 1754064,
+          "like_count": 20429,
+          "quote_count": 174,
+          "reply_count": 57,
+          "retweet_count": 2434
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O8U7A6JNYd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050220344603197440"
+          ],
+          "media_source_tweet_id": [
+            "2050220452543693064"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078416491419222352",
+        "created_at": "2026-07-18T09:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078416491419222352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504614847337619458",
+              "start": 3,
+              "username": "andresmiguer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7rj9RZsYl",
+              "end": 130,
+              "expanded_url": "https://x.com/puppiesDoglover/status/2050220452543693064/video/1",
+              "media_key": "7_2050220344603197440",
+              "start": 107,
+              "url": "https://t.co/s7rj9RZsYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078416491419222352",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2354
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078270632739893396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @andresmiguer: cuando la persona que me gusta me envía fotos de lo que está haciendo sin yo pedírselas  https://t.co/s7rj9RZsYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050220344603197440"
+          ],
+          "media_source_tweet_id": [
+            "2050220452543693064"
+          ]
+        },
+        "author_id": "1504614847337619458",
+        "conversation_id": "2078270632739893396",
+        "created_at": "2026-07-18T00:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078270632739893396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7rj9RZsYl",
+              "end": 112,
+              "expanded_url": "https://x.com/puppiesDoglover/status/2050220452543693064/video/1",
+              "media_key": "7_2050220344603197440",
+              "start": 89,
+              "url": "https://t.co/s7rj9RZsYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078270632739893396",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 976,
+          "impression_count": 138351,
+          "like_count": 17600,
+          "quote_count": 106,
+          "reply_count": 12,
+          "retweet_count": 2354
+        },
+        "reply_settings": "everyone",
+        "text": "cuando la persona que me gusta me envía fotos de lo que está haciendo sin yo pedírselas  https://t.co/s7rj9RZsYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 447,
+          "like_count": 4237,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T00:25:25.000Z",
+        "description": "no te lo tomes personal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/andresmiguer?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/andresmiguer?igsh=MTFmMThyaTV5eGNqMQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/6Wz0ssVJf9"
+              }
+            ]
+          }
+        },
+        "id": "1504614847337619458",
+        "name": "andrés",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072172140875415552/uOTO1nMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6931,
+          "following_count": 430,
+          "like_count": 83946,
+          "listed_count": 7,
+          "media_count": 2892,
+          "tweet_count": 9301
+        },
+        "url": "https://t.co/6Wz0ssVJf9",
+        "username": "andresmiguer",
+        "verified": false
+      }
+    ]
+  }
+}

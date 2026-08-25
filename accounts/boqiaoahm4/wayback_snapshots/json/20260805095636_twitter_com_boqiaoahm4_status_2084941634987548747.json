@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084932681805246464"
+      ],
+      "media_source_tweet_id": [
+        "2084932688541360352"
+      ]
+    },
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084941634987548747",
+    "created_at": "2026-08-05T09:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084941634987548747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041095876417122305",
+          "start": 3,
+          "username": "Yihuiam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FdIjDAGoaW",
+          "end": 36,
+          "expanded_url": "https://x.com/Yihuiam/status/2084932688541360352/photo/1",
+          "media_key": "3_2084932681805246464",
+          "start": 13,
+          "url": "https://t.co/FdIjDAGoaW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084941634987548747",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084932688541360352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yihuiam: https://t.co/FdIjDAGoaW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_2084932681805246464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8rOkeasAAxCgP.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084932681805246464"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2084932688541360352",
+        "created_at": "2026-08-05T09:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084932688541360352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdIjDAGoaW",
+              "end": 23,
+              "expanded_url": "https://x.com/Yihuiam/status/2084932688541360352/photo/1",
+              "media_key": "3_2084932681805246464",
+              "start": 0,
+              "url": "https://t.co/FdIjDAGoaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084932688541360352",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FdIjDAGoaW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084932681805246464"
+          ],
+          "media_source_tweet_id": [
+            "2084932688541360352"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084941634987548747",
+        "created_at": "2026-08-05T09:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084941634987548747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041095876417122305",
+              "start": 3,
+              "username": "Yihuiam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdIjDAGoaW",
+              "end": 36,
+              "expanded_url": "https://x.com/Yihuiam/status/2084932688541360352/photo/1",
+              "media_key": "3_2084932681805246464",
+              "start": 13,
+              "url": "https://t.co/FdIjDAGoaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084941634987548747",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084932688541360352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yihuiam: https://t.co/FdIjDAGoaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 484,
+          "like_count": 5321,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2623
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐/影视\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "Ichito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 963,
+          "like_count": 6409,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

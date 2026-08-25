@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2085374634028097591",
+    "created_at": "2026-08-06T19:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T20:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085441924295717044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085441924295717044",
+    "in_reply_to_user_id": "2057425772198215680",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085374634028097591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6N7Z-38X1-BQR3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085374634028097591",
+        "created_at": "2026-08-06T19:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085441924295717044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085441924295717044",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085374634028097591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6N7Z-38X1-BQR3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2085374634028097591",
+        "created_at": "2026-08-06T14:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085374634028097591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "炸玉/二代目’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qKDz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qKDzzNWOYwJV",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2085374676377948160/esUDXzKN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085374676377948160/esUDXzKN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 你想要聊些什么？",
+              "unwound_url": "https://twitter.com/i/spaces/1qKDzzNWOYwJV/peek",
+              "url": "https://t.co/SWzaRY7app"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085374634028097591",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SWzaRY7app"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 509,
+          "like_count": 5575,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 2717
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

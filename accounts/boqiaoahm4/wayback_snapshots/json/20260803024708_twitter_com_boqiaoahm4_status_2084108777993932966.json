@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2084025347285430543",
+    "created_at": "2026-08-03T02:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084108777993932966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2082124926375649280",
+          "start": 0,
+          "username": "Yuki281331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084108777993932966",
+    "in_reply_to_user_id": "2082124926375649280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084046088290386300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki281331 这波神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2084025347285430543",
+        "created_at": "2026-08-03T02:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084108777993932966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2082124926375649280",
+              "start": 0,
+              "username": "Yuki281331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084108777993932966",
+        "in_reply_to_user_id": "2082124926375649280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084046088290386300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki281331 这波神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082124926375649280",
+        "conversation_id": "2084025347285430543",
+        "created_at": "2026-08-02T22:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084046088290386300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084046088290386300",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084025347285430543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 箱子出金了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "yuzhazha69"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4MvhvOiq"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 475,
+          "like_count": 4905,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2471
+        },
+        "url": "https://t.co/Al4MvhvOiq",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n会慢慢回fo，怕频繁被ban\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "pinned_tweet_id": "2083472052636594342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 184,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

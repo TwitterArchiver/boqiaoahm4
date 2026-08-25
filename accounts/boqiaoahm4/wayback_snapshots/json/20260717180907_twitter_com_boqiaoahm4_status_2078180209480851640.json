@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057425772198215680",
+    "conversation_id": "2078180209480851640",
+    "created_at": "2026-07-17T18:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078180209480851640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2028045241388068864",
+          "start": 3,
+          "username": "Warmkiss33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078180209480851640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077887630470226044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Warmkiss33: 玩吮吸玩具的时候把拒绝过我的帅哥照片放在腿中间让他给我舔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2078180209480851640",
+        "created_at": "2026-07-17T18:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078180209480851640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2028045241388068864",
+              "start": 3,
+              "username": "Warmkiss33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078180209480851640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077887630470226044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Warmkiss33: 玩吮吸玩具的时候把拒绝过我的帅哥照片放在腿中间让他给我舔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028045241388068864",
+        "conversation_id": "2077887630470226044",
+        "created_at": "2026-07-16T22:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077887630470226044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077887630470226044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 160408,
+          "like_count": 1291,
+          "quote_count": 17,
+          "reply_count": 304,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "玩吮吸玩具的时候把拒绝过我的帅哥照片放在腿中间让他给我舔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "okokok333444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 0,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "location": "你低头看看",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 450,
+          "like_count": 4177,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2231
+        },
+        "url": "https://t.co/Al4Mvhwm7Y",
+        "username": "boqiaoahm4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T09:58:04.000Z",
+        "description": "双性恋\n我只是在自言自语\n📭https://t.co/9kju6SoFED",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkk28835",
+                "end": 37,
+                "expanded_url": "https://ngl.link/kkk28835",
+                "start": 14,
+                "url": "https://t.co/9kju6SoFED"
+              }
+            ]
+          }
+        },
+        "id": "2028045241388068864",
+        "name": "kkk",
+        "pinned_tweet_id": "2067563249898512784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056097271268495360/z763KLDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 56,
+          "like_count": 924,
+          "listed_count": 5,
+          "media_count": 77,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "Warmkiss33",
+        "verified": false
+      }
+    ]
+  }
+}
