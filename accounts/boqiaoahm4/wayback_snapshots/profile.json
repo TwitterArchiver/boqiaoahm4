@@ -1,7 +1,7 @@
 {
   "name": "炸玉/二代目",
   "username": "@boqiaoahm4",
-  "bio": "薄巧/炸玉 \n防炸@okokok333444\n查成分回fo",
+  "bio": "薄巧/炸玉 \n防炸@yuzhazha69\n我母@zhoushashaff9n\n查成分回fo",
   "location": "你低头看看",
   "link": "https://ngl.link/boboboqiao",
   "avatar": "avatar/avatar.jpg",
@@ -10,9 +10,14 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 22,
+        "end": 20,
         "start": 9,
-        "username": "okokok333444"
+        "username": "yuzhazha69"
+      },
+      {
+        "end": 38,
+        "start": 23,
+        "username": "zhoushashaff9n"
       }
     ]
   },
